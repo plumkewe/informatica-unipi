@@ -667,7 +667,7 @@ E-Learning è un portale che raccoglie siti per diversi corsi, nel senso che un 
 
 Sono ormai diversi i professori che lo utilizzano e la lista si trova a questo indirizzo: https://elearning.di.unipi.it/course/index.php
 
-## Non ufficiale
+## Non ufficiali
 
 ### Gruppo Telegram
 
@@ -675,7 +675,7 @@ Il gruppo Telegram è un canale non ufficiale ma molto attivo dove studenti e st
 
 Non è un canale ufficiale dell’ateneo, quindi per informazioni certe è sempre meglio consultare i siti istituzionali, ma può essere un ottimo supporto extra per restare in contatto con la community!
 
-**Link:**** https://t.me/+7oZznQ_DEUk0ODNk
+**Link:** https://t.me/+7oZznQ_DEUk0ODNk
 
 <!--  -->
 <!--  -->
