@@ -1,0 +1,124 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+
+% ----  Useful packages % ---- 
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{makecell}
+% ----  Useful packages % ---- 
+
+\usepackage{wrapfig}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+\graphicspath{ {./images/} }
+
+% ---- Set page size and margins replace ------
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+% ---- Set page size and margins replace ------
+
+% ------- NOTA ------
+\theoremstyle{remark}
+\newtheorem{note}{Note}[subsection]
+% ------- NOTA ------
+
+% ------- OSSERVAZIONE ------
+\theoremstyle{definition}
+\newtheorem{observation}{Osservazione}[subsection]
+% ------- OSSERVAZIONE ------
+
+% ------- DEFINIZIONE ------
+\theoremstyle{plain}
+\newtheorem{definition}{Definizione}[subsection]
+% ------- DEFINIZIONE ------
+
+% ------- ESEMPIO ------
+\theoremstyle{definition}
+\newtheorem{example}{Esempio}[subsection]
+% ------- ESEMPIO ------
+
+% ------- DIMOSTRAZIONE ------
+\theoremstyle{definition}
+\newtheorem{demostration}{Dimotrazione}[subsection]
+% ------- DIMOSTRAZIONE ------
+
+% ------- TEOREMA ------
+\theoremstyle{definition}
+\newtheorem{theorem}{Teorema}[subsection]
+% ------- TEOREMA ------
+
+% ------- COROLLARIO ------
+\theoremstyle{plain}
+\newtheorem{corollaries}{Corollario}[theorem]
+% ------- COROLLARIO ------
+
+% ------- PROPOSIZIONE ------
+\theoremstyle{plain}
+\newtheorem{proposition}{Proposizione}[subsection]
+% ------- PROPOSIZIONE ------
+
+% ---- Footer and header ---- 
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{A.A 2022-2023}
+\fancyhead[RE,LO]{Analisi Matematica}
+\fancyfoot[RE,LO]{\rightmark}
+\fancyfoot[LE,RO]{\thepage}
+
+\renewcommand{\headrulewidth}{.5pt}
+\renewcommand{\footrulewidth}{.5pt}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+% ---- Footer and header ---- 
+
+% ----  Language setting ---- 
+\usepackage[italian, english]{babel}
+% ----  Language setting ---- 
+
+\title{\textbf{Analisi Matematica}}
+\author{Realizzato da: Giuntoni Matteo e Ghirardini FIlippo}
+\date{A.A. 2022-2023}
+
+\begin{document}
+\input{frontespizio}
+
+\tableofcontents
+\newpage
+\maketitle
+\begin{center}
+    \vspace{-20pt}
+    \rule{11cm}{.1pt} 
+\end{center}
+
+\input{introduzione}
+\input{funzioni}
+\input{massimi-minimi}
+\input{valore-assoluto}
+\input{continuità}
+\input{limiti}
+\input{infinitesimi}
+\input{asintoti}
+\input{derivate}
+\input{taylor}
+\input{convessità}
+\input{integrali}
+\input{successioni}
+\input{serie}
+\input{più-variabili}
+\input{limiti-più-variabili}
+\input{calcolo-differenziale-più-variabili}
+\input{max-min-più-variabili}
+\input{cheatsheet}
+\end{document}
