@@ -1,0 +1,99 @@
+% !TeX spellcheck = it_IT
+\newpage
+\section{Autovalori}
+\begin{definition}[Autovalori]
+	Sia $V$ uno spazio vettoriale su $\mathbb{R}$ ($dim(V) < \infty$) e $\phi: V \to V$. $\lambda \in \mathbb{R}$ è \textbf{autovalore} di $\phi$ se $\exists v \neq 0$ in $V$ tale che $\phi(V) = \lambda \cdot v$. In questo caso $v$ è \textbf{autovettore} di $\phi$ (associato a $\lambda$).
+\end{definition}
+\begin{observation}
+	Alcune osservazioni su questa definizione:
+	\begin{enumerate}
+		\item $v$ può essere autovettore per un solo $\lambda$. Infatti, se $\begin{cases}
+			\phi(v)=\lambda_{1} \cdot v \\
+			\phi(v)=\lambda_{2} \cdot v
+		\end{cases} \Longrightarrow (\lambda_{1} - \lambda_{2}) \cdot v = 0 \Longrightarrow \lambda_{1} = \lambda_{2}$
+		\item In generale ci sono molti autovettori associati allo stesso $\lambda$
+	\end{enumerate}
+\end{observation}
+
+\begin{definition}[Diagonalizzabile]
+	$\phi$ è \textbf{diagonalizzabile} se $\exists$ base $B$ tale che $[\phi]^B_B$ è una matrice \textbf{diagonale}.
+\end{definition}
+
+\begin{proposition}
+	$\phi$ è diagonalizzabile se e solo se $V$ ammette una base costituita da autovettori di $\phi$. \\
+\end{proposition}
+
+\begin{example}
+	Se $\phi: \mathbb{R}^2 \to \mathbb{R}^2$, $v \mapsto A \cdot v$  dove $A = \begin{bmatrix}
+		1 & 1 \\
+		0  &1
+	\end{bmatrix}$ $\Longrightarrow$ $\phi$ non è diagonalizzabile.  
+\end{example}
+
+\begin{proposition}
+	Sia $\lambda$ autovalore di $\phi$, $v$ autovettori associati a $\lambda$, insieme a $0$, formano un sottospazio di $V$.
+\end{proposition}
+
+\begin{proposition}
+	Se $\lambda_{1}, \ldots, \lambda_{r}$ sono autovettori \textbf{distinti} di $\phi$ ($\lambda_{1} \neq \lambda_j$, $i \neq j$)
+	\begin{equation*}
+		\begin{rcases}
+			v_1 \text{ autovettore per } \lambda_{1} \\
+			\vdots \\
+			v_r \text{ autovettore per } \lambda_{r} \\
+		\end{rcases} \Longrightarrow v_1, \ldots, v_r \text{ sono linearmente indipendenti}
+	\end{equation*}
+\end{proposition}
+
+\begin{corollary}Valgono i seguenti punti:
+	\begin{enumerate}
+		\item Ci sono solo un numero finito di autovalori distinti di $\phi$, infatti sono $\leq dim(V)$
+		\item $\phi$ è \textbf{diagonalizzabile} $\Longleftrightarrow$ $\lambda_1, \ldots, \lambda_r$ sono gli autovalori di $\phi$, $dim(V_{\lambda_{1}}) + \ldots + dim(V_{\lambda_r}) = dim(V)$
+		\item Se $\phi$ ammette $n = dim(V)$ autovalori distinti, allora $\phi$ è diagonalizzabile
+ 	\end{enumerate}
+\end{corollary}
+
+\begin{definition}[Polinomio caratteristico]
+	Il polinomio caratteristico di $A$ è:
+	\begin{equation*}
+		P_A(t) := det(A-t \cdot i)
+	\end{equation*}
+	dove $\lambda$ è autovalore per $A$ $\Longleftrightarrow$ $\lambda$ è radice di $P_A(t)$.
+\end{definition}
+
+\begin{observation}
+	$P_A(t)$ non dipende da $A_{ij}$ ma dipende solo da $\phi'$. Infatti, se $B$ è la matrice di $\phi$ rispetto ad un'altra base, sappiamo:
+	\begin{equation*}
+		B = P \cdot A \cdot P^{-1}
+	\end{equation*}
+\end{observation}
+
+\subsection{Richiami sui polinomi}
+Un polinomio su $\mathbb{R}[x]$ è della forma $a_nX^n + a_{n-1}x^{n-1}+\ldots+a_1 x + a_0$ se $a_n \neq 0$, $n = deg(f)$ il grado di $f$. $a \in \mathbb{R}$ è radice di $f$ se $f(a) = 0$.
+\begin{proposition}
+	Se $f \neq 0$, $a$ radice di $f$ $\Longrightarrow$ $f = (x-a)g$ dove $deg(g) = deg(f)-1$.
+\end{proposition}
+\begin{corollary}
+	Si può scrivere $f=(x-a)^m h$, dove $h(a) \neq 0$. $m$ è la molteplicità della radice $a$.
+\end{corollary}
+
+\subsection{Molteplicità}
+\begin{definition}
+	Sia $\phi: V \to V$ un'applicazione lineare con $dim(V)=n$, $A$ matrice di $\phi$ rispetto ad ua base e $\lambda$ un autovalore di $\phi$:
+	\begin{itemize}
+		\item La \textbf{molteplicità algebrica} di $\lambda$ è la sua molteplicità come radice di $P_A(t)$
+		\item La \textbf{molteplicità geometrica} di $\lambda$ è la dimensione dell'autospazio $V_\lambda$ di $\lambda$.
+	\end{itemize}
+\end{definition}
+
+\begin{theorem}
+	La molteplicità algebrica di $\lambda$ è $\geq$ della molteplicità geometrica di $\lambda$.
+\end{theorem}
+
+\begin{corollary}
+	$\phi$ è diagonalizzabile se e solo se la somma della molteplicità algebriche degli autovalori è un per tutti gli autovalori $\lambda$:
+	\begin{equation*}
+			\text{molt. alg. }(\lambda) = \text{ molt. geom. }(\lambda)
+	\end{equation*}
+	Si osserva inoltre che molt. geom. $(\lambda) \geq 1$. Quindi se molt. alg. $(\lambda) = 1 \Longrightarrow $ molt. geom. $(\lambda) = $ molt. alg. $(\lambda) = 1$.
+\end{corollary}

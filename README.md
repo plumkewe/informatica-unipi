@@ -14,6 +14,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 [<img src="https://wsrv.nl/?url=github.com/filoghira.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="filoghira" />](https://github.com/filoghira)
 [<img src="https://wsrv.nl/?url=github.com/plumkewe.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="plumkewe" />](https://github.com/plumkewe)
 [<img src="https://wsrv.nl/?url=github.com/Pitasi.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Pitasi" />](https://github.com/Pitasi)
+[<img src="https://wsrv.nl/?url=github.com/Guray00.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Guray00" />](https://github.com/Guray00)
 
 <!--  -->
 <!--  -->
@@ -22,6 +23,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 ## Indice
 
 * [Panoramica](#panoramica)
+	* [Appelli](#appelli)
 * [Consigli](#consigli)
 	* [Generali per le matricole](generali-per-le-matricole)
 	* [Strategie per superare gli esami](strategie-per-superare-gli-esami)
@@ -243,6 +245,55 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 	</tbody>
 </table>
 
+> [!NOTE]
+> Per le pagine si intendono gli appunti di [Matteo Giuntoni](https://github.com/bigmat18), studente.
+
+<!--  -->
+<!--  -->
+<!--  -->
+
+### Appelli
+
+<p align="right">(<a href="#indice">indice</a>)</p>
+
+[Calendario](https://didattica.di.unipi.it/laurea-in-informatica/calendario-lezioni-ed-esami-aa-2025-2026/)
+
+#### Ordinari
+
+<table>
+	<tr>
+		<th>APPELLO</th>
+		<th>DA</th>
+		<th>A</th>
+	</tr>
+	<tr>
+		<td>I</td>
+		<td>12/12/2025</td>
+		<td>19/12/2025</td>
+	</tr>
+	<tr>
+		<td>II</td>
+		<td>7/1/2026</td>
+		<td>23/1/2026</td>
+	</tr>
+	<tr>
+		<td>III</td>
+		<td rowspan="3">4/5/2026</td>
+		<td rowspan="3">31/7/2026</td>
+	</tr>
+	<tr>
+		<td>IV</td>
+	</tr>
+	<tr>
+		<td>V</td>
+	</tr>
+	<tr>
+		<td>VI</td>
+		<td>1/9/2026</td>
+		<td>13/9/2026</td>
+	</tr>
+</table>
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -341,23 +392,27 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 <!-- 			* Scritto -->
 <!-- 			* Orale -->
 
+Sono inoltre disponibili gli appunti di tre professori: [Gobbino](primo-anno/algebra%20lineare/appunti/massimo-gobbino/), [Pearlstein](primo-anno/algebra%20lineare/appunti/gregory-pearlstein/), e [Szamuely](primo-anno/algebra%20lineare/appunti/tamas-szamuely/).
+
+Sono disponibili anche [altre dispense](primo-anno/algebra%20lineare/appunti/altro/), con esami passati, esercizi, pretest, e simulazioni.
+
 <pre style="font-family: monospace;">
 ├── algebra lineare/
 │   ├── appunti/
-│   │ 	├── <a href="primo-anno/algebra%20lineare/appunti/0-tutto.pdf">0-tutto.pdf</a> (29 pagine)
-│   │ 	├── <a href="primo-anno/algebra%20lineare/appunti/1-introduzione.pdf">1 Introduzione</a> (3 pagine)
+│   │ 	├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/0-tutto.pdf">0-tutto.pdf</a> (29 pagine)
+│   │ 	├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/1-introduzione.pdf">1 Introduzione</a> (3 pagine)
 │   │ 	│   ├── 1.1 Sistemi di equazioni
 │   │ 	│   ├── 1.2 Interpretazione geometrica
 │   │ 	│   ├── 1.3 Equazioni a 3 variabili
 │   │ 	│   ├── 1.4 Caso generale
 │   │ 	│   ├── 1.5 Interpretazione geometrica caso generico
 │   │ 	│   └── 1.6 Come trovare le soluzioni?
-│   │ 	├── <a href="primo-anno/algebra%20lineare/appunti/2-algoritmo-di-gauss.pdf">2 Algoritmo di Gauss</a> (4 pagine)
+│   │ 	├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/2-algoritmo-di-gauss.pdf">2 Algoritmo di Gauss</a> (4 pagine)
 │   │ 	│   ├── 2.1 Matrice a scalini
 │   │ 	│   ├── 2.2 Algoritmo in un sistema omogeneo
 │   │ 	│   ├── 2.3 Algoritmo in un sistema non omogeneo
 │   │ 	│   └── 2.4 Algoritmo di Gauss-Jordan
-│   │ 	├── <a href="primo-anno/algebra%20lineare/appunti/3-spazi-vettoriali.pdf">3 Spazi vettoriali</a> (12 pagine)
+│   │ 	├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/3-spazi-vettoriali.pdf">3 Spazi vettoriali</a> (12 pagine)
 │   │ 	│   ├── 3.1 Spazio n-dimensionale
 │   │ 	│   ├── 3.2 Operazioni
 │   │ 	│   ├── 3.3 Spazio vettoriale
@@ -370,24 +425,24 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   ├── 3.8 Base di un sistema lineare
 │   │ 	│   ├── 3.9 Dimensione spazio vettoriale
 │   │ 	│   └── 3.10 Formula di Grassman
-│   │ 	├── <a href="primo-anno/algebra%20lineare/appunti/4-applicazione-lineare.pdf">4 Applicazione lineare</a> (4 pagine)
+│   │ 	├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/4-applicazione-lineare.pdf">4 Applicazione lineare</a> (4 pagine)
 │   │ 	│   └── 4.1 Nucleo e immagine
-│   │ 	├── <a href="primo-anno/algebra%20lineare/appunti/5-determinante.pdf">5 Determinante</a> (2 pagine)
-│   │ 	└── <a href="primo-anno/algebra%20lineare/appunti/6-autovalori.pdf">6 Autovalori</a> (2 pagine)
+│   │ 	├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/5-determinante.pdf">5 Determinante</a> (2 pagine)
+│   │ 	└── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/6-autovalori.pdf">6 Autovalori</a> (2 pagine)
 │   │ 	    ├── 6.1 Richiami sui polinomi
 │   │ 	    └── 6.2 Molteplicità
 │   └── esercizio/
-│       ├── <a href="primo-anno/algebra%20lineare/esercizio/2021.12.pdf">2021.12.pdf</a> (4 pagine)
-│       ├── <a href="primo-anno/algebra%20lineare/esercizio/AL%20-%20Take%20Home%201%20soluz-1.pdf">AL - Take Home 1 soluz-1.pdf</a> (15 pagine)
-│       ├── <a href="primo-anno/algebra%20lineare/esercizio/AL18jan2022.pdf">AL18jan2022.pdf</a> (4 pagine)
-│       ├── <a href="primo-anno/algebra%20lineare/esercizio/book-exercises.pdf">book-exercises.pdf</a> (74 pagine)
+│       ├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/esercizio/2021.12.pdf">2021.12.pdf</a> (4 pagine)
+│       ├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/esercizio/AL%20-%20Take%20Home%201%20soluz-1.pdf">AL - Take Home 1 soluz-1.pdf</a> (15 pagine)
+│       ├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/esercizio/AL18jan2022.pdf">AL18jan2022.pdf</a> (4 pagine)
+│       ├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/esercizio/book-exercises.pdf">book-exercises.pdf</a> (74 pagine)
 │       ├── compito/
 │       │   └── 2022-05/
-│       ├── <a href="primo-anno/algebra%20lineare/esercizio/hw2021-04.pdf">hw2021-04.pdf</a> (1 pagine)
-│       ├── <a href="primo-anno/algebra%20lineare/esercizio/hw2022-01.pdf">hw2022-01.pdf</a> (1 pagine)
-│       ├── <a href="primo-anno/algebra%20lineare/esercizio/hw2022-02.pdf">hw2022-02.pdf</a> (1 pagine)
-│       ├── <a href="primo-anno/algebra%20lineare/esercizio/TakeHome1_AL_21_22.pdf">TakeHome1_AL_21_22.pdf</a> (4 pagine)
-│       └── <a href="primo-anno/algebra%20lineare/esercizio/TakeHome1_AL_21_22_valutazione.pdf">TakeHome1_AL_21_22_valutazione.pdf</a> (1 pagine)
+│       ├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/esercizio/hw2021-04.pdf">hw2021-04.pdf</a> (1 pagine)
+│       ├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/esercizio/hw2022-01.pdf">hw2022-01.pdf</a> (1 pagine)
+│       ├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/esercizio/hw2022-02.pdf">hw2022-02.pdf</a> (1 pagine)
+│       ├── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/esercizio/TakeHome1_AL_21_22.pdf">TakeHome1_AL_21_22.pdf</a> (4 pagine)
+│       └── <a href="primo-anno/algebra%20lineare/appunti/matteo-giuntoni/esercizio/TakeHome1_AL_21_22_valutazione.pdf">TakeHome1_AL_21_22_valutazione.pdf</a> (1 pagine)
 </pre>
 
 ### Analisi matematica
@@ -416,15 +471,19 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 <!-- 		* Scritto -->
 <!-- 		* Orale -->
 
+Sono inoltre disponibili gli appunti del professor [Gobbino](primo-anno/analisi%20matematica/appunti/massimo-gobbino).
+
+Sono presenti anche alcuni [esami precedenti](primo-anno/analisi%20matematica/esami).
+
 <pre style="font-family: monospace;">
 ├── analisi matematica/
 │   ├── appunti/
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/0-tutto.pdf">0-tutto.pdf</a> (130 pagine)
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/1-introduzione.pdf">1 Introduzione</a> (2 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/0-tutto.pdf">0-tutto.pdf</a> (130 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/1-introduzione.pdf">1 Introduzione</a> (2 pagine)
 │   │ 	│   ├── 1.1 Insiemi Numerici
 │   │ 	│   ├── 1.2 Intervalli
 │   │ 	│   └── 1.3 Notazione
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/2-funzioni.pdf">2 Funzioni</a> (13 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/2-funzioni.pdf">2 Funzioni</a> (13 pagine)
 │   │ 	│   ├── 2.1 Grafico
 │   │ 	│   ├── 2.2 Immagine
 │   │ 	│   ├── 2.3 Suriettiva
@@ -445,7 +504,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│       ├── 2.11.6 Seno e Arcoseno
 │   │ 	│       ├── 2.11.7 Coseno e Arcocoseno
 │   │ 	│       └── 2.11.8 Tangente e Arcotangente
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/3-massimi-e-minimi.pdf">3 Massimi e minimi</a> (5 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/3-massimi-e-minimi.pdf">3 Massimi e minimi</a> (5 pagine)
 │   │ 	│   ├── 3.1 Massimo e minimo intervalli
 │   │ 	│   ├── 3.2 Maggiorante e minorante intervalli
 │   │ 	│   ├── 3.3 Intervallo limitato
@@ -455,11 +514,11 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   ├── 3.5 Parte intera di un numero
 │   │ 	│   │   └── 3.5.1 Grafico di f(x)=[x]
 │   │ 	│   └── 3.6 Limiti, massimi e minimi su funzioni
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/4-valore-assoluto.pdf">4 Valore assoluto</a> (2 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/4-valore-assoluto.pdf">4 Valore assoluto</a> (2 pagine)
 │   │ 	│   ├── 4.1 Proprietà valore assoluto
 │   │ 	│   │   └── 4.1.1 Spiegazioni proprietà
 │   │ 	│   └── 4.2 Disuguaglianza triangolare
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/5-continuità.pdf">5 Continuità</a> (4 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/5-continuità.pdf">5 Continuità</a> (4 pagine)
 │   │ 	│   ├── 5.1 Permanenza del segno
 │   │ 	│   ├── 5.2 Continuità con operazioni fra funzioni
 │   │ 	│   ├── 5.3 Funzioni invertibili e continuità
@@ -468,7 +527,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   ├── 5.6 Teorema degli zeri
 │   │ 	│   ├── 5.7 Teorema valori intermedi
 │   │ 	│   └── 5.8 Teorema di Weirstrass
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/6-limiti.pdf">6 Limiti</a> (11 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/6-limiti.pdf">6 Limiti</a> (11 pagine)
 │   │ 	│   ├── 6.1 Intorni
 │   │ 	│   │   └── 6.1.1 Minimi e massimi locali
 │   │ 	│   ├── 6.2 I limiti
@@ -491,16 +550,16 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   │   └── 6.14.5 Logaritmi e potenze
 │   │ 	│   ├── 6.15 Limite della composizione di funzioni
 │   │ 	│   └── 6.16 Teorema di Weirstrass generalizzato
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/7-infinitesimi.pdf">7 Infinitesimi</a> (3 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/7-infinitesimi.pdf">7 Infinitesimi</a> (3 pagine)
 │   │ 	│   ├── 7.1 O-piccolo
 │   │ 	│   ├── 7.2 Proprietà o-piccolo
 │   │ 	│   ├── 7.3 Sviluppi al primo ordine
 │   │ 	│   └── 7.4 O-grande
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/8-asintoti.pdf">8 Asintoti</a> (2 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/8-asintoti.pdf">8 Asintoti</a> (2 pagine)
 │   │ 	│   ├── 8.1 Asintoto orizzontale
 │   │ 	│   ├── 8.2 Asintoto verticale
 │   │ 	│   └── 8.3 Asintoto obliquo
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/9-derivate.pdf">9 Derivate</a> (8 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/9-derivate.pdf">9 Derivate</a> (8 pagine)
 │   │ 	│   ├── 9.1 Continuità funzioni derivabili
 │   │ 	│   ├── 9.2 Derivata destra e sinistra
 │   │ 	│   ├── 9.3 Punto angoloso o di cuspide
@@ -515,7 +574,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   │   └── 9.10.1 Conseguenze del teorema di Lagrange
 │   │ 	│   ├── 9.11 Teorema di Cauchy
 │   │ 	│   └── 9.12 Teorema di de l’Hopital
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/10-sviluppi-di-taylor.pdf">10 Sviluppi di Taylor</a> (4 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/10-sviluppi-di-taylor.pdf">10 Sviluppi di Taylor</a> (4 pagine)
 │   │ 	│   ├── 10.1 Fattoriale
 │   │ 	│   ├── 10.2 Sommatorie
 │   │ 	│   ├── 10.3 Formula di Taylor
@@ -524,16 +583,16 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   │   └── 10.3.3 Esempi di formula di Taylor
 │   │ 	│   ├── 10.4 Taylor per le funzioni elementari
 │   │ 	│   └── 10.5 Utilizzo di Taylor nei limiti
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/11-convessità.pdf">11 Convessità</a> (4 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/11-convessità.pdf">11 Convessità</a> (4 pagine)
 │   │ 	│   ├── 11.1 Funzione convessa
 │   │ 	│   ├── 11.2 Funzione concava
 │   │ 	│   ├── 11.3 Calcolo della convessità
 │   │ 	│   ├── 11.4 Interpretazione geometrica
 │   │ 	│   └── 11.5 Flessi
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/12-studio-di-funzione.pdf">12 Studio di funzione</a> (2 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/12-studio-di-funzione.pdf">12 Studio di funzione</a> (2 pagine)
 │   │ 	│   ├── 12.1 Punti da seguire
 │   │ 	│   └── 12.2 Esempio studio di funzione
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/13-integrali.pdf">13 Integrali</a> (14 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/13-integrali.pdf">13 Integrali</a> (14 pagine)
 │   │ 	│   ├── 13.1 Calcolo degli integrali
 │   │ 	│   ├── 13.2 Media Integrabile
 │   │ 	│   ├── 13.3 Formule per integrali indefiniti
@@ -552,7 +611,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│       ├── 13.10.3 Criterio dell’assoluta convergenza
 │   │ 	│       ├── 13.10.4 Integrali impropri ricorrenti
 │   │ 	│       └── 13.10.5 Esempi riassuntivi
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/14-successioni.pdf">14 Successioni</a> (7 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/14-successioni.pdf">14 Successioni</a> (7 pagine)
 │   │ 	│   ├── 14.1 Notazione
 │   │ 	│   ├── 14.2 Limiti di Successioni
 │   │ 	│   ├── 14.3 Sottosuccessioni (estratte)
@@ -563,7 +622,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│       ├── 14.7.1 Criterio del rapporto
 │   │ 	│       ├── 14.7.2 Criterio della radice
 │   │ 	│       └── 14.7.3 Relazione fra criteri del rapporto e della radice
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/15-serie-numeriche.pdf">15 Serie numeriche</a> (7 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/15-serie-numeriche.pdf">15 Serie numeriche</a> (7 pagine)
 │   │ 	│   ├── 15.1 Serie geometrica
 │   │ 	│   ├── 15.2 Condizione necessaria per l’esistenza di una serie
 │   │ 	│   ├── 15.3 Valore della somma di sue serie
@@ -575,7 +634,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   ├── 15.9 Legami con gli integrali impropri
 │   │ 	│   ├── 15.10 Convergenza assoluta
 │   │ 	│   └── 15.11 Criterio di Leibnitz
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/16-introduzione-analisi-in-più-variabili.pdf">16 Introduzione analisi in più variabili</a> (12 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/16-introduzione-analisi-in-più-variabili.pdf">16 Introduzione analisi in più variabili</a> (12 pagine)
 │   │ 	│   ├── 16.1 Struttura euclidea di Rn
 │   │ 	│   ├── 16.2 Operazioni sullo spazio
 │   │ 	│   ├── 16.3 Insiemi nello spazio Rn
@@ -594,21 +653,21 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   ├── 16.11 Curva nel piano e nello spazio
 │   │ 	│   ├── 16.12 Funzioni di più variabili
 │   │ 	│   └── 16.13 Insiemi di livello
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/17-limiti-funzioni-in-più-variabili.pdf">17 Limiti funzioni in più variabili</a> (5 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/17-limiti-funzioni-in-più-variabili.pdf">17 Limiti funzioni in più variabili</a> (5 pagine)
 │   │ 	│   ├── 17.1 Dimostrazione della non esistenza di un limite
 │   │ 	│   ├── 17.2 Calcolo limiti con teoremi
 │   │ 	│   ├── 17.3 Calcolo limiti con cambio di variabile
 │   │ 	│   ├── 17.4 Regola valore assoluto
 │   │ 	│   ├── 17.5 Metodo delle coordinate polari
 │   │ 	│   └── 17.6 Limiti che vanno a ∞
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/18-calcolo-differenziale-in-più-variabili.pdf">18 Calcolo differenziale in più variabili</a> (6 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/18-calcolo-differenziale-in-più-variabili.pdf">18 Calcolo differenziale in più variabili</a> (6 pagine)
 │   │ 	│   ├── 18.1 Derivate in più variabili
 │   │ 	│   ├── 18.2 Derivata direzionale
 │   │ 	│   ├── 18.3 Differenziabilità di una funzione
 │   │ 	│   ├── 18.4 Calcolo derivate parziali
 │   │ 	│   ├── 18.5 Interpretazione geometrica gradiente
 │   │ 	│   └── 18.6 Teorema del differenziale totale
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/19-massimi-e-minimi-per-funzioni-di-più-variabili.pdf">19 Massimi e minimi per funzioni di più variabili</a> (9 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/19-massimi-e-minimi-per-funzioni-di-più-variabili.pdf">19 Massimi e minimi per funzioni di più variabili</a> (9 pagine)
 │   │ 	│   ├── 19.1 Ripasso in una variabile
 │   │ 	│   ├── 19.2 Teorema di Weristrass in n dimensioni
 │   │ 	│   ├── 19.3 Calcolo massimi e minimi
@@ -618,38 +677,38 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   │   ├── 19.3.4 Moltiplicatori di Lagrange
 │   │ 	│   │   └── 19.3.5 Lagrange geometricamente
 │   │ 	│   └── 19.4 Teorema di Weristrass generalizzato
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/20-derivate-parziali-seconde.pdf">20 Derivate parziali seconde</a> (3 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/20-derivate-parziali-seconde.pdf">20 Derivate parziali seconde</a> (3 pagine)
 │   │ 	│   ├── 20.1 Matrice Hessiana
 │   │ 	│   └── 20.2 Studio di un punto stazionario
-│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/21-superfici.pdf">21 Superfici</a> (3 pagine)
+│   │ 	├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/21-superfici.pdf">21 Superfici</a> (3 pagine)
 │   │ 	│   ├── 21.1 Superficie cartesiana
 │   │ 	│   ├── 21.2 Superficie implicita
 │   │ 	│   ├── 21.3 Superficie parametrica
 │   │ 	│   └── 21.4 Legami tra le definizioni
-│   │ 	└── <a href="primo-anno/analisi%20matematica/appunti/22-cheatsheet.pdf">22 Cheatsheet</a> (4 pagine)
+│   │ 	└── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/22-cheatsheet.pdf">22 Cheatsheet</a> (4 pagine)
 │   └── esercizio/
 │       ├── compito/
-│       │   ├── <a href="primo-anno/analisi%20matematica/esercizio/compito/2022-05.pdf">2022-05.pdf</a> (3 pagine)
-│       │   ├── <a href="primo-anno/analisi%20matematica/esercizio/compito/2022-06.pdf">2022-06.pdf</a> (3 pagine)
-│       │   ├── <a href="primo-anno/analisi%20matematica/esercizio/compito/2022-07.pdf">2022-07.pdf</a> (3 pagine)
-│       │   ├── <a href="primo-anno/analisi%20matematica/esercizio/compito/2022-08.pdf">2022-08.pdf</a> (4 pagine)
-│       │   ├── <a href="primo-anno/analisi%20matematica/esercizio/compito/2022-10.pdf">2022-10.pdf</a> (3 pagine)
-│       │   ├── <a href="primo-anno/analisi%20matematica/esercizio/compito/2022-12.pdf">2022-12.pdf</a> (3 pagine)
-│       │   └── <a href="primo-anno/analisi%20matematica/esercizio/compito/2023-01.pdf">2023-01.pdf</a> (3 pagine)
+│       │   ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/compito/2022-05.pdf">2022-05.pdf</a> (3 pagine)
+│       │   ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/compito/2022-06.pdf">2022-06.pdf</a> (3 pagine)
+│       │   ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/compito/2022-07.pdf">2022-07.pdf</a> (3 pagine)
+│       │   ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/compito/2022-08.pdf">2022-08.pdf</a> (4 pagine)
+│       │   ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/compito/2022-10.pdf">2022-10.pdf</a> (3 pagine)
+│       │   ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/compito/2022-12.pdf">2022-12.pdf</a> (3 pagine)
+│       │   └── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/compito/2023-01.pdf">2023-01.pdf</a> (3 pagine)
 │       ├── esercitazione/
-│       │   ├── <a href="primo-anno/analisi%20matematica/esercizio/esercitazione/2022-11-08.pdf">2022-11-08.pdf</a> (1 pagine)
-│       │   ├── <a href="primo-anno/analisi%20matematica/esercizio/esercitazione/2022-11-15.pdf">2022-11-15.pdf</a> (1 pagine)
+│       │   ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/esercitazione/2022-11-08.pdf">2022-11-08.pdf</a> (1 pagine)
+│       │   ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/esercitazione/2022-11-15.pdf">2022-11-15.pdf</a> (1 pagine)
 │       │   └── soluzione/
-│       │       ├── <a href="primo-anno/analisi%20matematica/esercizio/esercitazione/soluzione/2022-11-08.pdf">2022-11-08.pdf</a> (14 pagine)
-│       │       └── <a href="primo-anno/analisi%20matematica/esercizio/esercitazione/soluzione/2022-11-15.pdf">2022-11-15.pdf</a> (8 pagine)
+│       │       ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/esercitazione/soluzione/2022-11-08.pdf">2022-11-08.pdf</a> (14 pagine)
+│       │       └── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/esercitazione/soluzione/2022-11-15.pdf">2022-11-15.pdf</a> (8 pagine)
 │       └── test/
-│           ├── <a href="primo-anno/analisi%20matematica/esercizio/test/2022-05.pdf">2022-05.pdf</a> (9 pagine)
-│           ├── <a href="primo-anno/analisi%20matematica/esercizio/test/2022-06.pdf">2022-06.pdf</a> (10 pagine)
-│           ├── <a href="primo-anno/analisi%20matematica/esercizio/test/2022-07.pdf">2022-07.pdf</a> (10 pagine)
-│           ├── <a href="primo-anno/analisi%20matematica/esercizio/test/2022-08.pdf">2022-08.pdf</a> (9 pagine)
-│           ├── <a href="primo-anno/analisi%20matematica/esercizio/test/2022-10.pdf">2022-10.pdf</a> (10 pagine)
-│           ├── <a href="primo-anno/analisi%20matematica/esercizio/test/2022-12.pdf">2022-12.pdf</a> (12 pagine)
-│           └── <a href="primo-anno/analisi%20matematica/esercizio/test/2023-01.pdf">2023-01.pdf</a> (9 pagine)
+│           ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/test/2022-05.pdf">2022-05.pdf</a> (9 pagine)
+│           ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/test/2022-06.pdf">2022-06.pdf</a> (10 pagine)
+│           ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/test/2022-07.pdf">2022-07.pdf</a> (10 pagine)
+│           ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/test/2022-08.pdf">2022-08.pdf</a> (9 pagine)
+│           ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/test/2022-10.pdf">2022-10.pdf</a> (10 pagine)
+│           ├── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/test/2022-12.pdf">2022-12.pdf</a> (12 pagine)
+│           └── <a href="primo-anno/analisi%20matematica/appunti/matteo-giuntoni/esercizio/test/2023-01.pdf">2023-01.pdf</a> (9 pagine)
 </pre>
 
 ### Fondamenti di informatica
@@ -679,8 +738,8 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 <pre style="font-family: monospace;">
 ├── fondamenti di informatica/
 │   ├── appunti/
-│   │ 	├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/0-tutto.pdf">0-tutto.pdf</a> (57 pagine)
-│   │ 	├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/1-insiemi.pdf">1 Insiemi</a> (8 pagine)
+│   │ 	├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/0-tutto.pdf">0-tutto.pdf</a> (57 pagine)
+│   │ 	├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/1-insiemi.pdf">1 Insiemi</a> (8 pagine)
 │   │ 	│   ├── 1.1 Notazione
 │   │ 	│   ├── 1.2 Definire un insieme
 │   │ 	│   │   ├── 1.2.1 Estensionale
@@ -705,7 +764,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   ├── 1.8 Prodotto Cartesiano
 │   │ 	│   └── 1.9 Insiemi di insiemi
 │   │ 	│       └── 1.9.1 Insieme delle parti
-│   │ 	├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/2-relazioni.pdf">2 Relazioni</a> (8 pagine)
+│   │ 	├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/2-relazioni.pdf">2 Relazioni</a> (8 pagine)
 │   │ 	│   ├── 2.1 Identità
 │   │ 	│   ├── 2.2 Composizione
 │   │ 	│   ├── 2.3 Relazione opposta
@@ -721,7 +780,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   │   ├── 2.6.4 Insiemi di biezione
 │   │ 	│   │   └── 2.6.5 Proprietà insiemi di biezione
 │   │ 	│   └── 2.7 N-upla
-│   │ 	├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/3-induzione.pdf">3 Induzione</a> (5 pagine)
+│   │ 	├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/3-induzione.pdf">3 Induzione</a> (5 pagine)
 │   │ 	│   ├── 3.1 Sommatorie, produzioni
 │   │ 	│   │   ├── 3.1.1 Sommatoria
 │   │ 	│   │   ├── 3.1.2 Sommatoria da k
@@ -731,7 +790,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   ├── 3.4 Definizione induttiva di funzioni
 │   │ 	│   ├── 3.5 Dimostrazione induttiva di proprietà
 │   │ 	│   └── 3.6 Principio di induzione forte sui naturali
-│   │ 	├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/4-relazioni-su-un-insieme.pdf">4 Relazioni su un insieme</a> (9 pagine)
+│   │ 	├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/4-relazioni-su-un-insieme.pdf">4 Relazioni su un insieme</a> (9 pagine)
 │   │ 	│   ├── 4.1 Proprietà di relazione su un insieme
 │   │ 	│   │   ├── 4.1.1 Riflessiva
 │   │ 	│   │   ├── 4.1.2 Simmetrica
@@ -752,7 +811,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│       ├── 4.6.1 Ordinamento parziale
 │   │ 	│       ├── 4.6.2 Ordinamento
 │   │ 	│       └── 4.6.3 Ordinamento lessiografico
-│   │ 	├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/5-grafi.pdf">5 Grafi</a> (16 pagine)
+│   │ 	├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/5-grafi.pdf">5 Grafi</a> (16 pagine)
 │   │ 	│   ├── 5.1 Grafo orientato
 │   │ 	│   │   ├── 5.1.1 Notazione sui grafi orientati
 │   │ 	│   │   ├── 5.1.2 Grafi orientati come relazioni e proprietà TUSI
@@ -784,7 +843,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   │   └── 5.11.1 Albero radicato
 │   │ 	│   ├── 5.12 Isomorfismo
 │   │ 	│   └── 5.13 Grafi notevoli
-│   │ 	└── <a href="primo-anno/fondamenti%20di%20informatica/appunti/6-calcolo-combinatorio.pdf">6 Calcolo combinatorio</a> (7 pagine)
+│   │ 	└── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/6-calcolo-combinatorio.pdf">6 Calcolo combinatorio</a> (7 pagine)
 │   │ 	    ├── 6.1 Cardinalità insiemi
 │   │ 	    │   ├── 6.1.1 Cardinalità di operazioni su insiemi
 │   │ 	    │   ├── 6.1.2 Principio di inclusione-esclusione
@@ -802,12 +861,12 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	        └── 6.6.2 Grafi orientati
 │   ├── esercizio/
 │   │   └── esercitazione/
-│   │       ├── <a href="primo-anno/fondamenti%20di%20informatica/esercizio/esercitazione/0.pdf">0.pdf</a> (7 pagine)
-│   │       ├── <a href="primo-anno/fondamenti%20di%20informatica/esercizio/esercitazione/1.pdf">1.pdf</a> (9 pagine)
-│   │       ├── <a href="primo-anno/fondamenti%20di%20informatica/esercizio/esercitazione/2.pdf">2.pdf</a> (6 pagine)
-│   │       ├── <a href="primo-anno/fondamenti%20di%20informatica/esercizio/esercitazione/3.pdf">3.pdf</a> (7 pagine)
-│   │       ├── <a href="primo-anno/fondamenti%20di%20informatica/esercizio/esercitazione/4.pdf">4.pdf</a> (7 pagine)
-│   │       └── <a href="primo-anno/fondamenti%20di%20informatica/esercizio/esercitazione/5.pdf">5.pdf</a> (8 pagine)
+│   │       ├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/esercizio/esercitazione/0.pdf">0.pdf</a> (7 pagine)
+│   │       ├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/esercizio/esercitazione/1.pdf">1.pdf</a> (9 pagine)
+│   │       ├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/esercizio/esercitazione/2.pdf">2.pdf</a> (6 pagine)
+│   │       ├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/esercizio/esercitazione/3.pdf">3.pdf</a> (7 pagine)
+│   │       ├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/esercizio/esercitazione/4.pdf">4.pdf</a> (7 pagine)
+│   │       └── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/esercizio/esercitazione/5.pdf">5.pdf</a> (8 pagine)
 │   ├── <a href="primo-anno/fondamenti%20di%20informatica/Fondamenti%20di%20informatica.pdf">Fondamenti di informatica.pdf</a> (233 pagine)
 │   └── <a href="primo-anno/fondamenti%20di%20informatica/Insiemi%20Relazioni%20e%20Logica%20-%20Formulario.pdf">Insiemi Relazioni e Logica - Formulario.pdf</a> (2 pagine)
 </pre>
@@ -867,36 +926,36 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 <pre style="font-family: monospace;">
 ├── programmazione ed Algoritmica/
 │   ├── appunti/
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/0-tutto.pdf">0-tutto.pdf</a> (42 pagine)
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/1-introduzione.pdf">1 Introduzione</a> (2 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/0-tutto.pdf">0-tutto.pdf</a> (42 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/1-introduzione.pdf">1 Introduzione</a> (2 pagine)
 │   │ 	│   ├── 1.1 Puntatori
 │   │ 	│   │   └── 1.1.1 Operatori sui puntatori
 │   │ 	│   └── 1.2 Strutture dati
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/2-array.pdf">2 Array</a> (2 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/2-array.pdf">2 Array</a> (2 pagine)
 │   │ 	│   └── 2.1 Binary Search
 │   │ 	│       ├── 2.1.1 Codice dell’algoritmo
 │   │ 	│       └── 2.1.2 Calcolo caso pessimo e migliore
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/3-funzioni.pdf">3 Funzioni</a> (3 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/3-funzioni.pdf">3 Funzioni</a> (3 pagine)
 │   │ 	│   ├── 3.1 Anatomia di una funzione
 │   │ 	│   │   ├── 3.1.1 Ambiente statico
 │   │ 	│   │   └── 3.1.2 Ambiente dinamico
 │   │ 	│   └── 3.2 Passaggio dei parametri
 │   │ 	│       ├── 3.2.1 Per valore
 │   │ 	│       └── 3.2.2 Per indirizzo
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/4-gestione-della-memoria.pdf">4 Gestione della memoria</a> (2 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/4-gestione-della-memoria.pdf">4 Gestione della memoria</a> (2 pagine)
 │   │ 	│   ├── 4.1 Record di attivazione
 │   │ 	│   ├── 4.2 Divisione della memoria
 │   │ 	│   └── 4.3 Tipi di ricorsione
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/5-ricorsione.pdf">5 Ricorsione</a> (1 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/5-ricorsione.pdf">5 Ricorsione</a> (1 pagine)
 │   │ 	│   └── 5.1 Ricorsione e iterazione
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/6-condizioni.pdf">6 Condizioni</a> (2 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/6-condizioni.pdf">6 Condizioni</a> (2 pagine)
 │   │ 	│   ├── 6.1 Condizioni su array
 │   │ 	│   ├── 6.2 Condizioni su matrici
 │   │ 	│   └── 6.3 Contare elementi che verificano una proprietà
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/7-heap.pdf">7 Heap</a> (1 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/7-heap.pdf">7 Heap</a> (1 pagine)
 │   │ 	│   ├── 7.1 Max e min heap
 │   │ 	│   └── 7.2 Proprietà
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/8-algoritmi.pdf">8 Algoritmi</a> (5 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/8-algoritmi.pdf">8 Algoritmi</a> (5 pagine)
 │   │ 	│   ├── 8.1 Divide et impera
 │   │ 	│   ├── 8.2 Ordinamento
 │   │ 	│   │   ├── 8.2.1 Mergesort
@@ -905,7 +964,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   │   └── 8.2.4 Bubblesort
 │   │ 	│   └── 8.3 Linear sort
 │   │ 	│       └── 8.3.1 Radixsort
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/9-complessità.pdf">9 Complessità</a> (7 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/9-complessità.pdf">9 Complessità</a> (7 pagine)
 │   │ 	│   ├── 9.1 Notazione asintotica
 │   │ 	│   ├── 9.2 Big-O notation
 │   │ 	│   │   ├── 9.2.1 Limite superiore asintotico
@@ -918,7 +977,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│       ├── 9.3.1 Metodo iterativo
 │   │ 	│       ├── 9.3.2 Albero di ricorsione
 │   │ 	│       └── 9.3.3 Master’s Theorem
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/10-liste.pdf">10 Liste</a> (3 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/10-liste.pdf">10 Liste</a> (3 pagine)
 │   │ 	│   ├── 10.1 Confronto tra liste e array
 │   │ 	│   ├── 10.2 Operazioni sulle liste
 │   │ 	│   │   ├── 10.2.1 Insert
@@ -927,11 +986,11 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   └── 10.3 Liste particolari
 │   │ 	│       ├── 10.3.1 Pile
 │   │ 	│       └── 10.3.2 Code
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/11-dizionari.pdf">11 Dizionari</a> (1 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/11-dizionari.pdf">11 Dizionari</a> (1 pagine)
 │   │ 	│   ├── 11.1 Indirizzamento diretto
 │   │ 	│   ├── 11.2 Chaining
 │   │ 	│   └── 11.3 Open addressing
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/12-alberi.pdf">12 Alberi</a> (2 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/12-alberi.pdf">12 Alberi</a> (2 pagine)
 │   │ 	│   ├── 12.1 Rappresentazione
 │   │ 	│   │   ├── 12.1.1 Array
 │   │ 	│   │   └── 12.1.2 Liste
@@ -941,20 +1000,20 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	│   │   └── 12.2.3 Simmetrica
 │   │ 	│   └── 12.3 Albero binario di ricerca
 │   │ 	│       └── 12.3.1 Ricerca
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/13-grafi.pdf">13 Grafi</a> (2 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/13-grafi.pdf">13 Grafi</a> (2 pagine)
 │   │ 	│   ├── 13.1 Rappresentazione
 │   │ 	│   │   ├── 13.1.1 Matrice di adiacenza
 │   │ 	│   │   └── 13.1.2 Lista di adiacenza
 │   │ 	│   └── 13.2 Ricerca in un grafo
 │   │ 	│       ├── 13.2.1 Breadth-First Search
 │   │ 	│       └── 13.2.2 Depth-First Search
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/14-programmazione-dinamica.pdf">14 Programmazione dinamica</a> (3 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/14-programmazione-dinamica.pdf">14 Programmazione dinamica</a> (3 pagine)
 │   │ 	│   ├── 14.1 Struttura di un algoritmo
 │   │ 	│   └── 14.2 Tecnica Greedy
-│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/15-teoria-della-calcolabilità.pdf">15 Teoria della calcolabilità</a> (2 pagine)
+│   │ 	├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/15-teoria-della-calcolabilità.pdf">15 Teoria della calcolabilità</a> (2 pagine)
 │   │ 	│   ├── 15.1 Problemi indecidibili
 │   │ 	│   └── 15.2 Problemi decidibili ma intrattabili
-│   │ 	└── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/16-teoria-della-complessità.pdf">16 Teoria della complessità</a> (2 pagine)
+│   │ 	└── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/16-teoria-della-complessità.pdf">16 Teoria della complessità</a> (2 pagine)
 │   │ 	    ├── 16.1 Velocità dei calcolatori
 │   │ 	    ├── 16.2 Tipi di problemi
 │   │ 	    ├── 16.3 Problemi decisionali
@@ -962,30 +1021,30 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 │   │ 	        └── 16.4.1 Classe P
 │   ├── algoritmo/
 │   │   ├── dynamic-programming/
-│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/dynamic-programming/Backpack0-1.cpp">Backpack0-1.cpp</a>
-│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/dynamic-programming/BinomialCoefficient.cpp">BinomialCoefficient.cpp</a>
-│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/dynamic-programming/EditDistance.cpp">EditDistance.cpp</a>
-│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/dynamic-programming/Fibonacci.cpp">Fibonacci.cpp</a>
-│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/dynamic-programming/LCS.cpp">LCS.cpp</a>
-│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/dynamic-programming/Partition.cpp">Partition.cpp</a>
-│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/dynamic-programming/Perm-Comb.cpp">Perm-Comb.cpp</a>
-│   │   │   └── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/dynamic-programming/RopeCut.cpp">RopeCut.cpp</a>
+│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/dynamic-programming/Backpack0-1.cpp">Backpack0-1.cpp</a>
+│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/dynamic-programming/BinomialCoefficient.cpp">BinomialCoefficient.cpp</a>
+│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/dynamic-programming/EditDistance.cpp">EditDistance.cpp</a>
+│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/dynamic-programming/Fibonacci.cpp">Fibonacci.cpp</a>
+│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/dynamic-programming/LCS.cpp">LCS.cpp</a>
+│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/dynamic-programming/Partition.cpp">Partition.cpp</a>
+│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/dynamic-programming/Perm-Comb.cpp">Perm-Comb.cpp</a>
+│   │   │   └── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/dynamic-programming/RopeCut.cpp">RopeCut.cpp</a>
 │   │   ├── graph/
 │   │   ├── list-stack-queue/
-│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/list-stack-queue/List.cpp">List.cpp</a>
-│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/list-stack-queue/Queue.cpp">Queue.cpp</a>
-│   │   │   └── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/list-stack-queue/Stack.cpp">Stack.cpp</a>
+│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/list-stack-queue/List.cpp">List.cpp</a>
+│   │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/list-stack-queue/Queue.cpp">Queue.cpp</a>
+│   │   │   └── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/list-stack-queue/Stack.cpp">Stack.cpp</a>
 │   │   ├── searching/
 │   │   ├── sorting/
 │   │   └── tree/
-│   │       ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/tree/TreeDelete.cpp">TreeDelete.cpp</a>
-│   │       ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/tree/TreeInsert.cpp">TreeInsert.cpp</a>
-│   │       ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/tree/TreeMin-Max.cpp">TreeMin-Max.cpp</a>
-│   │       ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/tree/TreePred-Succ.cpp">TreePred-Succ.cpp</a>
-│   │       ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/tree/TreeSearch.cpp">TreeSearch.cpp</a>
-│   │       └── <a href="primo-anno/programmazione%20ed%20Algoritmica/algoritmo/tree/TreeVisit.cpp">TreeVisit.cpp</a>
+│   │       ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/tree/TreeDelete.cpp">TreeDelete.cpp</a>
+│   │       ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/tree/TreeInsert.cpp">TreeInsert.cpp</a>
+│   │       ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/tree/TreeMin-Max.cpp">TreeMin-Max.cpp</a>
+│   │       ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/tree/TreePred-Succ.cpp">TreePred-Succ.cpp</a>
+│   │       ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/tree/TreeSearch.cpp">TreeSearch.cpp</a>
+│   │       └── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/algoritmo/tree/TreeVisit.cpp">TreeVisit.cpp</a>
 │   ├── esercizio/
-│   │   └── <a href="primo-anno/programmazione%20ed%20Algoritmica/esercizio/Esercizi-Programmazione-Dinamica.pdf">Esercizi-Programmazione-Dinamica.pdf</a> (2 pagine)
+│   │   └── <a href="primo-anno/programmazione%20ed%20Algoritmica/appunti/matteo-giuntoni/esercizio/Esercizi-Programmazione-Dinamica.pdf">Esercizi-Programmazione-Dinamica.pdf</a> (2 pagine)
 │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/Formulario%20L.pdf">Formulario L.pdf</a> (6 pagine)
 │   ├── libro/
 │   │   ├── <a href="primo-anno/programmazione%20ed%20Algoritmica/libro/Introduzione%20di%20algoritmi.pdf">Introduzione di algoritmi.pdf</a> (1072 pagine)
