@@ -32,11 +32,11 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 	* [Errori comuni da evitare](#errori-comuni-da-evitare)
 * [Appunti](#appunti)
 	* [Primo anno](#primo-anno)
-		* [Algebra lineare](#algebra-lineare) - 6 CFU
-		* [Analisi matematica](#analisi-matematica) - 12 CFU
-		* [Fondamenti di informatica](#fondamenti-di-informatica) - 9 CFU
-		* [Laboratorio I](#laboratorio-i) - 12 CFU
-		* [Programmazione ed Algoritmica](#programmazione-ed-algoritmica) - 15 CFU
+		* [Algebra lineare](#algebra-lineare)
+		* [Analisi matematica](#analisi-matematica)
+		* [Fondamenti di informatica](#fondamenti-di-informatica)
+		* [Laboratorio I](#laboratorio-i)
+		* [Programmazione ed Algoritmica](#programmazione-ed-algoritmica)
 * [Link](#link)
 	* [Ufficiali](#ufficiali)
 		* [Portale Alice](#portale-alice)
@@ -59,22 +59,26 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 
 ## Panoramica
 
-<p align="right">(<a href=“#indice”>indice</a>)</p>
+<p align="right">(<a href="#indice">indice</a>)</p>
 
 <table>
 	<thead>
 		<tr>
-			<th>Corso</th>
+			<th>CORSO</th>
 			<th>CFU</th>
-			<th>Sezione</th>
-			<th>Docenti</th>
-			<th>Esame</th>
+			<th>ORE</th>
+			<th>PAGINE</th>
+			<th>SEZIONE</th>
+			<th>DOCENTI</th>
+			<th>ESAME</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td rowspan="3"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703170_76821/2025/53206/11527">Algebra lineare</a></td>
 			<td rowspan="3">6</td>
+			<td rowspan="3">48</td>
+			<td rowspan="3">29</td>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=723AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/patrizio-frosini-198939/">Frosini Patrizio</a></td>
 			<td>
@@ -107,6 +111,8 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 		<tr>
 			<td rowspan="4"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703171_76822/2025/53206/11527">Analisi matematica</a></td>
 			<td rowspan="4">12</td>
+			<td rowspan="4">96</td>
+			<td rowspan="4">130</td>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=724AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/carlo-romano-grisanti-3934/">Grisanti Carlo Romano</a></td>
 			<td rowspan="4">
@@ -131,6 +137,8 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 		<tr>
 			<td rowspan="3"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703164_76826/2025/53206/11527">Fondamenti di informatica</a></td>
 			<td rowspan="3">9</td>
+			<td rowspan="3">72</td>
+			<td rowspan="3">57</td>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=728AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/andrea-corradini-4316/">Corradini Andrea</a></td>
 			<td>
@@ -164,6 +172,8 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 		<tr>
 			<td rowspan="6"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703165_76829/2025/53206/11527">Laboratorio I</a></td>
 			<td rowspan="6">12</td>
+			<td rowspan="6">96</td>
+			<td rowspan="6"></td>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-A/2025/53206/11527?coorte=2025&adCodFraz=731AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/giulia-punzi-195205/">Punzi Giulia</a></td>
 			<td rowspan="4">
@@ -199,6 +209,8 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 		<tr>
 			<td rowspan="7"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703166_76834/2025/53206/11527">Programmazione ed Algoritmica</a></td>
 			<td rowspan="7">15</td>
+			<td rowspan="7">120</td>
+			<td rowspan="7">42</td>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=735AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/anna-bernasconi-5852/">Bernasconi Anna</a></td>
 			<td rowspan="7">
@@ -237,7 +249,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 
 ## Consigli
 
-<p align="right">(<a href=“#indice”>indice</a>)</p>
+<p align="right">(<a href="#indice">indice</a>)</p>
 
 > [!CAUTION]
 > Il seguente elenco di consigli è stato generato da ChatGPT sulla base delle informazioni raccolte su r/universitaly
@@ -308,26 +320,26 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 
 ### Algebra lineare
 
-<p align="right">(<a href=“#indice”>indice</a>)</p>
+<p align="right">(<a href="#indice">indice</a>)</p>
  
-* [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703170_76821/2025/53206/11527)
-	* CFU 6
-* Professori
-	* A: [Frosini Patrizio](https://www.unipi.it/ateneo/organizzazione/persone/patrizio-frosini-198939/)
-		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=723AA)
-		* Esame
-			* Scritto (obbligatorio)
-			* Orale (facoltativo)
-	* B: [Benvenuti Silvia](https://www.unipi.it/ateneo/organizzazione/persone/silvia-benvenuti-206577/)
-		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=723AA)
-		* Esame
-			* Da agg
-			* Da agg
-	* C: [Szamuely Tamas](https://www.unipi.it/ateneo/organizzazione/persone/tamas-szamuely-135363/)
-		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=723AA)
-		* Esame
-			* Scritto
-			* Orale
+<!-- * [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703170_76821/2025/53206/11527) -->
+<!-- 	* CFU 6 -->
+<!-- * Professori -->
+<!-- 	* A: [Frosini Patrizio](https://www.unipi.it/ateneo/organizzazione/persone/patrizio-frosini-198939/) -->
+<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=723AA) -->
+<!-- 		* Esame -->
+<!-- 			* Scritto (obbligatorio) -->
+<!-- 			* Orale (facoltativo) -->
+<!-- 	* B: [Benvenuti Silvia](https://www.unipi.it/ateneo/organizzazione/persone/silvia-benvenuti-206577/) -->
+<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=723AA) -->
+<!-- 		* Esame -->
+<!-- 			* Da agg -->
+<!-- 			* Da agg -->
+<!-- 	* C: [Szamuely Tamas](https://www.unipi.it/ateneo/organizzazione/persone/tamas-szamuely-135363/) -->
+<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=723AA) -->
+<!-- 		* Esame -->
+<!-- 			* Scritto -->
+<!-- 			* Orale -->
 
 <pre style="font-family: monospace;">
 ├── algebra lineare/
@@ -380,29 +392,29 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 
 ### Analisi matematica
 
-<p align="right">(<a href=“#indice”>indice</a>)</p>
+<p align="right">(<a href="#indice">indice</a>)</p>
 
-* [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703171_76822/2025/53206/11527)
-	* CFU 12
-* Professori
-	* A: [Grisanti Carlo Romano](https://www.unipi.it/ateneo/organizzazione/persone/carlo-romano-grisanti-3934/)
-	* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=724AA)
-	* Esame
-		* Test
-		* Scritto
-		* Orale
-	* B: [Chiodaroli Elisabetta](https://www.unipi.it/ateneo/organizzazione/persone/elisabetta-chiodaroli-123770/)
-	* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=724AA)
-	* Esame
-		* Test
-		* Scritto
-		* Orale
-	* C: [Bianchi Fabrizio](https://www.unipi.it/ateneo/organizzazione/persone/fabrizio-bianchi-157380/), [Talpo Mattia](https://www.unipi.it/ateneo/organizzazione/persone/mattia-talpo-136015/)
-	* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=724AA)
-	* Esame
-		* Test
-		* Scritto
-		* Orale
+<!-- * [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703171_76822/2025/53206/11527) -->
+<!-- 	* CFU 12 -->
+<!-- * Professori -->
+<!-- 	* A: [Grisanti Carlo Romano](https://www.unipi.it/ateneo/organizzazione/persone/carlo-romano-grisanti-3934/) -->
+<!-- 	* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=724AA) -->
+<!-- 	* Esame -->
+<!-- 		* Test -->
+<!-- 		* Scritto -->
+<!-- 		* Orale -->
+<!-- 	* B: [Chiodaroli Elisabetta](https://www.unipi.it/ateneo/organizzazione/persone/elisabetta-chiodaroli-123770/) -->
+<!-- 	* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=724AA) -->
+<!-- 	* Esame -->
+<!-- 		* Test -->
+<!-- 		* Scritto -->
+<!-- 		* Orale -->
+<!-- 	* C: [Bianchi Fabrizio](https://www.unipi.it/ateneo/organizzazione/persone/fabrizio-bianchi-157380/), [Talpo Mattia](https://www.unipi.it/ateneo/organizzazione/persone/mattia-talpo-136015/) -->
+<!-- 	* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=724AA) -->
+<!-- 	* Esame -->
+<!-- 		* Test -->
+<!-- 		* Scritto -->
+<!-- 		* Orale -->
 
 <pre style="font-family: monospace;">
 ├── analisi matematica/
@@ -642,27 +654,27 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 
 ### Fondamenti di informatica
 
-<p align="right">(<a href=“#indice”>indice</a>)</p>
+<p align="right">(<a href="#indice">indice</a>)</p>
 
-* [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703164_76826/2025/53206/11527)
-	* CFU 9
-* Professori
-	* A: [Corradini Andrea](https://www.unipi.it/ateneo/organizzazione/persone/andrea-corradini-4316/)
-		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=728AA)
-		* Esame
-			* Pretest
-			* Orale
-	* B: [Bonchi Filippo](https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/)
-		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=728AA)
-		* Esame
-			* Test di valutazione online bisettimanali
-			* Scritto
-			* Orale
-	* C: [Conte Alessio](https://www.unipi.it/ateneo/organizzazione/persone/alessio-conte-136624/)
-		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=728AA)
-		* Esame
-			* Pretest
-			* Orale
+<!-- * [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703164_76826/2025/53206/11527) -->
+<!-- 	* CFU 9 -->
+<!-- * Professori -->
+<!-- 	* A: [Corradini Andrea](https://www.unipi.it/ateneo/organizzazione/persone/andrea-corradini-4316/) -->
+<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=728AA) -->
+<!-- 		* Esame -->
+<!-- 			* Pretest -->
+<!-- 			* Orale -->
+<!-- 	* B: [Bonchi Filippo](https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/) -->
+<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=728AA) -->
+<!-- 		* Esame -->
+<!-- 			* Test di valutazione online bisettimanali -->
+<!-- 			* Scritto -->
+<!-- 			* Orale -->
+<!-- 	* C: [Conte Alessio](https://www.unipi.it/ateneo/organizzazione/persone/alessio-conte-136624/) -->
+<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=728AA) -->
+<!-- 		* Esame -->
+<!-- 			* Pretest -->
+<!-- 			* Orale -->
 
 <pre style="font-family: monospace;">
 ├── fondamenti di informatica/
@@ -802,26 +814,26 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 	
 ### Laboratorio I
 
-<p align="right">(<a href=“#indice”>indice</a>)</p>
+<p align="right">(<a href="#indice">indice</a>)</p>
 
-* [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703165_76829/2025/53206/11527)
-	* CFU 12
-* Professori
-	* A: [Punzi Giulia](https://www.unipi.it/ateneo/organizzazione/persone/giulia-punzi-195205/), [Ceni Andrea](https://www.unipi.it/ateneo/organizzazione/persone/andrea-ceni-173990/)
-		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-A/2025/53206/11527?coorte=2025&adCodFraz=731AA)
-		* Esame
-			* Compiti in itinere + Orale
-			* Pretest (prova pratica) + Orale
-	* B: [Vinciguerra Giorgio](https://www.unipi.it/ateneo/organizzazione/persone/giorgio-vinciguerra-172064/), [Soldani Jacopo](https://www.unipi.it/ateneo/organizzazione/persone/jacopo-soldani-128445/)
-		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-B/2025/53206/11527?coorte=2025&adCodFraz=731AA)
-		* Esame
-			* Compiti in itinere + Orale
-			* Pretest (prova pratica) + Orale
-	* C: [Turchi Tommaso](https://www.unipi.it/ateneo/organizzazione/persone/tommaso-turchi-182372/), [Tortorella Domenico](https://www.unipi.it/ateneo/organizzazione/persone/domenico-tortorella-195212)
-		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-C/2025/53206/11527?coorte=2025&adCodFraz=731AA)
-		* Esame
-			* Scritto
-			* Orale
+<!-- * [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703165_76829/2025/53206/11527) -->
+<!-- 	* CFU 12 -->
+<!-- * Professori -->
+<!-- 	* A: [Punzi Giulia](https://www.unipi.it/ateneo/organizzazione/persone/giulia-punzi-195205/), [Ceni Andrea](https://www.unipi.it/ateneo/organizzazione/persone/andrea-ceni-173990/) -->
+<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-A/2025/53206/11527?coorte=2025&adCodFraz=731AA) -->
+<!-- 		* Esame -->
+<!-- 			* Compiti in itinere + Orale -->
+<!-- 			* Pretest (prova pratica) + Orale -->
+<!-- 	* B: [Vinciguerra Giorgio](https://www.unipi.it/ateneo/organizzazione/persone/giorgio-vinciguerra-172064/), [Soldani Jacopo](https://www.unipi.it/ateneo/organizzazione/persone/jacopo-soldani-128445/) -->
+<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-B/2025/53206/11527?coorte=2025&adCodFraz=731AA) -->
+<!-- 		* Esame -->
+<!-- 			* Compiti in itinere + Orale -->
+<!-- 			* Pretest (prova pratica) + Orale -->
+<!-- 	* C: [Turchi Tommaso](https://www.unipi.it/ateneo/organizzazione/persone/tommaso-turchi-182372/), [Tortorella Domenico](https://www.unipi.it/ateneo/organizzazione/persone/domenico-tortorella-195212) -->
+<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-C/2025/53206/11527?coorte=2025&adCodFraz=731AA) -->
+<!-- 		* Esame -->
+<!-- 			* Scritto -->
+<!-- 			* Orale -->
 
 <pre style="font-family: monospace;">	
 ├── laboratorio I/
@@ -831,26 +843,26 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 
 ### Programmazione ed Algoritmica
 
-<p align="right">(<a href=“#indice”>indice</a>)</p>
+<p align="right">(<a href="#indice">indice</a>)</p>
 
-* [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703166_76834/2025/53206/11527)
-	* CFU 15
-* Professori
-	* A: [Bernasconi Anna](https://www.unipi.it/ateneo/organizzazione/persone/anna-bernasconi-5852/), [Gori Roberta](https://www.unipi.it/ateneo/organizzazione/persone/roberta-gori-4249/)
-		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=735AA)
-		* Esame
-			* Scritto
-			* Orale
-	* B: [Pisanti Nadia](https://www.unipi.it/ateneo/organizzazione/persone/nadia-pisanti-1077/), [Bruni Roberto](https://www.unipi.it/ateneo/organizzazione/persone/roberto-bruni-4248/)
-		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=735AA)
-		* Esame
-			* Scritto
-			* Orale
-	* C: [Grossi Roberto](https://www.unipi.it/ateneo/organizzazione/persone/roberto-grossi-5777), [Priami Corrado](https://www.unipi.it/ateneo/organizzazione/persone/corrado-priami-126061/), [Bonchi Filippo](https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/)
-		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=735AA)
-		* Esame
-			* Scritto
-			* Orale
+<!-- * [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703166_76834/2025/53206/11527) -->
+<!-- 	* CFU 15 -->
+<!-- * Professori -->
+<!-- 	* A: [Bernasconi Anna](https://www.unipi.it/ateneo/organizzazione/persone/anna-bernasconi-5852/), [Gori Roberta](https://www.unipi.it/ateneo/organizzazione/persone/roberta-gori-4249/) -->
+<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=735AA) -->
+<!-- 		* Esame -->
+<!-- 			* Scritto -->
+<!-- 			* Orale -->
+<!-- 	* B: [Pisanti Nadia](https://www.unipi.it/ateneo/organizzazione/persone/nadia-pisanti-1077/), [Bruni Roberto](https://www.unipi.it/ateneo/organizzazione/persone/roberto-bruni-4248/) -->
+<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=735AA) -->
+<!-- 		* Esame -->
+<!-- 			* Scritto -->
+<!-- 			* Orale -->
+<!-- 	* C: [Grossi Roberto](https://www.unipi.it/ateneo/organizzazione/persone/roberto-grossi-5777), [Priami Corrado](https://www.unipi.it/ateneo/organizzazione/persone/corrado-priami-126061/), [Bonchi Filippo](https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/) -->
+<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=735AA) -->
+<!-- 		* Esame -->
+<!-- 			* Scritto -->
+<!-- 			* Orale -->
 
 <pre style="font-family: monospace;">
 ├── programmazione ed Algoritmica/
@@ -990,7 +1002,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 
 ## Link
 
-<p align="right">(<a href=“#indice”>indice</a>)</p>
+<p align="right">(<a href="#indice">indice</a>)</p>
 
 ### Ufficiali
 
@@ -1043,7 +1055,7 @@ Sono ormai diversi i professori che lo utilizzano e la lista si trova a questo i
 
 ## Non ufficiali
 
-<p align="right">(<a href=“#indice”>indice</a>)</p>
+<p align="right">(<a href="#indice">indice</a>)</p>
 
 ### Gruppo Telegram
 
@@ -1059,7 +1071,7 @@ Non è un canale ufficiale dell’ateneo, quindi per informazioni certe è sempr
 
 ## Servizi
 
-<p align="right">(<a href=“#indice”>indice</a>)</p>
+<p align="right">(<a href="#indice">indice</a>)</p>
 
 ### Libretto sull app IO
 
