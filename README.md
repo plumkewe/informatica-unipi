@@ -20,6 +20,16 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 <!--  -->
 
 ## Indice
+
+* [Panoramica](#panoramica)
+* [Consigli](#consigli)
+	* [Generali per le matricole](generali-per-le-matricole)
+	* [Strategie per superare gli esami](strategie-per-superare-gli-esami)
+	* [Organizzazione dello studio](organizzazione-dello-studio)
+	* [Gestione del tempo e carico di lavoro](gestione-del-tempo-e-carico-di-lavoro)
+	* [Vita sociale e relazioni](vita-sociale-e-relazioni)
+	* [Strumenti didattici utili](strumenti-didattici-utili)
+	* [Errori comuni da evitare](#errori-comuni-da-evitare)
 * [Appunti](#appunti)
 	* [Primo anno](#primo-anno)
 		* [Algebra lineare](#algebra-lineare) - 6 CFU
@@ -29,15 +39,250 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 		* [Programmazione ed Algoritmica](#programmazione-ed-algoritmica) - 15 CFU
 * [Link](#link)
 	* [Ufficiali](#ufficiali)
-		* [Portale Alice](#portale-Alice)
+		* [Portale Alice](#portale-alice)
 		* [Esami](#esami)
-		* [Sito del Corso di Laurea](#sito-del-Corso-di-Laurea)
-		* [E-Learning](#e-Learning)
+		* [Sito del Corso di Laurea](#sito-del-corso-di-laurea)
+		* [E-Learning](#e-learning)
+		* [Gruppo Telegram Ufficiale](#gruppo-telegram-ufficiale)
+		* [Orario](#orario)
 	* [Non ufficali](#non-ufficiali)
 		* [Gruppo Telegram](#gruppo-telegram)
 * [Servizi](#servizi)
-	* [Libretto sull'app IO](#libretto-sull'app-IO)
+	* [Libretto sull'app IO](#libretto-sull-app-io)
 	* [Mappa interattiva](#mappa-interattiva)
+	* [Mappa DSU](#mappa-dsu) 
+	* [Bot menu mense](#bot-menu-mense)
+
+<!--  -->
+<!--  -->
+<!--  -->
+
+## Panoramica
+
+<p align="right">(<a href=“#indice”>indice</a>)</p>
+
+<table>
+	<thead>
+		<tr>
+			<th>Corso</th>
+			<th>CFU</th>
+			<th>Sezione</th>
+			<th>Docenti</th>
+			<th>Esame</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td rowspan="3"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703170_76821/2025/53206/11527">Algebra lineare</a></td>
+			<td rowspan="3">6</td>
+			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=723AA">A</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/patrizio-frosini-198939/">Frosini Patrizio</a></td>
+			<td>
+				<ul>
+					<li>Scritto (obbligatorio)</li>
+					<li>Orale (facoltativo)</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=723AA">B</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/silvia-benvenuti-206577/">Benvenuti Silvia</a></td>
+			<td>
+				<ul>
+					<li>Da agg</li>
+					<li>Da agg</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=723AA">C</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/tamas-szamuely-135363/">Szamuely Tamas</a></td>
+			<td>
+				<ul>
+					<li>Scritto</li>
+					<li>Orale</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="4"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703171_76822/2025/53206/11527">Analisi matematica</a></td>
+			<td rowspan="4">12</td>
+			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=724AA">A</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/carlo-romano-grisanti-3934/">Grisanti Carlo Romano</a></td>
+			<td rowspan="4">
+				<ul>
+					<li>Test</li>
+					<li>Scritto</li>
+					<li>Orale</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=724AA">B</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/elisabetta-chiodaroli-123770/">Chiodaroli Elisabetta</a></td>
+		</tr>
+		<tr>
+			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=724AA">C</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/fabrizio-bianchi-157380/">Bianchi Fabrizio</a></td>
+		</tr>
+		<tr>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/mattia-talpo-136015/">Talpo Mattia</a></td>
+		</tr>
+		<tr>
+			<td rowspan="3"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703164_76826/2025/53206/11527">Fondamenti di informatica</a></td>
+			<td rowspan="3">9</td>
+			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=728AA">A</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/andrea-corradini-4316/">Corradini Andrea</a></td>
+			<td>
+				<ul>
+					<li>Pretest</li>
+					<li>Orale</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=728AA">B</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/">Bonchi Filippo</a></td>
+			<td>
+				<ul>
+					<li>Test di valutazione online bisettimanali</li>
+					<li>Scritto</li>
+					<li>Orale</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=728AA">C</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/alessio-conte-136624/">Conte Alessio</a></td>
+			<td>
+				<ul>
+					<li>Pretest</li>
+					<li>Orale</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="6"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703165_76829/2025/53206/11527">Laboratorio I</a></td>
+			<td rowspan="6">12</td>
+			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-A/2025/53206/11527?coorte=2025&adCodFraz=731AA">A</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/giulia-punzi-195205/">Punzi Giulia</a></td>
+			<td rowspan="4">
+				<ul>
+					<li>Compiti in itinere + Orale</li>
+					<li>Pretest (prova pratica) + Orale</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/andrea-ceni-173990/">Ceni Andrea</a></td>
+		</tr>
+		<tr>
+			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-B/2025/53206/11527?coorte=2025&adCodFraz=731AA">B</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/giorgio-vinciguerra-172064/">Vinciguerra Giorgio</a></td>
+		</tr>
+		<tr>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/jacopo-soldani-128445/">Soldani Jacopo</a></td>
+		</tr>
+		<tr>
+			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-C/2025/53206/11527?coorte=2025&adCodFraz=731AA">C</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/tommaso-turchi-182372/">Turchi Tommaso</a></td>
+			<td rowspan="2">
+				<ul>
+					<li>Scritto</li>
+					<li>Orale</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/domenico-tortorella-195212">Tortorella Domenico</a></td>
+		</tr>
+		<tr>
+			<td rowspan="7"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703166_76834/2025/53206/11527">Programmazione ed Algoritmica</a></td>
+			<td rowspan="7">15</td>
+			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=735AA">A</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/anna-bernasconi-5852/">Bernasconi Anna</a></td>
+			<td rowspan="7">
+				<ul>
+					<li>Scritto</li>
+					<li>Orale</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/roberta-gori-4249/">Gori Roberta</a></td>
+		</tr>
+		<tr>
+			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=735AA">B</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/nadia-pisanti-1077/">Pisanti Nadia</a></td>
+		</tr>
+		<tr>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/roberto-bruni-4248/">Bruni Roberto</a></td>
+		</tr>
+		<tr>
+			<td rowspan="3"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=735AA">C</a></td>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/roberto-grossi-5777">Grossi Roberto</a></td>
+		</tr>
+		<tr>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/corrado-priami-126061/">Priami Corrado</a></td>
+		</tr>
+		<tr>
+			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/">Bonchi Filippo</a></td>
+		</tr>
+	</tbody>
+</table>
+
+<!--  -->
+<!--  -->
+<!--  -->
+
+## Consigli
+
+<p align="right">(<a href=“#indice”>indice</a>)</p>
+
+> [!CAUTION]
+> Il seguente elenco di consigli è stato generato da ChatGPT sulla base delle informazioni raccolte su r/universitaly
+
+### Generali per le matricole
+- **Frequentare le lezioni e rivedere subito gli appunti.** Studiare seguendo le lezioni e correggere gli appunti a fine giornata facilita l’apprendimento.
+- **Trovare un metodo di studio personale.** Sperimentare metodi efficaci (es. OCME) e testarsi già nei primi appelli aiuta a capire il proprio livello.
+- **Collaborare e chiedere aiuto.** Confrontarsi con altri studenti e non esitare a contattare i professori è utile per approfondire.
+- **Essere proattivi socialmente.** Partecipare a uscite, associazioni e lezioni favorisce sia studio che relazioni sociali.
+
+### Strategie per superare gli esami
+- **Pianificare il carico d’esami.** Dare priorità a quelli più impegnativi; evitarne troppi insieme.
+- **Schemi per gli orali.** Creare mappe concettuali aiuta a tenere ordine mentale durante l’esame.
+- **Flashcard e ripetizione dilazionata (Anki).** Strutturare gli appunti in flashcard e usare Anki migliora la memorizzazione.
+- **Simulazioni di esame.** Assistendo agli esami altrui si intuisce meglio il livello richiesto.
+
+### Organizzazione dello studio
+- **Studiare in cicli con pause.** Ad esempio: 50 minuti di studio concentrato seguiti da 10 minuti di pausa.
+- **Ripasso continuo.** Ripassare costantemente facilita il mantenimento delle conoscenze nel tempo.
+- **Sfruttare i momenti liberi.** Anche brevi pause tra lezioni possono essere produttive per studio leggero.
+- **Coltivare hobby e mantenersi equilibrati.** Non trascurare la salute mentale e momenti di svago.
+
+### Gestione del tempo e carico di lavoro
+- **Massimo efficace di studio.** 4–5 ore al giorno di studio intenso sono già ottimali; superare le 6–7 può provocare cali cognitivi.
+- **Evitare il procrastinare.** Non illudersi di avere sempre tanto tempo: pianifica da subito.
+- **Programmare gli esami.** Fare un calendario realistico e distribuire esami importanti.
+- **Uso di app anti-distrazioni.** App tipo Forest o Yeolpumta aiutano a restare concentrati (es. metodo Pomodoro).
+
+### Vita sociale e relazioni
+- **Partecipazione attiva.** Andare a lezione, partecipare a gruppi e attività universitarie favorisce integrazione e studio.
+- **Compagni di studio motivati.** Studiare con persone produttive migliora le proprie performance.
+- **Prossimità con i professori.** Frequentare le ore di ricevimento e i feedback migliora il rapporto con i docenti.
+
+### Strumenti didattici utili
+- **Anki e flashcard digitali.** Flashcard dinamiche con immagini, audio e formule aiutano il ripasso.
+- **App per concentrazione.** Strumenti come Forest, Yeolpumta, timer Pomodoro aiutano a gestire lo studio.
+- **Risorse condivise online.** Appunti e dispense (con criterio), mappe concettuali, Notion o Trello aiutano l’organizzazione.
+
+### Errori comuni da evitare
+- **Studiare solo all’ultimo momento.** Evitare di rimandare troppo, in particolare la tesi.  
+- **Sottovalutare l’università rispetto al liceo.** Le conoscenze devono essere solide, non superficiali.
+- **Saltare le lezioni.** Recuperare da soli può essere molto complicato.
+- **Fare troppi esami insieme.** Preparare con cura pochi esami è meglio che tanti superficialmente.
+- **Competizione malsana.** Confrontarsi negativamente con gli altri può generare ansia inutile.
+- **Isolamento o perfezionismo eccessivo.** Evita gruppetti chiusi o aspettative irrealistiche.
 
 <!--  -->
 <!--  -->
@@ -59,7 +304,30 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 
 ## Primo anno
 
+[Piano di studio 2024](https://unipi.coursecatalogue.cineca.it/corsi/2024/10298/insegnamenti/52302)
+
 ### Algebra lineare
+
+<p align="right">(<a href=“#indice”>indice</a>)</p>
+ 
+* [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703170_76821/2025/53206/11527)
+	* CFU 6
+* Professori
+	* A: [Frosini Patrizio](https://www.unipi.it/ateneo/organizzazione/persone/patrizio-frosini-198939/)
+		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=723AA)
+		* Esame
+			* Scritto (obbligatorio)
+			* Orale (facoltativo)
+	* B: [Benvenuti Silvia](https://www.unipi.it/ateneo/organizzazione/persone/silvia-benvenuti-206577/)
+		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=723AA)
+		* Esame
+			* Da agg
+			* Da agg
+	* C: [Szamuely Tamas](https://www.unipi.it/ateneo/organizzazione/persone/tamas-szamuely-135363/)
+		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=723AA)
+		* Esame
+			* Scritto
+			* Orale
 
 <pre style="font-family: monospace;">
 ├── algebra lineare/
@@ -111,6 +379,30 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 </pre>
 
 ### Analisi matematica
+
+<p align="right">(<a href=“#indice”>indice</a>)</p>
+
+* [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703171_76822/2025/53206/11527)
+	* CFU 12
+* Professori
+	* A: [Grisanti Carlo Romano](https://www.unipi.it/ateneo/organizzazione/persone/carlo-romano-grisanti-3934/)
+	* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=724AA)
+	* Esame
+		* Test
+		* Scritto
+		* Orale
+	* B: [Chiodaroli Elisabetta](https://www.unipi.it/ateneo/organizzazione/persone/elisabetta-chiodaroli-123770/)
+	* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=724AA)
+	* Esame
+		* Test
+		* Scritto
+		* Orale
+	* C: [Bianchi Fabrizio](https://www.unipi.it/ateneo/organizzazione/persone/fabrizio-bianchi-157380/), [Talpo Mattia](https://www.unipi.it/ateneo/organizzazione/persone/mattia-talpo-136015/)
+	* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=724AA)
+	* Esame
+		* Test
+		* Scritto
+		* Orale
 
 <pre style="font-family: monospace;">
 ├── analisi matematica/
@@ -350,6 +642,28 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 
 ### Fondamenti di informatica
 
+<p align="right">(<a href=“#indice”>indice</a>)</p>
+
+* [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703164_76826/2025/53206/11527)
+	* CFU 9
+* Professori
+	* A: [Corradini Andrea](https://www.unipi.it/ateneo/organizzazione/persone/andrea-corradini-4316/)
+		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=728AA)
+		* Esame
+			* Pretest
+			* Orale
+	* B: [Bonchi Filippo](https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/)
+		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=728AA)
+		* Esame
+			* Test di valutazione online bisettimanali
+			* Scritto
+			* Orale
+	* C: [Conte Alessio](https://www.unipi.it/ateneo/organizzazione/persone/alessio-conte-136624/)
+		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=728AA)
+		* Esame
+			* Pretest
+			* Orale
+
 <pre style="font-family: monospace;">
 ├── fondamenti di informatica/
 │   ├── appunti/
@@ -488,6 +802,27 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 	
 ### Laboratorio I
 
+<p align="right">(<a href=“#indice”>indice</a>)</p>
+
+* [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703165_76829/2025/53206/11527)
+	* CFU 12
+* Professori
+	* A: [Punzi Giulia](https://www.unipi.it/ateneo/organizzazione/persone/giulia-punzi-195205/), [Ceni Andrea](https://www.unipi.it/ateneo/organizzazione/persone/andrea-ceni-173990/)
+		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-A/2025/53206/11527?coorte=2025&adCodFraz=731AA)
+		* Esame
+			* Compiti in itinere + Orale
+			* Pretest (prova pratica) + Orale
+	* B: [Vinciguerra Giorgio](https://www.unipi.it/ateneo/organizzazione/persone/giorgio-vinciguerra-172064/), [Soldani Jacopo](https://www.unipi.it/ateneo/organizzazione/persone/jacopo-soldani-128445/)
+		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-B/2025/53206/11527?coorte=2025&adCodFraz=731AA)
+		* Esame
+			* Compiti in itinere + Orale
+			* Pretest (prova pratica) + Orale
+	* C: [Turchi Tommaso](https://www.unipi.it/ateneo/organizzazione/persone/tommaso-turchi-182372/), [Tortorella Domenico](https://www.unipi.it/ateneo/organizzazione/persone/domenico-tortorella-195212)
+		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-C/2025/53206/11527?coorte=2025&adCodFraz=731AA)
+		* Esame
+			* Scritto
+			* Orale
+
 <pre style="font-family: monospace;">	
 ├── laboratorio I/
 │   └── libro/
@@ -495,6 +830,27 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 </pre>
 
 ### Programmazione ed Algoritmica
+
+<p align="right">(<a href=“#indice”>indice</a>)</p>
+
+* [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703166_76834/2025/53206/11527)
+	* CFU 15
+* Professori
+	* A: [Bernasconi Anna](https://www.unipi.it/ateneo/organizzazione/persone/anna-bernasconi-5852/), [Gori Roberta](https://www.unipi.it/ateneo/organizzazione/persone/roberta-gori-4249/)
+		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=735AA)
+		* Esame
+			* Scritto
+			* Orale
+	* B: [Pisanti Nadia](https://www.unipi.it/ateneo/organizzazione/persone/nadia-pisanti-1077/), [Bruni Roberto](https://www.unipi.it/ateneo/organizzazione/persone/roberto-bruni-4248/)
+		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=735AA)
+		* Esame
+			* Scritto
+			* Orale
+	* C: [Grossi Roberto](https://www.unipi.it/ateneo/organizzazione/persone/roberto-grossi-5777), [Priami Corrado](https://www.unipi.it/ateneo/organizzazione/persone/corrado-priami-126061/), [Bonchi Filippo](https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/)
+		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=735AA)
+		* Esame
+			* Scritto
+			* Orale
 
 <pre style="font-family: monospace;">
 ├── programmazione ed Algoritmica/
@@ -634,9 +990,12 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 
 ## Link
 
-### Ufficiali
-L'Università di Pisa, come tutte le altre Università, ha una serie di portali e servizi che sono stati creati in momenti diversi e da persone diverse. Per questo potrebbe crearsi confusione nella miriade di siti e link e sezioni, ed è anche il motivo per cui sto creando questa _Guida_!
+<p align="right">(<a href=“#indice”>indice</a>)</p>
 
+### Ufficiali
+
+L'Università di Pisa, come tutte le altre Università, ha una serie di portali e servizi che sono stati creati in momenti diversi e da persone diverse. Per questo potrebbe crearsi confusione nella miriade di siti e link e sezioni, ed è anche il motivo per cui sto creando questa _Guida_!
+<!--  -->
 ### Portale Alice
 
 Questo sito raccoglie i servizi online generici per tutti gli studenti, ad esempio i pagamenti delle tasse e il libretto che raccoglierà i voti (appena e se passerete gli esami 😉).
@@ -646,28 +1005,45 @@ Per immatricolarsi, è necessario registrarsi al sito, ricordatevi nome utente e
 Quindi ricapitolando questo portale vi servirà principalmente per stampare i MAV delle tasse e visualizzare gli esiti degli esami.
 
 **Link:** https://www.studenti.unipi.it
-
-
+<!--  -->
 ### Esami
+
 Anche questo è un portale generico per tutti gli studenti e consente l'iscrizione agli esami.
 
 L'iscrizione ad un esame è **obbligatoria**, quindi ricordatevi di segnarvi a tutti gli esami che intendete sostenere per tempo! Meglio iscriversi e non presentarsi (non succede niente), piuttosto che dimenticarsi di farlo e non poter partecipare.
 
 **Link:** https://esami.unipi.it
-
+<!--  -->
 ### Sito del Corso di Laurea
+
 Finalmente entriamo nello specifico, infatti ecco il sito ufficiale della Laurea Triennale in Informatica.
 
 Molto utile per vedere il calendario scolastico (i giorni di vacanza, inizio e termine lezioni, inizio e termine appelli), per vedere eventuali annunci (anche se non ce ne sono quasi mai), e avere un riferimento al regolamento ufficiale. Insomma, dalla sidebar di sinistra ci sono tante info utili che è bene guardare!
 
 **Link:** https://didattica.di.unipi.it/laurea-in-informatica
-
+<!--  -->
 ### E-Learning
+
 E-Learning è un portale che raccoglie siti per diversi corsi, nel senso che un professore può decidere di utilizzarlo come piattaforma all'interno del suo corso per condividere materiale, informazioni e annunci.
 
 Sono ormai diversi i professori che lo utilizzano e la lista si trova a questo indirizzo: https://elearning.di.unipi.it/course/index.php
+<!--  -->
+### Gruppo Telegram Ufficiale
+
+**Link:** https://t.me/IannoInfPisa
+<!--  -->
+### Orario 
+
+**Link:** https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=6319d6a9f7245e0c5c9094e3
+
+
+<!--  -->
+<!--  -->
+<!--  -->
 
 ## Non ufficiali
+
+<p align="right">(<a href=“#indice”>indice</a>)</p>
 
 ### Gruppo Telegram
 
@@ -683,13 +1059,25 @@ Non è un canale ufficiale dell’ateneo, quindi per informazioni certe è sempr
 
 ## Servizi
 
-### Libretto sull'app IO
+<p align="right">(<a href=“#indice”>indice</a>)</p>
 
-Ecco un servizio comodissimo: l’app IO ti avvisa ogni volta che un docente registra un tuo verbale d’esame, così non devi andare a controllare ogni due minuti su portali vari.
-Attivarlo è semplicissimo: basta scaricare l’app IO, aprirla, andare su “Servizi”, cercare “Università di Pisa”, cliccare su “Libretto UniPi” e abilitare le notifiche. In questo modo, ogni volta che un esame viene verbalizzato, ti arriva subito la notifica sul telefono.
+### Libretto sull app IO
 
+Con l’app IO ricevi una notifica ogni volta che un docente registra un tuo verbale d’esame, senza dover controllare continuamente i vari portali.
+Attivarla è davvero semplice: scarica l’app IO, aprila, vai su “Servizi”, cerca “Università di Pisa”, seleziona “Libretto UniPi” e abilita le notifiche.
+Così, ogni volta che un esame viene verbalizzato, riceverai subito l’avviso direttamente sul tuo telefono.
+<!--  -->
 ### Mappa interattiva
 
-Una comoda mappa basata su Google Maps con tanti POI per gli studenti, creata da Tutors Fisica UniPi.
+Una comoda mappa basata su Google Maps con tanti POI per gli studenti, creata da Tutors Fisica UniPi. (Non aggiornata)
 
 **Link:** https://www.google.com/maps/d/viewer?mid=15ElNsEFgwU9r9wPMi_oPp1XhZDA
+<!--  -->
+### Mappa DSU
+
+**Link:** https://geografia.regione.toscana.it/mapstore/embedded.html?forceDrawer=true#/1132
+<!--  -->
+### Bot menu mense 
+
+**Link:** https://t.me/menu_mense_pisa
+<!--  -->
