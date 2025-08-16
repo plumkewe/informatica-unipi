@@ -14,6 +14,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 [<img src="https://wsrv.nl/?url=github.com/filoghira.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="filoghira" />](https://github.com/filoghira)
 [<img src="https://wsrv.nl/?url=github.com/plumkewe.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="plumkewe" />](https://github.com/plumkewe)
 [<img src="https://wsrv.nl/?url=github.com/Pitasi.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Pitasi" />](https://github.com/Pitasi)
+[<img src="https://wsrv.nl/?url=github.com/FCatinella.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="FCatinella" />](https://github.com/FCatinella)
 [<img src="https://wsrv.nl/?url=github.com/Guray00.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Guray00" />](https://github.com/Guray00)
 
 <!--  -->
@@ -24,6 +25,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 
 * [Panoramica](#panoramica)
 	* [Appelli](#appelli)
+	* [Sospensioni attività didattica](#sospensioni-attività-didattica)
 * [Consigli](#consigli)
 	* [Generali per le matricole](generali-per-le-matricole)
 	* [Strategie per superare gli esami](strategie-per-superare-gli-esami)
@@ -53,6 +55,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 	* [Libretto sull'app IO](#libretto-sull-app-io)
 	* [Mappa interattiva](#mappa-interattiva)
 	* [Mappa DSU](#mappa-dsu) 
+	* [Mappa Musei di Ateneo](#mappa-musei-di-ateneo)
 	* [Bot menu mense](#bot-menu-mense)
 
 <!--  -->
@@ -246,7 +249,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 </table>
 
 > [!NOTE]
-> Per le pagine si intendono gli appunti di [Matteo Giuntoni](https://github.com/bigmat18), studente.
+> Per le pagine si intendono gli appunti di [Matteo Giuntoni](https://github.com/bigmat18), studente. Inoltre, questi appunti[^1] costituiscono la base di questo README.
 
 <!--  -->
 <!--  -->
@@ -256,9 +259,11 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 
 <p align="right">(<a href="#indice">indice</a>)</p>
 
-[Calendario](https://didattica.di.unipi.it/laurea-in-informatica/calendario-lezioni-ed-esami-aa-2025-2026/)
+[Calendario](https://didattica.di.unipi.it/laurea-in-informatica/calendario-lezioni-ed-esami-aa-2025-2026/#:~:text=Appelli%20ordinari)・[.ics](calendario/sessioni.ics)
 
 #### Ordinari
+
+Primo anno
 
 <table>
 	<tr>
@@ -298,12 +303,73 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 <!--  -->
 <!--  -->
 
+### Sospensioni attività didattica
+
+<p align="right">(<a href="#indice">indice</a>)</p>
+
+[Calendario](https://didattica.di.unipi.it/laurea-in-informatica/calendario-lezioni-ed-esami-aa-2025-2026/#:~:text=Sospensioni%20attivit%C3%A0%20didattica)・[.ics](calendario/vacanze.ics)
+
+<table>
+	<thead>
+		<tr>
+			<th>NOME</th>
+			<th>DA</th>
+			<th>A</th>
+			<th>GIORNI</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Vacanze natalizie</td>
+			<td>22/12/2025</td>
+			<td>06/01/2026</td>
+			<td>16</td>
+		</tr>
+		<tr>
+			<td>Vacanze di Pasqua</td>
+			<td>02/04/2026</td>
+			<td>07/04/2026</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td rowspan="6">Festività</td>
+			<td colspan="2">01/11/2025</td>
+			<td rowspan="6">1</td>
+		</tr>
+		<tr>
+			<td colspan="2">08/12/2025</td>
+		</tr>
+		<tr>
+			<td colspan="2">25/04/2026</td>
+		</tr>
+		<tr>
+			<td colspan="2">01/05/2026</td>
+		</tr>
+		<tr>
+			<td colspan="2">02/06/2026</td>
+		</tr>
+		<tr>
+			<td colspan="2">17/06/2026</td>
+		</tr>
+		<tr>
+			<td>Vacanze estive</td>
+			<td>01/08/2026</td>
+			<td>22/08/2026</td>
+			<td>22</td>
+		</tr>
+	</tbody>
+</table>
+
+<!--  -->
+<!--  -->
+<!--  -->
+
 ## Consigli
 
 <p align="right">(<a href="#indice">indice</a>)</p>
 
 > [!CAUTION]
-> Il seguente elenco di consigli è stato generato da ChatGPT sulla base delle informazioni raccolte su r/universitaly
+> Il seguente elenco di consigli è stato generato da ChatGPT sulla base delle informazioni raccolte su [r/universitaly](https://www.reddit.com/r/Universitaly/)
 
 ### Generali per le matricole
 - **Frequentare le lezioni e rivedere subito gli appunti.** Studiare seguendo le lezioni e correggere gli appunti a fine giornata facilita l’apprendimento.
@@ -392,9 +458,9 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 <!-- 			* Scritto -->
 <!-- 			* Orale -->
 
-Sono inoltre disponibili gli appunti di tre professori: [Gobbino](primo-anno/algebra%20lineare/appunti/massimo-gobbino/), [Pearlstein](primo-anno/algebra%20lineare/appunti/gregory-pearlstein/), e [Szamuely](primo-anno/algebra%20lineare/appunti/tamas-szamuely/).
+Sono inoltre disponibili gli appunti di tre professori: [Gobbino](primo-anno/algebra%20lineare/appunti/massimo-gobbino/)[^2], [Pearlstein](primo-anno/algebra%20lineare/appunti/gregory-pearlstein/)[^3], e [Szamuely](primo-anno/algebra%20lineare/appunti/tamas-szamuely/)[^4].
 
-Sono disponibili anche [altre dispense](primo-anno/algebra%20lineare/appunti/altro/), con esami passati, esercizi, pretest, e simulazioni.
+Sono disponibili anche [altre dispense](primo-anno/algebra%20lineare/appunti/altro/), con esami passati, esercizi, pretest, e simulazioni[^5].
 
 <pre style="font-family: monospace;">
 ├── algebra lineare/
@@ -471,7 +537,7 @@ Sono disponibili anche [altre dispense](primo-anno/algebra%20lineare/appunti/alt
 <!-- 		* Scritto -->
 <!-- 		* Orale -->
 
-Sono inoltre disponibili gli appunti del professor [Gobbino](primo-anno/analisi%20matematica/appunti/massimo-gobbino).
+Sono inoltre disponibili gli appunti del professor [Gobbino](primo-anno/analisi%20matematica/appunti/massimo-gobbino)[^6].
 
 Sono presenti anche alcuni [esami precedenti](primo-anno/analisi%20matematica/esami).
 
@@ -1065,7 +1131,7 @@ Sono presenti anche alcuni [esami precedenti](primo-anno/analisi%20matematica/es
 
 ### Ufficiali
 
-L'Università di Pisa, come tutte le altre Università, ha una serie di portali e servizi che sono stati creati in momenti diversi e da persone diverse. Per questo potrebbe crearsi confusione nella miriade di siti e link e sezioni, ed è anche il motivo per cui sto creando questa _Guida_!
+L'Università di Pisa, come tutte le altre Università, ha una serie di portali e servizi che sono stati creati in momenti diversi e da persone diverse. Per questo potrebbe crearsi confusione nella miriade di siti e link e sezioni, ed è anche il motivo per cui sto creando questa _Guida_[^7]!
 <!--  -->
 ### Portale Alice
 
@@ -1073,7 +1139,7 @@ Questo sito raccoglie i servizi online generici per tutti gli studenti, ad esemp
 
 Per immatricolarsi, è necessario registrarsi al sito, ricordatevi nome utente e password, saranno necessari per fare un sacco di cose all'interno dell'Università quando sarete ufficialmente immatricolati!
 
-Quindi ricapitolando questo portale vi servirà principalmente per stampare i MAV delle tasse e visualizzare gli esiti degli esami.
+Quindi ricapitolando questo portale vi servirà principalmente per stampare i MAV delle tasse e visualizzare gli esiti degli esami[^7].
 
 **Link:** https://www.studenti.unipi.it
 <!--  -->
@@ -1081,7 +1147,7 @@ Quindi ricapitolando questo portale vi servirà principalmente per stampare i MA
 
 Anche questo è un portale generico per tutti gli studenti e consente l'iscrizione agli esami.
 
-L'iscrizione ad un esame è **obbligatoria**, quindi ricordatevi di segnarvi a tutti gli esami che intendete sostenere per tempo! Meglio iscriversi e non presentarsi (non succede niente), piuttosto che dimenticarsi di farlo e non poter partecipare.
+L'iscrizione ad un esame è **obbligatoria**, quindi ricordatevi di segnarvi a tutti gli esami che intendete sostenere per tempo! Meglio iscriversi e non presentarsi (non succede niente), piuttosto che dimenticarsi di farlo e non poter partecipare[^7].
 
 **Link:** https://esami.unipi.it
 <!--  -->
@@ -1089,13 +1155,13 @@ L'iscrizione ad un esame è **obbligatoria**, quindi ricordatevi di segnarvi a t
 
 Finalmente entriamo nello specifico, infatti ecco il sito ufficiale della Laurea Triennale in Informatica.
 
-Molto utile per vedere il calendario scolastico (i giorni di vacanza, inizio e termine lezioni, inizio e termine appelli), per vedere eventuali annunci (anche se non ce ne sono quasi mai), e avere un riferimento al regolamento ufficiale. Insomma, dalla sidebar di sinistra ci sono tante info utili che è bene guardare!
+Molto utile per vedere il calendario scolastico (i giorni di vacanza, inizio e termine lezioni, inizio e termine appelli), per vedere eventuali annunci (anche se non ce ne sono quasi mai), e avere un riferimento al regolamento ufficiale. Insomma, dalla sidebar di sinistra ci sono tante info utili che è bene guardare[^7]!
 
 **Link:** https://didattica.di.unipi.it/laurea-in-informatica
 <!--  -->
 ### E-Learning
 
-E-Learning è un portale che raccoglie siti per diversi corsi, nel senso che un professore può decidere di utilizzarlo come piattaforma all'interno del suo corso per condividere materiale, informazioni e annunci.
+E-Learning è un portale che raccoglie siti per diversi corsi, nel senso che un professore può decidere di utilizzarlo come piattaforma all'interno del suo corso per condividere materiale, informazioni e annunci[^7].
 
 Sono ormai diversi i professori che lo utilizzano e la lista si trova a questo indirizzo: https://elearning.di.unipi.it/course/index.php
 <!--  -->
@@ -1137,18 +1203,49 @@ Non è un canale ufficiale dell’ateneo, quindi per informazioni certe è sempr
 Con l’app IO ricevi una notifica ogni volta che un docente registra un tuo verbale d’esame, senza dover controllare continuamente i vari portali.
 Attivarla è davvero semplice: scarica l’app IO, aprila, vai su “Servizi”, cerca “Università di Pisa”, seleziona “Libretto UniPi” e abilita le notifiche.
 Così, ogni volta che un esame viene verbalizzato, riceverai subito l’avviso direttamente sul tuo telefono.
+
+Leggi la notizia:
+
+**Link:** https://old.unipi.it/index.php/lista-comunicati-stampa/item/21115-il-libretto-degli-studenti-unipi-sbarca-sull-app-io
 <!--  -->
 ### Mappa interattiva
 
-Una comoda mappa basata su Google Maps con tanti POI per gli studenti, creata da Tutors Fisica UniPi. (Non aggiornata)
+Una comoda mappa basata su Google Maps con tanti POI per gli studenti, creata da Tutors Fisica UniPi[^7]. (Non aggiornata)
 
 **Link:** https://www.google.com/maps/d/viewer?mid=15ElNsEFgwU9r9wPMi_oPp1XhZDA
 <!--  -->
 ### Mappa DSU
 
+[La Carta dello Studente](https://www.regione.toscana.it/-/studente-della-toscana-la-nuova-carta-unica-dello-studente-universitario), parte del progetto regionale Giovanisì, unifica l'accesso a tutti i servizi per gli universitari di Pisa, Firenze e Siena.
+
+Questa tessera sostituisce le vecchie carte e funziona come un borsellino elettronico. Offre l'accesso a mense, biblioteche, sale studio, e include sconti per teatri, musei e trasporti pubblici in tutta la Toscana
+
+Consulta la mappa dei servizi della Carta dello Studente:
+
 **Link:** https://geografia.regione.toscana.it/mapstore/embedded.html?forceDrawer=true#/1132
 <!--  -->
-### Bot menu mense 
+### Mappa Musei di Ateneo
+
+Puoi visualizzare comodamente i musei che fanno parte del Sistema Museale di Ateneo e altri sulla mappa, che evidenzia sia questi sia altri musei situati a Pisa.
+
+**Link:** https://maps.app.goo.gl/m2AwsozWfqktJrCb7
+<!--  -->
+### Bot menu mense
+
+Un comodo bot sviluppato da [Fabio Catinella](https://github.com/FCatinella) e Frank che permette di visualizzare i menu delle diverse mense universitarie presenti sul territorio pisano.
 
 **Link:** https://t.me/menu_mense_pisa
 <!--  -->
+
+
+<!--  -->
+<!--  -->
+<!--  -->
+
+[^1]: Questi appunti sono disponibili sulla [repository](https://github.com/bigmat18/Appunti-Informatica-UNIPI) di Matteo con licenza WTFPL. 
+[^2]: Gli appunti del professor Gobbino si trovano sul suo [sito](https://pagine.dm.unipi.it/gobbino/Home_Page/AD_AL_24.html) personale.
+[^3]: Gli appunti del professor Pearlstein sono stati trovati sulla repository [IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica).
+[^4]: Gli appunti del professor Szamuely si trovano sul suo [sito](https://pagine.dm.unipi.it/tamas/teaching.html) personale.
+[^5]: I materiali aggiuntivi sono stati trovati sulla repository [IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica).
+[^6]: Gli appunti del professor Gobbino si trovano sul suo [sito](https://pagine.dm.unipi.it/~a009199/Home_Page/AD_AM1_25.html) personale (versione più recente del 2024).
+[^7]: Tale informazione è stata presa dalla repository [informateci-faq](https://github.com/Pitasi/informateci-faq) di Antonio Pitasi, admin del gruppo non ufficiale.
