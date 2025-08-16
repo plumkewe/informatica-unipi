@@ -259,7 +259,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 
 <p align="right">(<a href="#indice">indice</a>)</p>
 
-[Calendario](https://didattica.di.unipi.it/laurea-in-informatica/calendario-lezioni-ed-esami-aa-2025-2026/#:~:text=Appelli%20ordinari)・[.ics](calendario/sessioni.ics)
+[Calendario](https://didattica.di.unipi.it/laurea-in-informatica/calendario-lezioni-ed-esami-aa-2025-2026/#:~:text=Appelli%20ordinari)・[.ics](https://github.com/plumkewe/informatica-unipi/releases/download/File/sessioni.ics)
 
 #### Ordinari
 
@@ -307,7 +307,7 @@ Primo anno
 
 <p align="right">(<a href="#indice">indice</a>)</p>
 
-[Calendario](https://didattica.di.unipi.it/laurea-in-informatica/calendario-lezioni-ed-esami-aa-2025-2026/#:~:text=Sospensioni%20attivit%C3%A0%20didattica)・[.ics](calendario/vacanze.ics)
+[Calendario](https://didattica.di.unipi.it/laurea-in-informatica/calendario-lezioni-ed-esami-aa-2025-2026/#:~:text=Sospensioni%20attivit%C3%A0%20didattica)・[.ics](https://github.com/plumkewe/informatica-unipi/releases/download/File/vacanze.ics)
 
 <table>
 	<thead>
