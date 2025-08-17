@@ -57,6 +57,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 	* [Mappa DSU](#mappa-dsu) 
 	* [Mappa Musei di Ateneo](#mappa-musei-di-ateneo)
 	* [Bot menu mense](#bot-menu-mense)
+	* [GitHub PRO](#github-pro)
 
 <!--  -->
 <!--  -->
@@ -537,9 +538,11 @@ Sono disponibili anche [altre dispense](primo-anno/algebra%20lineare/appunti/alt
 <!-- 		* Scritto -->
 <!-- 		* Orale -->
 
-Sono inoltre disponibili gli appunti del professor [Gobbino](primo-anno/analisi%20matematica/appunti/massimo-gobbino)[^6].
+Sono inoltre disponibili gli appunti del professor Gobbino[^6] in due versioni: quelli dell’anno accademico [2024/2025](primo-anno/analisi%20matematica/appunti/massimo-gobbino/2024-2025/README.md), che presentano solo gli appunti, e quelli del [2016/2017](primo-anno/analisi%20matematica/appunti/massimo-gobbino/2016-2017/README.md), che includono anche le video-lezioni pubblicate su YouTube.
 
-Sono presenti anche alcuni [esami precedenti](primo-anno/analisi%20matematica/esami).
+Sempre a cura del professor Gobbino sono disponibili anche [esercizi](primo-anno/analisi%20matematica/esercizi)[^10] e prove d’esame passate!
+
+Sono presenti anche ulteriori [esami precedenti](primo-anno/analisi%20matematica/esami)[^5].
 
 <pre style="font-family: monospace;">
 ├── analisi matematica/
@@ -1236,7 +1239,11 @@ Un comodo bot sviluppato da [Fabio Catinella](https://github.com/FCatinella) e F
 
 **Link:** https://t.me/menu_mense_pisa
 <!--  -->
+### GitHub PRO
 
+Il GitHub Student Developer Pack è un comodo pacchetto offerto da GitHub che mette a disposizione strumenti, servizi cloud e software gratuiti per studenti, utile per creare, testare e gestire progetti di programmazione.
+
+**Link:** https://education.github.com/pack
 
 <!--  -->
 <!--  -->
@@ -1249,3 +1256,4 @@ Un comodo bot sviluppato da [Fabio Catinella](https://github.com/FCatinella) e F
 [^5]: I materiali aggiuntivi sono stati trovati sulla repository [IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica).
 [^6]: Gli appunti del professor Gobbino si trovano sul suo [sito](https://pagine.dm.unipi.it/~a009199/Home_Page/AD_AM1_25.html) personale (versione più recente del 2024).
 [^7]: Tale informazione è stata presa dalla repository [informateci-faq](https://github.com/Pitasi/informateci-faq) di Antonio Pitasi, admin del gruppo non ufficiale.
+[^8]: Gli esercizi e le prove d'esame del professor Gobbino si trovano sul suo [sito](https://pagine.dm.unipi.it/gobbino/Home_Page/AD_Esercizi.html) personale.
