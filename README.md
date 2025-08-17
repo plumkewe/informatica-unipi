@@ -1180,11 +1180,13 @@ Il GitHub Student Developer Pack è un comodo pacchetto offerto da GitHub che me
 
 ## Eventi
 
+<p align="right">(<a href="#indice">indice</a>)</p>
+
 ### pisa.dev
 
 Una community di sviluppatori che organizza eventi gratuiti su varie tematiche per favorire lo scambio di conoscenze e la crescita professionale.
 
-**Link:** https://pisa.dev/
+**Link:** https://pisa.dev
 
 <!--  -->
 <!--  -->
