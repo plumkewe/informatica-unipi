@@ -1,7 +1,7 @@
 # Massimo Gobbino
 **Analisi I 2024/2025**
 
-Gli appunti del professor [Gobbino](https://www.unipi.it/ateneo/organizzazione/persone/massimo-gobbino-4832/), presi dal suo [sito web](https://pagine.dm.unipi.it/~a009199/Home_Page/AD_AM1_25.html): qui sotto potete trovare quelli dell’anno accademico 2024/2025 di Analisi 1, ma ci sono anche quelli dell’anno accademico [2016/2017](primo-anno/analisi%20matematica/appunti/massimo-gobbino/2016-2017/README.md). Tra l'altro, questi ultimi presentano anche i link alle video-lezioni pubblicate su YouTube!
+Gli appunti del professor [Gobbino](https://www.unipi.it/ateneo/organizzazione/persone/massimo-gobbino-4832/), presi dal suo [sito web](https://pagine.dm.unipi.it/~a009199/Home_Page/AD_AM1_25.html): qui sotto potete trovare quelli dell’anno accademico 2024/2025 di Analisi 1, ma ci sono anche quelli dell’anno accademico [2016/2017](../2016-2017/README.md). Tra l'altro, questi ultimi presentano anche i link alle video-lezioni pubblicate su YouTube!
 
 Consiglio vivamente di dare un’occhiata al sito del professore, dove pubblica altro materiale utile per gli studenti, comprese le videoregistrazioni delle lezioni!
 
