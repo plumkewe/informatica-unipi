@@ -540,7 +540,7 @@ Sono disponibili anche [altre dispense](primo-anno/algebra%20lineare/appunti/alt
 
 Sono inoltre disponibili gli appunti del professor Gobbino[^6] in due versioni: quelli dell’anno accademico [2024/2025](primo-anno/analisi%20matematica/appunti/massimo-gobbino/2024-2025/README.md), che presentano solo gli appunti, e quelli del [2016/2017](primo-anno/analisi%20matematica/appunti/massimo-gobbino/2016-2017/README.md), che includono anche le video-lezioni pubblicate su YouTube.
 
-Sempre a cura del professor Gobbino sono disponibili anche [esercizi](primo-anno/analisi%20matematica/esercizi)[^10] e prove d’esame passate!
+Sempre a cura del professor Gobbino sono disponibili anche [esercizi](primo-anno/analisi%20matematica/esercizi)[^8] e prove d’esame passate!
 
 Sono presenti anche ulteriori [esami precedenti](primo-anno/analisi%20matematica/esami)[^5].
 
