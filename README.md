@@ -4,9 +4,13 @@ Questa repository è stata creata con l’obiettivo di facilitare lo studio per 
 
 Se conoscete altre risorse interessanti o avete suggerimenti per migliorare questa repository, siete invitati ad aprire una issue.
 
-<!--  -->
-<!--  -->
-<!--  -->
+```
+https://github.com/plumkewe/informatica-unipi/
+```
+
+<!-- Nulla di interessante qui -->
+<!-- Nulla di interessante qui -->
+<!-- Nulla di interessante qui -->
 
 ## Contributori
 
@@ -51,13 +55,16 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 		* [Orario](#orario)
 	* [Non ufficali](#non-ufficiali)
 		* [Gruppo Telegram](#gruppo-telegram)
+		* [Informateci](#informateci)
 * [Servizi](#servizi)
 	* [Libretto sull'app IO](#libretto-sull-app-io)
 	* [Mappa interattiva](#mappa-interattiva)
 	* [Mappa DSU](#mappa-dsu) 
 	* [Mappa Musei di Ateneo](#mappa-musei-di-ateneo)
 	* [Bot menu mense](#bot-menu-mense)
-	* [GitHub PRO](#github-pro)
+	* [GitHub Pro](#github-pro)
+* [Eventi](#eventi)
+	* [pisa.dev](#pisadev)
 
 <!--  -->
 <!--  -->
@@ -420,14 +427,6 @@ Primo anno
 
 ## Appunti
 
-<!-- | CFU | NOME MATERIA                     | -->
-<!-- |-----|---------------------------------| -->
-<!-- | 06  | [Algebra lineare](#algebra-lineare)       | -->
-<!-- | 12  | [Analisi matematica](#analisi-matematica) | -->
-<!-- | 09  | [Fondamenti di informatica](#fondamenti-di-informatica) | -->
-<!-- | 12  | [Laboratorio I](#laboratorio-i)            | -->
-<!-- | 15  | [Programmazione ed Algoritmica](#programmazione-ed-algoritmica) | -->
-
 <!--  -->
 <!--  -->
 <!--  -->
@@ -439,27 +438,10 @@ Primo anno
 ### Algebra lineare
 
 <p align="right">(<a href="#indice">indice</a>)</p>
- 
-<!-- * [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703170_76821/2025/53206/11527) -->
-<!-- 	* CFU 6 -->
-<!-- * Professori -->
-<!-- 	* A: [Frosini Patrizio](https://www.unipi.it/ateneo/organizzazione/persone/patrizio-frosini-198939/) -->
-<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=723AA) -->
-<!-- 		* Esame -->
-<!-- 			* Scritto (obbligatorio) -->
-<!-- 			* Orale (facoltativo) -->
-<!-- 	* B: [Benvenuti Silvia](https://www.unipi.it/ateneo/organizzazione/persone/silvia-benvenuti-206577/) -->
-<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=723AA) -->
-<!-- 		* Esame -->
-<!-- 			* Da agg -->
-<!-- 			* Da agg -->
-<!-- 	* C: [Szamuely Tamas](https://www.unipi.it/ateneo/organizzazione/persone/tamas-szamuely-135363/) -->
-<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=723AA) -->
-<!-- 		* Esame -->
-<!-- 			* Scritto -->
-<!-- 			* Orale -->
 
 Sono inoltre disponibili gli appunti di tre professori: [Gobbino](primo-anno/algebra%20lineare/appunti/massimo-gobbino/)[^2], [Pearlstein](primo-anno/algebra%20lineare/appunti/gregory-pearlstein/)[^3], e [Szamuely](primo-anno/algebra%20lineare/appunti/tamas-szamuely/)[^4].
+
+Inoltre gli appunti del professor Gobbino sono disponibili in due versioni: quelli dell’anno accademico [2023/2024](primo-anno/algebra%20lineare/appunti/massimo-gobbino/2023-2024/README.md), che presentano solo gli appunti, e quelli del [2018/2019](primo-anno/algebra%20lineare/appunti/massimo-gobbino/2018-2019/README.md), che includono anche le video-lezioni pubblicate su YouTube.
 
 Sono disponibili anche [altre dispense](primo-anno/algebra%20lineare/appunti/altro/), con esami passati, esercizi, pretest, e simulazioni[^5].
 
@@ -515,28 +497,6 @@ Sono disponibili anche [altre dispense](primo-anno/algebra%20lineare/appunti/alt
 ### Analisi matematica
 
 <p align="right">(<a href="#indice">indice</a>)</p>
-
-<!-- * [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703171_76822/2025/53206/11527) -->
-<!-- 	* CFU 12 -->
-<!-- * Professori -->
-<!-- 	* A: [Grisanti Carlo Romano](https://www.unipi.it/ateneo/organizzazione/persone/carlo-romano-grisanti-3934/) -->
-<!-- 	* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=724AA) -->
-<!-- 	* Esame -->
-<!-- 		* Test -->
-<!-- 		* Scritto -->
-<!-- 		* Orale -->
-<!-- 	* B: [Chiodaroli Elisabetta](https://www.unipi.it/ateneo/organizzazione/persone/elisabetta-chiodaroli-123770/) -->
-<!-- 	* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=724AA) -->
-<!-- 	* Esame -->
-<!-- 		* Test -->
-<!-- 		* Scritto -->
-<!-- 		* Orale -->
-<!-- 	* C: [Bianchi Fabrizio](https://www.unipi.it/ateneo/organizzazione/persone/fabrizio-bianchi-157380/), [Talpo Mattia](https://www.unipi.it/ateneo/organizzazione/persone/mattia-talpo-136015/) -->
-<!-- 	* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=724AA) -->
-<!-- 	* Esame -->
-<!-- 		* Test -->
-<!-- 		* Scritto -->
-<!-- 		* Orale -->
 
 Sono inoltre disponibili gli appunti del professor Gobbino[^6] in due versioni: quelli dell’anno accademico [2024/2025](primo-anno/analisi%20matematica/appunti/massimo-gobbino/2024-2025/README.md), che presentano solo gli appunti, e quelli del [2016/2017](primo-anno/analisi%20matematica/appunti/massimo-gobbino/2016-2017/README.md), che includono anche le video-lezioni pubblicate su YouTube.
 
@@ -784,26 +744,6 @@ Sono presenti anche ulteriori [esami precedenti](primo-anno/analisi%20matematica
 
 <p align="right">(<a href="#indice">indice</a>)</p>
 
-<!-- * [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703164_76826/2025/53206/11527) -->
-<!-- 	* CFU 9 -->
-<!-- * Professori -->
-<!-- 	* A: [Corradini Andrea](https://www.unipi.it/ateneo/organizzazione/persone/andrea-corradini-4316/) -->
-<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=728AA) -->
-<!-- 		* Esame -->
-<!-- 			* Pretest -->
-<!-- 			* Orale -->
-<!-- 	* B: [Bonchi Filippo](https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/) -->
-<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=728AA) -->
-<!-- 		* Esame -->
-<!-- 			* Test di valutazione online bisettimanali -->
-<!-- 			* Scritto -->
-<!-- 			* Orale -->
-<!-- 	* C: [Conte Alessio](https://www.unipi.it/ateneo/organizzazione/persone/alessio-conte-136624/) -->
-<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=728AA) -->
-<!-- 		* Esame -->
-<!-- 			* Pretest -->
-<!-- 			* Orale -->
-
 <pre style="font-family: monospace;">
 ├── fondamenti di informatica/
 │   ├── appunti/
@@ -936,32 +876,13 @@ Sono presenti anche ulteriori [esami precedenti](primo-anno/analisi%20matematica
 │   │       ├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/esercizio/esercitazione/3.pdf">3.pdf</a> (7 pagine)
 │   │       ├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/esercizio/esercitazione/4.pdf">4.pdf</a> (7 pagine)
 │   │       └── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/esercizio/esercitazione/5.pdf">5.pdf</a> (8 pagine)
-│   ├── <a href="primo-anno/fondamenti%20di%20informatica/Fondamenti%20di%20informatica.pdf">Fondamenti di informatica.pdf</a> (233 pagine)
-│   └── <a href="primo-anno/fondamenti%20di%20informatica/Insiemi%20Relazioni%20e%20Logica%20-%20Formulario.pdf">Insiemi Relazioni e Logica - Formulario.pdf</a> (2 pagine)
+│   ├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/Fondamenti%20di%20informatica.pdf">Fondamenti di informatica.pdf</a> (233 pagine)
+│   └── <a href="primo-anno/fondamenti%20di%20informatica//appunti/matteo-giuntoni/Insiemi%20Relazioni%20e%20Logica%20-%20Formulario.pdf">Insiemi Relazioni e Logica - Formulario.pdf</a> (2 pagine)
 </pre>
 	
 ### Laboratorio I
 
 <p align="right">(<a href="#indice">indice</a>)</p>
-
-<!-- * [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703165_76829/2025/53206/11527) -->
-<!-- 	* CFU 12 -->
-<!-- * Professori -->
-<!-- 	* A: [Punzi Giulia](https://www.unipi.it/ateneo/organizzazione/persone/giulia-punzi-195205/), [Ceni Andrea](https://www.unipi.it/ateneo/organizzazione/persone/andrea-ceni-173990/) -->
-<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-A/2025/53206/11527?coorte=2025&adCodFraz=731AA) -->
-<!-- 		* Esame -->
-<!-- 			* Compiti in itinere + Orale -->
-<!-- 			* Pretest (prova pratica) + Orale -->
-<!-- 	* B: [Vinciguerra Giorgio](https://www.unipi.it/ateneo/organizzazione/persone/giorgio-vinciguerra-172064/), [Soldani Jacopo](https://www.unipi.it/ateneo/organizzazione/persone/jacopo-soldani-128445/) -->
-<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-B/2025/53206/11527?coorte=2025&adCodFraz=731AA) -->
-<!-- 		* Esame -->
-<!-- 			* Compiti in itinere + Orale -->
-<!-- 			* Pretest (prova pratica) + Orale -->
-<!-- 	* C: [Turchi Tommaso](https://www.unipi.it/ateneo/organizzazione/persone/tommaso-turchi-182372/), [Tortorella Domenico](https://www.unipi.it/ateneo/organizzazione/persone/domenico-tortorella-195212) -->
-<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-C/2025/53206/11527?coorte=2025&adCodFraz=731AA) -->
-<!-- 		* Esame -->
-<!-- 			* Scritto -->
-<!-- 			* Orale -->
 
 <pre style="font-family: monospace;">	
 ├── laboratorio I/
@@ -972,25 +893,6 @@ Sono presenti anche ulteriori [esami precedenti](primo-anno/analisi%20matematica
 ### Programmazione ed Algoritmica
 
 <p align="right">(<a href="#indice">indice</a>)</p>
-
-<!-- * [Informazioni 2025](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703166_76834/2025/53206/11527) -->
-<!-- 	* CFU 15 -->
-<!-- * Professori -->
-<!-- 	* A: [Bernasconi Anna](https://www.unipi.it/ateneo/organizzazione/persone/anna-bernasconi-5852/), [Gori Roberta](https://www.unipi.it/ateneo/organizzazione/persone/roberta-gori-4249/) -->
-<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=735AA) -->
-<!-- 		* Esame -->
-<!-- 			* Scritto -->
-<!-- 			* Orale -->
-<!-- 	* B: [Pisanti Nadia](https://www.unipi.it/ateneo/organizzazione/persone/nadia-pisanti-1077/), [Bruni Roberto](https://www.unipi.it/ateneo/organizzazione/persone/roberto-bruni-4248/) -->
-<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=735AA) -->
-<!-- 		* Esame -->
-<!-- 			* Scritto -->
-<!-- 			* Orale -->
-<!-- 	* C: [Grossi Roberto](https://www.unipi.it/ateneo/organizzazione/persone/roberto-grossi-5777), [Priami Corrado](https://www.unipi.it/ateneo/organizzazione/persone/corrado-priami-126061/), [Bonchi Filippo](https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/) -->
-<!-- 		* [Informazioni](https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=735AA) -->
-<!-- 		* Esame -->
-<!-- 			* Scritto -->
-<!-- 			* Orale -->
 
 <pre style="font-family: monospace;">
 ├── programmazione ed Algoritmica/
@@ -1136,6 +1038,8 @@ Sono presenti anche ulteriori [esami precedenti](primo-anno/analisi%20matematica
 
 L'Università di Pisa, come tutte le altre Università, ha una serie di portali e servizi che sono stati creati in momenti diversi e da persone diverse. Per questo potrebbe crearsi confusione nella miriade di siti e link e sezioni, ed è anche il motivo per cui sto creando questa _Guida_[^7]!
 <!--  -->
+<!--  -->
+<!--  -->
 ### Portale Alice
 
 Questo sito raccoglie i servizi online generici per tutti gli studenti, ad esempio i pagamenti delle tasse e il libretto che raccoglierà i voti (appena e se passerete gli esami 😉).
@@ -1146,6 +1050,8 @@ Quindi ricapitolando questo portale vi servirà principalmente per stampare i MA
 
 **Link:** https://www.studenti.unipi.it
 <!--  -->
+<!--  -->
+<!--  -->
 ### Esami
 
 Anche questo è un portale generico per tutti gli studenti e consente l'iscrizione agli esami.
@@ -1153,6 +1059,8 @@ Anche questo è un portale generico per tutti gli studenti e consente l'iscrizio
 L'iscrizione ad un esame è **obbligatoria**, quindi ricordatevi di segnarvi a tutti gli esami che intendete sostenere per tempo! Meglio iscriversi e non presentarsi (non succede niente), piuttosto che dimenticarsi di farlo e non poter partecipare[^7].
 
 **Link:** https://esami.unipi.it
+<!--  -->
+<!--  -->
 <!--  -->
 ### Sito del Corso di Laurea
 
@@ -1162,20 +1070,25 @@ Molto utile per vedere il calendario scolastico (i giorni di vacanza, inizio e t
 
 **Link:** https://didattica.di.unipi.it/laurea-in-informatica
 <!--  -->
+<!--  -->
+<!--  -->
 ### E-Learning
 
 E-Learning è un portale che raccoglie siti per diversi corsi, nel senso che un professore può decidere di utilizzarlo come piattaforma all'interno del suo corso per condividere materiale, informazioni e annunci[^7].
 
-Sono ormai diversi i professori che lo utilizzano e la lista si trova a questo indirizzo: https://elearning.di.unipi.it/course/index.php
+Sono ormai diversi i professori che lo utilizzano e la lista si trova a questo **indirizzo:** https://elearning.di.unipi.it/course/index.php
+<!--  -->
+<!--  -->
 <!--  -->
 ### Gruppo Telegram Ufficiale
 
 **Link:** https://t.me/IannoInfPisa
 <!--  -->
+<!--  -->
+<!--  -->
 ### Orario 
 
 **Link:** https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=6319d6a9f7245e0c5c9094e3
-
 
 <!--  -->
 <!--  -->
@@ -1192,6 +1105,14 @@ Il gruppo Telegram è un canale non ufficiale ma molto attivo dove studenti e st
 Non è un canale ufficiale dell’ateneo, quindi per informazioni certe è sempre meglio consultare i siti istituzionali, ma può essere un ottimo supporto extra per restare in contatto con la community!
 
 **Link:** https://t.me/+7oZznQ_DEUk0ODNk
+<!--  -->
+<!--  -->
+<!--  -->
+### Informateci
+
+Un forum degli studenti di Informatica dell’Università di Pisa, uno spazio collaborativo dove confrontarsi su corsi, esami, tirocini ed eventi, condividere materiali e favorire lo scambio di conoscenze.
+
+**Link:** https://informateci.it
 
 <!--  -->
 <!--  -->
@@ -1207,15 +1128,17 @@ Con l’app IO ricevi una notifica ogni volta che un docente registra un tuo ver
 Attivarla è davvero semplice: scarica l’app IO, aprila, vai su “Servizi”, cerca “Università di Pisa”, seleziona “Libretto UniPi” e abilita le notifiche.
 Così, ogni volta che un esame viene verbalizzato, riceverai subito l’avviso direttamente sul tuo telefono.
 
-Leggi la notizia:
-
-**Link:** https://old.unipi.it/index.php/lista-comunicati-stampa/item/21115-il-libretto-degli-studenti-unipi-sbarca-sull-app-io
+**Leggi la notizia:** https://old.unipi.it/index.php/lista-comunicati-stampa/item/21115-il-libretto-degli-studenti-unipi-sbarca-sull-app-io
+<!--  -->
+<!--  -->
 <!--  -->
 ### Mappa interattiva
 
 Una comoda mappa basata su Google Maps con tanti POI per gli studenti, creata da Tutors Fisica UniPi[^7]. (Non aggiornata)
 
 **Link:** https://www.google.com/maps/d/viewer?mid=15ElNsEFgwU9r9wPMi_oPp1XhZDA
+<!--  -->
+<!--  -->
 <!--  -->
 ### Mappa DSU
 
@@ -1227,11 +1150,15 @@ Consulta la mappa dei servizi della Carta dello Studente:
 
 **Link:** https://geografia.regione.toscana.it/mapstore/embedded.html?forceDrawer=true#/1132
 <!--  -->
+<!--  -->
+<!--  -->
 ### Mappa Musei di Ateneo
 
 Puoi visualizzare comodamente i musei che fanno parte del Sistema Museale di Ateneo e altri sulla mappa, che evidenzia sia questi sia altri musei situati a Pisa.
 
 **Link:** https://maps.app.goo.gl/m2AwsozWfqktJrCb7
+<!--  -->
+<!--  -->
 <!--  -->
 ### Bot menu mense
 
@@ -1239,11 +1166,25 @@ Un comodo bot sviluppato da [Fabio Catinella](https://github.com/FCatinella) e F
 
 **Link:** https://t.me/menu_mense_pisa
 <!--  -->
-### GitHub PRO
+<!--  -->
+<!--  -->
+### GitHub Pro
 
 Il GitHub Student Developer Pack è un comodo pacchetto offerto da GitHub che mette a disposizione strumenti, servizi cloud e software gratuiti per studenti, utile per creare, testare e gestire progetti di programmazione.
 
 **Link:** https://education.github.com/pack
+
+<!--  -->
+<!--  -->
+<!--  -->
+
+## Eventi
+
+### pisa.dev
+
+Una community di sviluppatori che organizza eventi gratuiti su varie tematiche per favorire lo scambio di conoscenze e la crescita professionale.
+
+**Link:** https://pisa.dev/
 
 <!--  -->
 <!--  -->
