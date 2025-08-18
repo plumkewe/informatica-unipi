@@ -62,7 +62,10 @@ https://github.com/plumkewe/informatica-unipi/
 	* [Mappa DSU](#mappa-dsu) 
 	* [Mappa Musei di Ateneo](#mappa-musei-di-ateneo)
 	* [Bot menu mense](#bot-menu-mense)
+	* [Convenzioni di ateneo](#convenzioni-di-ateneo)
 	* [GitHub Pro](#github-pro)
+	* [UNiDAYS](#unidays)
+	* [UniversityBox](#universitybox)
 * [Eventi](#eventi)
 	* [pisa.dev](#pisadev)
 
@@ -1168,11 +1171,37 @@ Un comodo bot sviluppato da [Fabio Catinella](https://github.com/FCatinella) e F
 <!--  -->
 <!--  -->
 <!--  -->
+
+### Convenzioni di ateneo
+
+**Link:** https://www.unipi.it/campus-e-servizi/opportunita-e-tempo-libero/convenzioni-di-ateneo-gli-sconti-per-studenti/
+<!--  -->
+<!--  -->
+<!--  -->
 ### GitHub Pro
 
 Il GitHub Student Developer Pack è un comodo pacchetto offerto da GitHub che mette a disposizione strumenti, servizi cloud e software gratuiti per studenti, utile per creare, testare e gestire progetti di programmazione.
 
 **Link:** https://education.github.com/pack
+<!--  -->
+<!--  -->
+<!--  -->
+### UNiDAYS
+
+Una piattaforma che offre sconti e promozioni esclusivi per studenti su prodotti, servizi e marchi sia online che in negozi fisici.
+
+**Link:** https://www.myunidays.com
+<!--  -->
+<!--  -->
+<!--  -->
+### UniversityBox
+
+Una piattaforma che offre sconti esclusivi per studenti universitari su una vasta gamma di prodotti e servizi.
+
+**Link:** https://www.universitybox.com
+<!--  -->
+<!--  -->
+<!--  -->
 
 <!--  -->
 <!--  -->

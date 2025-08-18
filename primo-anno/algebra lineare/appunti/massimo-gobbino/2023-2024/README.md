@@ -12,7 +12,7 @@ Non lo conosco personalmente, ma stimo chiunque condivida le conoscenze in modo 
 <!--  -->
 
 > [!TIP]
-> Clicca sul numero tra le [ ] per leggere gli appunti; clicca sull’ultimo numero per guardare la lezione su YouTube!
+> Clicca sul numero tra le [ ] per leggere gli appunti.
 
 <!--  -->
 <!--  -->
