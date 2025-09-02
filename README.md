@@ -7,6 +7,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 ```
 https://github.com/plumkewe/informatica-unipi/
 ```
+<p align="right"><a href="altro/QR.JPG">QR Code</a></p>
 
 <!-- Nulla di interessante qui -->
 <!-- Nulla di interessante qui -->
@@ -20,6 +21,19 @@ https://github.com/plumkewe/informatica-unipi/
 [<img src="https://wsrv.nl/?url=github.com/Pitasi.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Pitasi" />](https://github.com/Pitasi)
 [<img src="https://wsrv.nl/?url=github.com/FCatinella.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="FCatinella" />](https://github.com/FCatinella)
 [<img src="https://wsrv.nl/?url=github.com/Guray00.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Guray00" />](https://github.com/Guray00)
+
+### Link veloci
+
+* [Portale alice](https://www.studenti.unipi.it/Home.do)
+* [Valutami](https://esami.unipi.it/)
+* [Aggenda Didattica](https://agendadidattica.unipi.it/)
+* [Webmail](https://start.unipi.it/webmail/)
+* [E-learning](https://elearning.di.unipi.it/course/index.php?categoryid=2)
+* [Classroom](https://classroom.google.com/)
+* [Teams](https://www.microsoft.com/it-it/microsoft-teams/log-in?market=it)
+* [Dipartimento di Informatica](https://di.unipi.it/)
+* [DSU Toscana](https://www.dsu.toscana.it/)
+* [Autolinee toscane](https://www.at-bus.it/it)
 
 <!--  -->
 <!--  -->
@@ -40,6 +54,7 @@ https://github.com/plumkewe/informatica-unipi/
 	* [Errori comuni da evitare](#errori-comuni-da-evitare)
 * [Appunti](#appunti)
 	* [Primo anno](#primo-anno)
+		* [Ripartizione](ripartizione)
 		* [Algebra lineare](#algebra-lineare)
 		* [Analisi matematica](#analisi-matematica)
 		* [Fondamenti di informatica](#fondamenti-di-informatica)
@@ -105,7 +120,7 @@ https://github.com/plumkewe/informatica-unipi/
 			</td>
 		</tr>
 		<tr>
-			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=723AA">B</a></td>
+			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&schemaid=9464&adCodFraz=723AA">B</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/silvia-benvenuti-206577/">Benvenuti Silvia</a></td>
 			<td>
 				<ul>
@@ -255,6 +270,13 @@ https://github.com/plumkewe/informatica-unipi/
 		</tr>
 		<tr>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/">Bonchi Filippo</a></td>
+		</tr>
+		<tr>
+			<td><strong>TOTALE</strong></td>
+			<td><strong>54</strong></td>
+			<td><strong>432</strong></td>
+			<td><strong>258</strong></td>
+			<td colspan="3"></td>
 		</tr>
 	</tbody>
 </table>
@@ -436,7 +458,11 @@ Primo anno
 
 ## Primo anno
 
-[Piano di studio 2024](https://unipi.coursecatalogue.cineca.it/corsi/2024/10298/insegnamenti/52302)
+Il piano di studio è disponibile su [Cineca ↗](https://unipi.coursecatalogue.cineca.it/corsi/2025/11527/insegnamenti/53206) (2025/26), mentre il calendario delle lezioni si trova su [University Planner ↗](https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=6319d6a9f7245e0c5c9094e3). Poiché quest’ultimo non consente di applicare filtri, per una consultazione più comoda è necessario utilizzare [Agenda Didattica ↗](https://agendadidattica.unipi.it/).
+
+#### Ripartizione
+
+Una volta individuato il numero di matricola (ad esempio io la trovai sul portale Alice, nella sezione Pagamento tasse), occorre considerare le ultime due cifre: se comprese tra 00 =< 33 si appartiene al corso A; tra 34 =< 66 al corso B; tra 67 =< 99 al corso C. [Più info.](https://didattica.di.unipi.it/laurea-in-informatica/ripartizione-degli-studenti-sui-corsi/)
 
 ### Algebra lineare
 
@@ -1152,6 +1178,10 @@ Questa tessera sostituisce le vecchie carte e funziona come un borsellino elettr
 Consulta la mappa dei servizi della Carta dello Studente:
 
 **Link:** https://geografia.regione.toscana.it/mapstore/embedded.html?forceDrawer=true#/1132
+
+> [!NOTE]
+> Dall’a.a. 2025/2026 [non sarà più distribuita la Carta](https://www.unipi.it/ateneo/rapporti-internazionali/info-e-servizi-di-accoglienza/mense-universitarie/) Studente della Toscana: tutti gli studenti UniPi avranno su [Agenda Didattica ↗](https://agendadidattica.unipi.it/) un badge virtuale con foto e QR Code. In alternativa, l’accesso sarà possibile [mostrando un documento](https://www.dsu.toscana.it/come-si-accede#:~:text=Universit%C3%A0%20di%20Pisa,cassa%20la%20matricola.) di identità e comunicando la matricola alla cassa; è attiva anche l’app MyDSU per l’ingresso tramite QR Code. [Android](https://play.google.com/store/apps/details?id=com.ristocloudgroup.mydsu&pcampaignid=web_share)・[iOS](https://apps.apple.com/app/id6738960806)
+
 <!--  -->
 <!--  -->
 <!--  -->
