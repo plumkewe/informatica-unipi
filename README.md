@@ -25,18 +25,16 @@ https://github.com/plumkewe/informatica-unipi/
 
 <details  align="right">
 	<summary><h3>Link veloci</h3></summary>
-	<ul>
-		<li><a href="https://www.studenti.unipi.it/Home.do" target="_blank">Portale alice</a></li>
-		<li><a href="https://esami.unipi.it/" target="_blank">Valutami</a></li>
-		<li><a href="https://agendadidattica.unipi.it/" target="_blank">Aggenda Didattica</a></li>
-		<li><a href="https://start.unipi.it/webmail/" target="_blank">Webmail</a></li>
-		<li><a href="https://elearning.di.unipi.it/course/index.php?categoryid=2" target="_blank">E-learning</a></li>
-		<li><a href="https://classroom.google.com/" target="_blank">Classroom</a></li>
-		<li><a href="https://www.microsoft.com/it-it/microsoft-teams/log-in?market=it" target="_blank">Teams</a></li>
-		<li><a href="https://di.unipi.it/" target="_blank">Dipartimento di Informatica</a></li>
-		<li><a href="https://www.dsu.toscana.it/" target="_blank">DSU Toscana</a></li>
-		<li><a href="https://www.at-bus.it/it" target="_blank">Autolinee toscane</a></li>
-	</ul>
+		<a href="https://www.studenti.unipi.it/Home.do" target="_blank">Portale alice</a><br>
+		<a href="https://esami.unipi.it/" target="_blank">Valutami</a><br>
+		<a href="https://agendadidattica.unipi.it/" target="_blank">Aggenda Didattica</a><br>
+		<a href="https://start.unipi.it/webmail/" target="_blank">Webmail</a><br>
+		<a href="https://elearning.di.unipi.it/course/index.php?categoryid=2" target="_blank">E-learning</a><br>
+		<a href="https://classroom.google.com/" target="_blank">Classroom</a><br>
+		<a href="https://www.microsoft.com/it-it/microsoft-teams/log-in?market=it" target="_blank">Teams</a><br>
+		<a href="https://di.unipi.it/" target="_blank">Dipartimento di Informatica</a><br>
+		<a href="https://www.dsu.toscana.it/" target="_blank">DSU Toscana</a><br>
+		<a href="https://www.at-bus.it/it" target="_blank">Autolinee toscane</a><br>
 </details>
 
 <!--  -->
@@ -57,7 +55,7 @@ https://github.com/plumkewe/informatica-unipi/
 	* [Strumenti didattici utili](strumenti-didattici-utili)
 	* [Errori comuni da evitare](#errori-comuni-da-evitare)
 * [Primo anno](#primo-anno)
-	* [Ripartizione](ripartizione)
+	* [Ripartizione](#ripartizione)
 	* [Appunti](#appunti)
 		* [Algebra lineare](#algebra-lineare)
 		* [Analisi matematica](#analisi-matematica)
@@ -465,6 +463,8 @@ Primo anno
 <!--  -->
 
 # Primo anno
+
+<p align="right">(<a href="#indice">indice</a>)</p>
 
 Il piano di studio è disponibile su [Cineca ↗](https://unipi.coursecatalogue.cineca.it/corsi/2025/11527/insegnamenti/53206) (2025/26), mentre il calendario delle lezioni si trova su [University Planner ↗](https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=6319d6a9f7245e0c5c9094e3). Poiché quest’ultimo non consente di applicare filtri, per una consultazione più comoda è necessario utilizzare [Agenda Didattica ↗](https://agendadidattica.unipi.it/).
 
