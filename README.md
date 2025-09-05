@@ -22,18 +22,22 @@ https://github.com/plumkewe/informatica-unipi/
 [<img src="https://wsrv.nl/?url=github.com/FCatinella.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="FCatinella" />](https://github.com/FCatinella)
 [<img src="https://wsrv.nl/?url=github.com/Guray00.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Guray00" />](https://github.com/Guray00)
 
-### Link veloci
 
-* [Portale alice](https://www.studenti.unipi.it/Home.do)
-* [Valutami](https://esami.unipi.it/)
-* [Aggenda Didattica](https://agendadidattica.unipi.it/)
-* [Webmail](https://start.unipi.it/webmail/)
-* [E-learning](https://elearning.di.unipi.it/course/index.php?categoryid=2)
-* [Classroom](https://classroom.google.com/)
-* [Teams](https://www.microsoft.com/it-it/microsoft-teams/log-in?market=it)
-* [Dipartimento di Informatica](https://di.unipi.it/)
-* [DSU Toscana](https://www.dsu.toscana.it/)
-* [Autolinee toscane](https://www.at-bus.it/it)
+<details  align="right">
+	<summary><h3>Link veloci</h3></summary>
+	<ul>
+		<li><a href="https://www.studenti.unipi.it/Home.do" target="_blank">Portale alice</a></li>
+		<li><a href="https://esami.unipi.it/" target="_blank">Valutami</a></li>
+		<li><a href="https://agendadidattica.unipi.it/" target="_blank">Aggenda Didattica</a></li>
+		<li><a href="https://start.unipi.it/webmail/" target="_blank">Webmail</a></li>
+		<li><a href="https://elearning.di.unipi.it/course/index.php?categoryid=2" target="_blank">E-learning</a></li>
+		<li><a href="https://classroom.google.com/" target="_blank">Classroom</a></li>
+		<li><a href="https://www.microsoft.com/it-it/microsoft-teams/log-in?market=it" target="_blank">Teams</a></li>
+		<li><a href="https://di.unipi.it/" target="_blank">Dipartimento di Informatica</a></li>
+		<li><a href="https://www.dsu.toscana.it/" target="_blank">DSU Toscana</a></li>
+		<li><a href="https://www.at-bus.it/it" target="_blank">Autolinee toscane</a></li>
+	</ul>
+</details>
 
 <!--  -->
 <!--  -->
@@ -52,9 +56,9 @@ https://github.com/plumkewe/informatica-unipi/
 	* [Vita sociale e relazioni](vita-sociale-e-relazioni)
 	* [Strumenti didattici utili](strumenti-didattici-utili)
 	* [Errori comuni da evitare](#errori-comuni-da-evitare)
-* [Appunti](#appunti)
-	* [Primo anno](#primo-anno)
-		* [Ripartizione](ripartizione)
+* [Primo anno](#primo-anno)
+	* [Ripartizione](ripartizione)
+	* [Appunti](#appunti)
 		* [Algebra lineare](#algebra-lineare)
 		* [Analisi matematica](#analisi-matematica)
 		* [Fondamenti di informatica](#fondamenti-di-informatica)
@@ -68,6 +72,10 @@ https://github.com/plumkewe/informatica-unipi/
 		* [E-Learning](#e-learning)
 		* [Gruppo Telegram Ufficiale](#gruppo-telegram-ufficiale)
 		* [Orario](#orario)
+		* [Unimap](#unimap)
+		* [Occupazione aule](#occupazione-aule)
+		* [Sistema Bibliotecario di Ateneo](#sistema-bibliotecario-di-ateneo)
+		* [Onesearch](#onesearch)
 	* [Non ufficali](#non-ufficiali)
 		* [Gruppo Telegram](#gruppo-telegram)
 		* [Informateci](#informateci)
@@ -102,6 +110,7 @@ https://github.com/plumkewe/informatica-unipi/
 			<th>SEZIONE</th>
 			<th>DOCENTI</th>
 			<th>ESAME</th>
+			<th>DURATA</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -118,6 +127,7 @@ https://github.com/plumkewe/informatica-unipi/
 					<li>Orale (facoltativo)</li>
 				</ul>
 			</td>
+			<td rowspan="3">II Semestre</td>
 		</tr>
 		<tr>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&schemaid=9464&adCodFraz=723AA">B</a></td>
@@ -153,6 +163,7 @@ https://github.com/plumkewe/informatica-unipi/
 					<li>Orale</li>
 				</ul>
 			</td>
+			<td rowspan="4">Annuale</td>
 		</tr>
 		<tr>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=724AA">B</a></td>
@@ -178,6 +189,7 @@ https://github.com/plumkewe/informatica-unipi/
 					<li>Orale</li>
 				</ul>
 			</td>
+			<td rowspan="3">I Semestre</td>
 		</tr>
 		<tr>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=728AA">B</a></td>
@@ -213,6 +225,7 @@ https://github.com/plumkewe/informatica-unipi/
 					<li>Pretest (prova pratica) + Orale</li>
 				</ul>
 			</td>
+			<td rowspan="6">Annuale</td>
 		</tr>
 		<tr>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/andrea-ceni-173990/">Ceni Andrea</a></td>
@@ -250,6 +263,7 @@ https://github.com/plumkewe/informatica-unipi/
 					<li>Orale</li>
 				</ul>
 			</td>
+			<td rowspan="7">Annuale</td>
 		</tr>
 		<tr>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/roberta-gori-4249/">Gori Roberta</a></td>
@@ -276,7 +290,7 @@ https://github.com/plumkewe/informatica-unipi/
 			<td><strong>54</strong></td>
 			<td><strong>432</strong></td>
 			<td><strong>258</strong></td>
-			<td colspan="3"></td>
+			<td colspan="4"></td>
 		</tr>
 	</tbody>
 </table>
@@ -450,19 +464,24 @@ Primo anno
 <!--  -->
 <!--  -->
 
+# Primo anno
+
+Il piano di studio è disponibile su [Cineca ↗](https://unipi.coursecatalogue.cineca.it/corsi/2025/11527/insegnamenti/53206) (2025/26), mentre il calendario delle lezioni si trova su [University Planner ↗](https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=6319d6a9f7245e0c5c9094e3). Poiché quest’ultimo non consente di applicare filtri, per una consultazione più comoda è necessario utilizzare [Agenda Didattica ↗](https://agendadidattica.unipi.it/).
+
+### Ripartizione
+
+Una volta individuato il numero di matricola, occorre considerare le ultime due cifre: 
+* Corso A 00 =< 33
+* Corso B 34 =< 66
+* Corso C 67 =< 99
+
+[?](https://didattica.di.unipi.it/laurea-in-informatica/ripartizione-degli-studenti-sui-corsi/)
+
 ## Appunti
 
 <!--  -->
 <!--  -->
 <!--  -->
-
-## Primo anno
-
-Il piano di studio è disponibile su [Cineca ↗](https://unipi.coursecatalogue.cineca.it/corsi/2025/11527/insegnamenti/53206) (2025/26), mentre il calendario delle lezioni si trova su [University Planner ↗](https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=6319d6a9f7245e0c5c9094e3). Poiché quest’ultimo non consente di applicare filtri, per una consultazione più comoda è necessario utilizzare [Agenda Didattica ↗](https://agendadidattica.unipi.it/).
-
-#### Ripartizione
-
-Una volta individuato il numero di matricola (ad esempio io la trovai sul portale Alice, nella sezione Pagamento tasse), occorre considerare le ultime due cifre: se comprese tra 00 =< 33 si appartiene al corso A; tra 34 =< 66 al corso B; tra 67 =< 99 al corso C. [Più info.](https://didattica.di.unipi.it/laurea-in-informatica/ripartizione-degli-studenti-sui-corsi/)
 
 ### Algebra lineare
 
@@ -473,6 +492,8 @@ Sono inoltre disponibili gli appunti di tre professori: [Gobbino](primo-anno/alg
 Inoltre gli appunti del professor Gobbino sono disponibili in due versioni: quelli dell’anno accademico [2023/2024](primo-anno/algebra%20lineare/appunti/massimo-gobbino/2023-2024/README.md), che presentano solo gli appunti, e quelli del [2018/2019](primo-anno/algebra%20lineare/appunti/massimo-gobbino/2018-2019/README.md), che includono anche le video-lezioni pubblicate su YouTube.
 
 Sono disponibili anche [altre dispense](primo-anno/algebra%20lineare/appunti/altro/), con esami passati, esercizi, pretest, e simulazioni[^5].
+
+Diversi hanno consigliato Salvo Romeo come supporto per questo corso; le sue videolezioni sono presenti su [YouTube](https://m.youtube.com/@salvoromeo/videos).
 
 <pre style="font-family: monospace;">
 ├── algebra lineare/
@@ -1118,7 +1139,38 @@ Sono ormai diversi i professori che lo utilizzano e la lista si trova a questo *
 ### Orario 
 
 **Link:** https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=6319d6a9f7245e0c5c9094e3
+<!--  -->
+<!--  -->
+<!--  -->
+### Unimap
 
+Tramite questo portale potrai trovare dati relativi al personale, alle strutture, all’attività didattica e all’organizzazione dell’Università di Pisa.[^9]
+
+**Link:** https://unimap.unipi.it
+<!--  -->
+<!--  -->
+<!--  -->
+### Occupazione aule
+
+Tramite questo portale potrai controllare gli orari delle aule e vedere quali aule libere sono disponibile per studio e/o altre attività studentesche.[^9]
+
+**Link:** https://su.unipi.it/OccupazioneAule
+<!--  -->
+<!--  -->
+<!--  -->
+### Sistema Bibliotecario di Ateneo
+
+Il portale del Sistema Bibliotecario di Ateneo, dove potrai controllare quali libri sono disponibili nelle varie biblioteche dell’Università, prenotare prestiti, consultare estratti e/o e-books.[^9]
+
+**Link:** https://www.sba.unipi.it/
+<!--  -->
+<!--  -->
+<!--  -->
+### Onesearch
+
+Portale tramite il quale potrai accedere a molti servizi del Sistema Bibliotecario.[^9]
+
+https://onesearch.unipi.it/
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1150,6 +1202,8 @@ Un forum degli studenti di Informatica dell’Università di Pisa, uno spazio co
 ## Servizi
 
 <p align="right">(<a href="#indice">indice</a>)</p>
+
+Potete consultare la lista dei servizi compilata dall'ateneo stesso: https://www.unipi.it/campus-e-servizi/
 
 ### Libretto sull app IO
 
@@ -1259,3 +1313,4 @@ Una community di sviluppatori che organizza eventi gratuiti su varie tematiche p
 [^6]: Gli appunti del professor Gobbino si trovano sul suo [sito](https://pagine.dm.unipi.it/~a009199/Home_Page/AD_AM1_25.html) personale (versione più recente del 2024).
 [^7]: Tale informazione è stata presa dalla repository [informateci-faq](https://github.com/Pitasi/informateci-faq) di Antonio Pitasi, admin del gruppo non ufficiale.
 [^8]: Gli esercizi e le prove d'esame del professor Gobbino si trovano sul suo [sito](https://pagine.dm.unipi.it/gobbino/Home_Page/AD_Esercizi.html) personale.
+[^9]: Il seguente testo è stato preso dal sito di "[sinistraper.org](https://www.sinistraper.org/link-utili/)"
