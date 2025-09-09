@@ -7,7 +7,7 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 ```
 https://github.com/plumkewe/informatica-unipi/
 ```
-<p align="right"><a href="altro/QR.JPG">QR Code</a></p>
+<p align="right"><a href="altro/QR.JPG">QR CODE</a></p>
 
 <!-- Nulla di interessante qui -->
 <!-- Nulla di interessante qui -->
@@ -24,7 +24,7 @@ https://github.com/plumkewe/informatica-unipi/
 
 
 <details  align="right">
-	<summary><h3>Link veloci</h3></summary>
+	<summary><h3>LINK VELOCI</h3></summary>
 		<a href="https://www.studenti.unipi.it/Home.do" target="_blank">Portale alice</a><br>
 		<a href="https://esami.unipi.it/" target="_blank">Valutami</a><br>
 		<a href="https://agendadidattica.unipi.it/" target="_blank">Aggenda Didattica</a><br>
@@ -33,8 +33,6 @@ https://github.com/plumkewe/informatica-unipi/
 		<a href="https://classroom.google.com/" target="_blank">Classroom</a><br>
 		<a href="https://www.microsoft.com/it-it/microsoft-teams/log-in?market=it" target="_blank">Teams</a><br>
 		<a href="https://di.unipi.it/" target="_blank">Dipartimento di Informatica</a><br>
-		<a href="https://www.dsu.toscana.it/" target="_blank">DSU Toscana</a><br>
-		<a href="https://www.at-bus.it/it" target="_blank">Autolinee toscane</a><br>
 </details>
 
 <!--  -->
@@ -43,27 +41,20 @@ https://github.com/plumkewe/informatica-unipi/
 
 ## Indice
 
-* [Panoramica](#panoramica)
+* [**PANORAMICA**](#panoramica)
 	* [Appelli](#appelli)
 	* [Sospensioni attività didattica](#sospensioni-attività-didattica)
-* [Consigli](#consigli)
-	* [Generali per le matricole](generali-per-le-matricole)
-	* [Strategie per superare gli esami](strategie-per-superare-gli-esami)
-	* [Organizzazione dello studio](organizzazione-dello-studio)
-	* [Gestione del tempo e carico di lavoro](gestione-del-tempo-e-carico-di-lavoro)
-	* [Vita sociale e relazioni](vita-sociale-e-relazioni)
-	* [Strumenti didattici utili](strumenti-didattici-utili)
-	* [Errori comuni da evitare](#errori-comuni-da-evitare)
-* [Primo anno](#primo-anno)
+* [**PRIMO ANNO**](#primo-anno)
 	* [Ripartizione](#ripartizione)
-	* [Appunti](#appunti)
+	* [Aule](#aule)
+	* [**APPUNTI**](#appunti)
 		* [Algebra lineare](#algebra-lineare)
 		* [Analisi matematica](#analisi-matematica)
 		* [Fondamenti di informatica](#fondamenti-di-informatica)
 		* [Laboratorio I](#laboratorio-i)
 		* [Programmazione ed Algoritmica](#programmazione-ed-algoritmica)
-* [Link](#link)
-	* [Ufficiali](#ufficiali)
+* [**LINK**](#link)
+	* [**UFFICIALI**](#ufficiali)
 		* [Portale Alice](#portale-alice)
 		* [Esami](#esami)
 		* [Sito del Corso di Laurea](#sito-del-corso-di-laurea)
@@ -74,21 +65,31 @@ https://github.com/plumkewe/informatica-unipi/
 		* [Occupazione aule](#occupazione-aule)
 		* [Sistema Bibliotecario di Ateneo](#sistema-bibliotecario-di-ateneo)
 		* [Onesearch](#onesearch)
-	* [Non ufficali](#non-ufficiali)
+	* [**NON UFFICIALI**](#non-ufficiali)
 		* [Gruppo Telegram](#gruppo-telegram)
 		* [Informateci](#informateci)
-* [Servizi](#servizi)
+* [**SERVIZI**](#servizi)
 	* [Libretto sull'app IO](#libretto-sull-app-io)
 	* [Mappa interattiva](#mappa-interattiva)
-	* [Mappa DSU](#mappa-dsu) 
+	* [Mappa DSU (Carta dello Studente)](#mappa-dsu) 
 	* [Mappa Musei di Ateneo](#mappa-musei-di-ateneo)
 	* [Bot menu mense](#bot-menu-mense)
 	* [Convenzioni di ateneo](#convenzioni-di-ateneo)
 	* [GitHub Pro](#github-pro)
+	* [Office 365](#office-365)
+	* [Google Suite](#google-suite)
 	* [UNiDAYS](#unidays)
 	* [UniversityBox](#universitybox)
-* [Eventi](#eventi)
+* [**EVENTI**](#eventi)
 	* [pisa.dev](#pisadev)
+* [**CONSIGLI**](#consigli)
+	* [Generali per le matricole](generali-per-le-matricole)
+	* [Strategie per superare gli esami](strategie-per-superare-gli-esami)
+	* [Organizzazione dello studio](organizzazione-dello-studio)
+	* [Gestione del tempo e carico di lavoro](gestione-del-tempo-e-carico-di-lavoro)
+	* [Vita sociale e relazioni](vita-sociale-e-relazioni)
+	* [Strumenti didattici utili](strumenti-didattici-utili)
+	* [Errori comuni da evitare](#errori-comuni-da-evitare)
 
 <!--  -->
 <!--  -->
@@ -97,6 +98,8 @@ https://github.com/plumkewe/informatica-unipi/
 ## Panoramica
 
 <p align="right">(<a href="#indice">indice</a>)</p>
+
+Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 
 <table>
 	<thead>
@@ -107,6 +110,7 @@ https://github.com/plumkewe/informatica-unipi/
 			<th>PAGINE</th>
 			<th>SEZIONE</th>
 			<th>DOCENTI</th>
+			<th>PIATTAFORMA</th>
 			<th>ESAME</th>
 			<th>DURATA</th>
 		</tr>
@@ -119,6 +123,7 @@ https://github.com/plumkewe/informatica-unipi/
 			<td rowspan="3">29</td>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=723AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/patrizio-frosini-198939/">Frosini Patrizio</a></td>
+			<td>ND</td>
 			<td>
 				<ul>
 					<li>Scritto (obbligatorio)</li>
@@ -130,16 +135,19 @@ https://github.com/plumkewe/informatica-unipi/
 		<tr>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&schemaid=9464&adCodFraz=723AA">B</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/silvia-benvenuti-206577/">Benvenuti Silvia</a></td>
+			<td>ND</td>
 			<td>
-				<ul>
-					<li>Da agg</li>
-					<li>Da agg</li>
-				</ul>
+<!-- 				<ul> -->
+<!-- 					<li>ND</li> -->
+<!-- 					<li>ND</li> -->
+<!-- 				</ul> -->
+				ND
 			</td>
 		</tr>
 		<tr>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=723AA">C</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/tamas-szamuely-135363/">Szamuely Tamas</a></td>
+			<td>ND</td>
 			<td>
 				<ul>
 					<li>Scritto</li>
@@ -154,6 +162,7 @@ https://github.com/plumkewe/informatica-unipi/
 			<td rowspan="4">130</td>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=724AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/carlo-romano-grisanti-3934/">Grisanti Carlo Romano</a></td>
+			<td>ND</td>
 			<td rowspan="4">
 				<ul>
 					<li>Test</li>
@@ -166,13 +175,16 @@ https://github.com/plumkewe/informatica-unipi/
 		<tr>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=724AA">B</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/elisabetta-chiodaroli-123770/">Chiodaroli Elisabetta</a></td>
+			<td>ND</td>
 		</tr>
 		<tr>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=724AA">C</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/fabrizio-bianchi-157380/">Bianchi Fabrizio</a></td>
+			<td>ND</td>
 		</tr>
 		<tr>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/mattia-talpo-136015/">Talpo Mattia</a></td>
+			<td>ND</td>
 		</tr>
 		<tr>
 			<td rowspan="3"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703164_76826/2025/53206/11527">Fondamenti di informatica</a></td>
@@ -181,6 +193,7 @@ https://github.com/plumkewe/informatica-unipi/
 			<td rowspan="3">57</td>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=728AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/andrea-corradini-4316/">Corradini Andrea</a></td>
+			<td>ND</td>
 			<td>
 				<ul>
 					<li>Pretest</li>
@@ -192,6 +205,7 @@ https://github.com/plumkewe/informatica-unipi/
 		<tr>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=728AA">B</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/">Bonchi Filippo</a></td>
+			<td>ND</td>
 			<td>
 				<ul>
 					<li>Test di valutazione online bisettimanali</li>
@@ -203,6 +217,7 @@ https://github.com/plumkewe/informatica-unipi/
 		<tr>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=728AA">C</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/alessio-conte-136624/">Conte Alessio</a></td>
+			<td>ND</td>
 			<td>
 				<ul>
 					<li>Pretest</li>
@@ -217,6 +232,7 @@ https://github.com/plumkewe/informatica-unipi/
 			<td rowspan="6"></td>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-A/2025/53206/11527?coorte=2025&adCodFraz=731AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/giulia-punzi-195205/">Punzi Giulia</a></td>
+			<td rowspan="2">ND</td>
 			<td rowspan="4">
 				<ul>
 					<li>Compiti in itinere + Orale</li>
@@ -231,6 +247,7 @@ https://github.com/plumkewe/informatica-unipi/
 		<tr>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-B/2025/53206/11527?coorte=2025&adCodFraz=731AA">B</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/giorgio-vinciguerra-172064/">Vinciguerra Giorgio</a></td>
+			<td rowspan="2">ND</td>
 		</tr>
 		<tr>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/jacopo-soldani-128445/">Soldani Jacopo</a></td>
@@ -238,6 +255,7 @@ https://github.com/plumkewe/informatica-unipi/
 		<tr>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-C/2025/53206/11527?coorte=2025&adCodFraz=731AA">C</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/tommaso-turchi-182372/">Turchi Tommaso</a></td>
+			<td rowspan="2">ND</td>
 			<td rowspan="2">
 				<ul>
 					<li>Scritto</li>
@@ -255,6 +273,7 @@ https://github.com/plumkewe/informatica-unipi/
 			<td rowspan="7">42</td>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=735AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/anna-bernasconi-5852/">Bernasconi Anna</a></td>
+			<td rowspan="2">ND</td>
 			<td rowspan="7">
 				<ul>
 					<li>Scritto</li>
@@ -269,6 +288,7 @@ https://github.com/plumkewe/informatica-unipi/
 		<tr>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=735AA">B</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/nadia-pisanti-1077/">Pisanti Nadia</a></td>
+			<td rowspan="2"><a href="https://classroom.google.com">Google Classroom</a></td>
 		</tr>
 		<tr>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/roberto-bruni-4248/">Bruni Roberto</a></td>
@@ -276,6 +296,7 @@ https://github.com/plumkewe/informatica-unipi/
 		<tr>
 			<td rowspan="3"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=735AA">C</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/roberto-grossi-5777">Grossi Roberto</a></td>
+			<td rowspan="3">ND</td>
 		</tr>
 		<tr>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/corrado-priami-126061/">Priami Corrado</a></td>
@@ -288,7 +309,7 @@ https://github.com/plumkewe/informatica-unipi/
 			<td><strong>54</strong></td>
 			<td><strong>432</strong></td>
 			<td><strong>258</strong></td>
-			<td colspan="4"></td>
+			<td colspan="5"></td>
 		</tr>
 	</tbody>
 </table>
@@ -409,59 +430,6 @@ Primo anno
 <!--  -->
 <!--  -->
 
-## Consigli
-
-<p align="right">(<a href="#indice">indice</a>)</p>
-
-> [!CAUTION]
-> Il seguente elenco di consigli è stato generato da ChatGPT sulla base delle informazioni raccolte su [r/universitaly](https://www.reddit.com/r/Universitaly/)
-
-### Generali per le matricole
-- **Frequentare le lezioni e rivedere subito gli appunti.** Studiare seguendo le lezioni e correggere gli appunti a fine giornata facilita l’apprendimento.
-- **Trovare un metodo di studio personale.** Sperimentare metodi efficaci (es. OCME) e testarsi già nei primi appelli aiuta a capire il proprio livello.
-- **Collaborare e chiedere aiuto.** Confrontarsi con altri studenti e non esitare a contattare i professori è utile per approfondire.
-- **Essere proattivi socialmente.** Partecipare a uscite, associazioni e lezioni favorisce sia studio che relazioni sociali.
-
-### Strategie per superare gli esami
-- **Pianificare il carico d’esami.** Dare priorità a quelli più impegnativi; evitarne troppi insieme.
-- **Schemi per gli orali.** Creare mappe concettuali aiuta a tenere ordine mentale durante l’esame.
-- **Flashcard e ripetizione dilazionata (Anki).** Strutturare gli appunti in flashcard e usare Anki migliora la memorizzazione.
-- **Simulazioni di esame.** Assistendo agli esami altrui si intuisce meglio il livello richiesto.
-
-### Organizzazione dello studio
-- **Studiare in cicli con pause.** Ad esempio: 50 minuti di studio concentrato seguiti da 10 minuti di pausa.
-- **Ripasso continuo.** Ripassare costantemente facilita il mantenimento delle conoscenze nel tempo.
-- **Sfruttare i momenti liberi.** Anche brevi pause tra lezioni possono essere produttive per studio leggero.
-- **Coltivare hobby e mantenersi equilibrati.** Non trascurare la salute mentale e momenti di svago.
-
-### Gestione del tempo e carico di lavoro
-- **Massimo efficace di studio.** 4–5 ore al giorno di studio intenso sono già ottimali; superare le 6–7 può provocare cali cognitivi.
-- **Evitare il procrastinare.** Non illudersi di avere sempre tanto tempo: pianifica da subito.
-- **Programmare gli esami.** Fare un calendario realistico e distribuire esami importanti.
-- **Uso di app anti-distrazioni.** App tipo Forest o Yeolpumta aiutano a restare concentrati (es. metodo Pomodoro).
-
-### Vita sociale e relazioni
-- **Partecipazione attiva.** Andare a lezione, partecipare a gruppi e attività universitarie favorisce integrazione e studio.
-- **Compagni di studio motivati.** Studiare con persone produttive migliora le proprie performance.
-- **Prossimità con i professori.** Frequentare le ore di ricevimento e i feedback migliora il rapporto con i docenti.
-
-### Strumenti didattici utili
-- **Anki e flashcard digitali.** Flashcard dinamiche con immagini, audio e formule aiutano il ripasso.
-- **App per concentrazione.** Strumenti come Forest, Yeolpumta, timer Pomodoro aiutano a gestire lo studio.
-- **Risorse condivise online.** Appunti e dispense (con criterio), mappe concettuali, Notion o Trello aiutano l’organizzazione.
-
-### Errori comuni da evitare
-- **Studiare solo all’ultimo momento.** Evitare di rimandare troppo, in particolare la tesi.  
-- **Sottovalutare l’università rispetto al liceo.** Le conoscenze devono essere solide, non superficiali.
-- **Saltare le lezioni.** Recuperare da soli può essere molto complicato.
-- **Fare troppi esami insieme.** Preparare con cura pochi esami è meglio che tanti superficialmente.
-- **Competizione malsana.** Confrontarsi negativamente con gli altri può generare ansia inutile.
-- **Isolamento o perfezionismo eccessivo.** Evita gruppetti chiusi o aspettative irrealistiche.
-
-<!--  -->
-<!--  -->
-<!--  -->
-
 # Primo anno
 
 <p align="right">(<a href="#indice">indice</a>)</p>
@@ -475,7 +443,14 @@ Una volta individuato il numero di matricola, occorre considerare le ultime due 
 * Corso B 34 =< 66
 * Corso C 67 =< 99
 
-[?](https://didattica.di.unipi.it/laurea-in-informatica/ripartizione-degli-studenti-sui-corsi/)
+[Info](https://didattica.di.unipi.it/laurea-in-informatica/ripartizione-degli-studenti-sui-corsi/)
+
+## Aule
+
+Le lezioni del primo anno si tengono nell’edificio D del Polo Fibonacci.
+
+<img src="altro/edificio.jpg" alt="Edificio D" height="200px">
+
 
 ## Appunti
 
@@ -1090,6 +1065,8 @@ L'Università di Pisa, come tutte le altre Università, ha una serie di portali 
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Portale Alice
 
 Questo sito raccoglie i servizi online generici per tutti gli studenti, ad esempio i pagamenti delle tasse e il libretto che raccoglierà i voti (appena e se passerete gli esami 😉).
@@ -1102,6 +1079,8 @@ Quindi ricapitolando questo portale vi servirà principalmente per stampare i MA
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Esami
 
 Anche questo è un portale generico per tutti gli studenti e consente l'iscrizione agli esami.
@@ -1112,6 +1091,8 @@ L'iscrizione ad un esame è **obbligatoria**, quindi ricordatevi di segnarvi a t
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Sito del Corso di Laurea
 
 Finalmente entriamo nello specifico, infatti ecco il sito ufficiale della Laurea Triennale in Informatica.
@@ -1122,6 +1103,8 @@ Molto utile per vedere il calendario scolastico (i giorni di vacanza, inizio e t
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### E-Learning
 
 E-Learning è un portale che raccoglie siti per diversi corsi, nel senso che un professore può decidere di utilizzarlo come piattaforma all'interno del suo corso per condividere materiale, informazioni e annunci[^7].
@@ -1130,18 +1113,24 @@ Sono ormai diversi i professori che lo utilizzano e la lista si trova a questo *
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Gruppo Telegram Ufficiale
 
 **Link:** https://t.me/IannoInfPisa
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Orario 
 
 **Link:** https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=6319d6a9f7245e0c5c9094e3
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Unimap
 
 Tramite questo portale potrai trovare dati relativi al personale, alle strutture, all’attività didattica e all’organizzazione dell’Università di Pisa.[^9]
@@ -1150,6 +1139,8 @@ Tramite questo portale potrai trovare dati relativi al personale, alle strutture
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Occupazione aule
 
 Tramite questo portale potrai controllare gli orari delle aule e vedere quali aule libere sono disponibile per studio e/o altre attività studentesche.[^9]
@@ -1158,19 +1149,23 @@ Tramite questo portale potrai controllare gli orari delle aule e vedere quali au
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Sistema Bibliotecario di Ateneo
 
 Il portale del Sistema Bibliotecario di Ateneo, dove potrai controllare quali libri sono disponibili nelle varie biblioteche dell’Università, prenotare prestiti, consultare estratti e/o e-books.[^9]
 
-**Link:** https://www.sba.unipi.it/
+**Link:** https://www.sba.unipi.it
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Onesearch
 
 Portale tramite il quale potrai accedere a molti servizi del Sistema Bibliotecario.[^9]
 
-https://onesearch.unipi.it/
+**Link:** https://onesearch.unipi.it
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1189,6 +1184,8 @@ Non è un canale ufficiale dell’ateneo, quindi per informazioni certe è sempr
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Informateci
 
 Un forum degli studenti di Informatica dell’Università di Pisa, uno spazio collaborativo dove confrontarsi su corsi, esami, tirocini ed eventi, condividere materiali e favorire lo scambio di conoscenze.
@@ -1203,7 +1200,7 @@ Un forum degli studenti di Informatica dell’Università di Pisa, uno spazio co
 
 <p align="right">(<a href="#indice">indice</a>)</p>
 
-Potete consultare la lista dei servizi compilata dall'ateneo stesso: https://www.unipi.it/campus-e-servizi/
+Potete consultare la lista dei servizi compilata dall'ateneo stesso: https://www.unipi.it/campus-e-servizi
 
 ### Libretto sull app IO
 
@@ -1215,6 +1212,8 @@ Così, ogni volta che un esame viene verbalizzato, riceverai subito l’avviso d
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Mappa interattiva
 
 Una comoda mappa basata su Google Maps con tanti POI per gli studenti, creata da Tutors Fisica UniPi[^7]. (Non aggiornata)
@@ -1223,6 +1222,8 @@ Una comoda mappa basata su Google Maps con tanti POI per gli studenti, creata da
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Mappa DSU
 
 [La Carta dello Studente](https://www.regione.toscana.it/-/studente-della-toscana-la-nuova-carta-unica-dello-studente-universitario), parte del progetto regionale Giovanisì, unifica l'accesso a tutti i servizi per gli universitari di Pisa, Firenze e Siena.
@@ -1239,6 +1240,8 @@ Consulta la mappa dei servizi della Carta dello Studente:
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Mappa Musei di Ateneo
 
 Puoi visualizzare comodamente i musei che fanno parte del Sistema Museale di Ateneo e altri sulla mappa, che evidenzia sia questi sia altri musei situati a Pisa.
@@ -1247,6 +1250,8 @@ Puoi visualizzare comodamente i musei che fanno parte del Sistema Museale di Ate
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### Bot menu mense
 
 Un comodo bot sviluppato da [Fabio Catinella](https://github.com/FCatinella) e Frank che permette di visualizzare i menu delle diverse mense universitarie presenti sul territorio pisano.
@@ -1255,6 +1260,7 @@ Un comodo bot sviluppato da [Fabio Catinella](https://github.com/FCatinella) e F
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
 
 ### Convenzioni di ateneo
 
@@ -1262,6 +1268,8 @@ Un comodo bot sviluppato da [Fabio Catinella](https://github.com/FCatinella) e F
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### GitHub Pro
 
 Il GitHub Student Developer Pack è un comodo pacchetto offerto da GitHub che mette a disposizione strumenti, servizi cloud e software gratuiti per studenti, utile per creare, testare e gestire progetti di programmazione.
@@ -1270,6 +1278,25 @@ Il GitHub Student Developer Pack è un comodo pacchetto offerto da GitHub che me
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
+### Office 365
+
+**Link:** https://start.unipi.it/office-365/
+
+<!--  -->
+<!--  -->
+<!--  -->
+<hr>
+
+### Google Suite
+
+**Link:** https://start.unipi.it/gsuite/
+<!--  -->
+<!--  -->
+<!--  -->
+<hr>
+
 ### UNiDAYS
 
 Una piattaforma che offre sconti e promozioni esclusivi per studenti su prodotti, servizi e marchi sia online che in negozi fisici.
@@ -1278,6 +1305,8 @@ Una piattaforma che offre sconti e promozioni esclusivi per studenti su prodotti
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
 ### UniversityBox
 
 Una piattaforma che offre sconti esclusivi per studenti universitari su una vasta gamma di prodotti e servizi.
@@ -1305,6 +1334,58 @@ Una community di sviluppatori che organizza eventi gratuiti su varie tematiche p
 <!--  -->
 <!--  -->
 
+## Consigli
+
+<p align="right">(<a href="#indice">indice</a>)</p>
+
+> [!CAUTION]
+> Il seguente elenco di consigli è stato generato da ChatGPT sulla base delle informazioni raccolte su [r/universitaly](https://www.reddit.com/r/Universitaly/)
+
+### Generali per le matricole
+- **Frequentare le lezioni e rivedere subito gli appunti.** Studiare seguendo le lezioni e correggere gli appunti a fine giornata facilita l’apprendimento.
+- **Trovare un metodo di studio personale.** Sperimentare metodi efficaci (es. OCME) e testarsi già nei primi appelli aiuta a capire il proprio livello.
+- **Collaborare e chiedere aiuto.** Confrontarsi con altri studenti e non esitare a contattare i professori è utile per approfondire.
+- **Essere proattivi socialmente.** Partecipare a uscite, associazioni e lezioni favorisce sia studio che relazioni sociali.
+
+### Strategie per superare gli esami
+- **Pianificare il carico d’esami.** Dare priorità a quelli più impegnativi; evitarne troppi insieme.
+- **Schemi per gli orali.** Creare mappe concettuali aiuta a tenere ordine mentale durante l’esame.
+- **Flashcard e ripetizione dilazionata (Anki).** Strutturare gli appunti in flashcard e usare Anki migliora la memorizzazione.
+- **Simulazioni di esame.** Assistendo agli esami altrui si intuisce meglio il livello richiesto.
+
+### Organizzazione dello studio
+- **Studiare in cicli con pause.** Ad esempio: 50 minuti di studio concentrato seguiti da 10 minuti di pausa.
+- **Ripasso continuo.** Ripassare costantemente facilita il mantenimento delle conoscenze nel tempo.
+- **Sfruttare i momenti liberi.** Anche brevi pause tra lezioni possono essere produttive per studio leggero.
+- **Coltivare hobby e mantenersi equilibrati.** Non trascurare la salute mentale e momenti di svago.
+
+### Gestione del tempo e carico di lavoro
+- **Massimo efficace di studio.** 4–5 ore al giorno di studio intenso sono già ottimali; superare le 6–7 può provocare cali cognitivi.
+- **Evitare il procrastinare.** Non illudersi di avere sempre tanto tempo: pianifica da subito.
+- **Programmare gli esami.** Fare un calendario realistico e distribuire esami importanti.
+- **Uso di app anti-distrazioni.** App tipo Forest o Yeolpumta aiutano a restare concentrati (es. metodo Pomodoro).
+
+### Vita sociale e relazioni
+- **Partecipazione attiva.** Andare a lezione, partecipare a gruppi e attività universitarie favorisce integrazione e studio.
+- **Compagni di studio motivati.** Studiare con persone produttive migliora le proprie performance.
+- **Prossimità con i professori.** Frequentare le ore di ricevimento e i feedback migliora il rapporto con i docenti.
+
+### Strumenti didattici utili
+- **Anki e flashcard digitali.** Flashcard dinamiche con immagini, audio e formule aiutano il ripasso.
+- **App per concentrazione.** Strumenti come Forest, Yeolpumta, timer Pomodoro aiutano a gestire lo studio.
+- **Risorse condivise online.** Appunti e dispense (con criterio), mappe concettuali, Notion o Trello aiutano l’organizzazione.
+
+### Errori comuni da evitare
+- **Studiare solo all’ultimo momento.** Evitare di rimandare troppo, in particolare la tesi.  
+- **Sottovalutare l’università rispetto al liceo.** Le conoscenze devono essere solide, non superficiali.
+- **Saltare le lezioni.** Recuperare da soli può essere molto complicato.
+- **Fare troppi esami insieme.** Preparare con cura pochi esami è meglio che tanti superficialmente.
+- **Competizione malsana.** Confrontarsi negativamente con gli altri può generare ansia inutile.
+- **Isolamento o perfezionismo eccessivo.** Evita gruppetti chiusi o aspettative irrealistiche.
+
+
+
+
 [^1]: Questi appunti sono disponibili sulla [repository](https://github.com/bigmat18/Appunti-Informatica-UNIPI) di Matteo con licenza WTFPL. 
 [^2]: Gli appunti del professor Gobbino si trovano sul suo [sito](https://pagine.dm.unipi.it/gobbino/Home_Page/AD_AL_24.html) personale.
 [^3]: Gli appunti del professor Pearlstein sono stati trovati sulla repository [IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica).
@@ -1313,4 +1394,4 @@ Una community di sviluppatori che organizza eventi gratuiti su varie tematiche p
 [^6]: Gli appunti del professor Gobbino si trovano sul suo [sito](https://pagine.dm.unipi.it/~a009199/Home_Page/AD_AM1_25.html) personale (versione più recente del 2024).
 [^7]: Tale informazione è stata presa dalla repository [informateci-faq](https://github.com/Pitasi/informateci-faq) di Antonio Pitasi, admin del gruppo non ufficiale.
 [^8]: Gli esercizi e le prove d'esame del professor Gobbino si trovano sul suo [sito](https://pagine.dm.unipi.it/gobbino/Home_Page/AD_Esercizi.html) personale.
-[^9]: Il seguente testo è stato preso dal sito di "[sinistraper.org](https://www.sinistraper.org/link-utili/)"
+[^9]: Il seguente testo è stato preso dal sito [sinistraper.org](https://www.sinistraper.org/link-utili/)
