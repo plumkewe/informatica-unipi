@@ -78,6 +78,7 @@ https://github.com/plumkewe/informatica-unipi/
 	* [GitHub Pro](#github-pro)
 	* [Office 365](#office-365)
 	* [Google Suite](#google-suite)
+	* [Espresso by The Economist](#espresso)
 	* [UNiDAYS](#unidays)
 	* [UniversityBox](#universitybox)
 * [**EVENTI**](#eventi)
@@ -247,7 +248,7 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 		<tr>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-B/2025/53206/11527?coorte=2025&adCodFraz=731AA">B</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/giorgio-vinciguerra-172064/">Vinciguerra Giorgio</a></td>
-			<td rowspan="2">ND</td>
+			<td rowspan="2"><a href="https://teams.microsoft.com/">Teams</a></td>
 		</tr>
 		<tr>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/jacopo-soldani-128445/">Soldani Jacopo</a></td>
@@ -445,11 +446,13 @@ Una volta individuato il numero di matricola, occorre considerare le ultime due 
 
 [Info](https://didattica.di.unipi.it/laurea-in-informatica/ripartizione-degli-studenti-sui-corsi/)
 
-## Aule
+### Aule
 
 Le lezioni del primo anno si tengono nell’edificio D del Polo Fibonacci.
 
 <img src="altro/edificio.jpg" alt="Edificio D" height="200px">
+
+[Google Maps](https://maps.app.goo.gl/iYCT6VaziEFsiam16?g_st=ic)・[Apple Maps](https://maps.apple.com/place?address=Largo%20Bruno%20Pontecorvo%203,%2056127%20Pisa,%20Italy&coordinate=43.721188,10.407775&name=Polo%20Fibonacci&place-id=I88E823420B8E0D9F&map=explore)
 
 
 ## Appunti
@@ -1295,6 +1298,14 @@ Il GitHub Student Developer Pack è un comodo pacchetto offerto da GitHub che me
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+
+### Espresso
+
+Verificando lo stato dello studente, si ottiene l’abbonamento gratuito a Espresso di The Economist. (Anche se lo reputo inutile, basta usare archive.is)
+
+**Link:** https://subscribenow.economist.com/student
+
 <hr>
 
 ### UNiDAYS
