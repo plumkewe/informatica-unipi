@@ -44,6 +44,7 @@ https://github.com/plumkewe/informatica-unipi/
 * [**PANORAMICA**](#panoramica)
 	* [Appelli](#appelli)
 	* [Sospensioni attività didattica](#sospensioni-attività-didattica)
+	* [Bookmarks](#bookmarks)
 * [**PRIMO ANNO**](#primo-anno)
 	* [Ripartizione](#ripartizione)
 	* [Aule](#aule)
@@ -427,6 +428,26 @@ Primo anno
 	</tbody>
 </table>
 
+### Bookmarks
+
+<p align="right">(<a href="#indice">indice</a>)</p>
+
+Dato il gran numero di siti da conoscere, ho pensato che un template iniziale con alcuni link utili potesse essere una buona idea. La struttura e la seguente:
+
+<pre style="font-family: monospace;">
+* Servizi
+* Utili     <- link generali
+* Tu        <- siti che ti riguardano personalmente
+* Uni       <- link relativi all'università
+* Corsi     <- link diretti ai corsi (da aggiungere)
+</pre>
+
+Come importare i segnalibri in: [Firefox](https://support.mozilla.org/it/kb/importare-segnalibri-dati-altri-browser)・[Safari](https://support.apple.com/en-gb/guide/safari/ibrw1015/mac)・[Google Chrome](https://support.google.com/chrome/answer/96816?hl=it)
+
+**Link:** https://files.catbox.moe/6n6ru0.html
+
+*In alternativa puoi trovare il file su altro/Bookmarks.html*
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -435,7 +456,7 @@ Primo anno
 
 <p align="right">(<a href="#indice">indice</a>)</p>
 
-Il piano di studio è disponibile su [Cineca ↗](https://unipi.coursecatalogue.cineca.it/corsi/2025/11527/insegnamenti/53206) (2025/26), mentre il calendario delle lezioni si trova su [University Planner ↗](https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=6319d6a9f7245e0c5c9094e3). Poiché quest’ultimo non consente di applicare filtri, per una consultazione più comoda è necessario utilizzare [Agenda Didattica ↗](https://agendadidattica.unipi.it/).
+Il piano di studio è disponibile su [Cineca ↗](https://unipi.coursecatalogue.cineca.it/corsi/2025/11527/insegnamenti/53206) (2025/26), mentre il calendario delle lezioni si trova su [University Planner ↗](https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=6319d6a9f7245e0c5c9094e3). Poiché quest’ultimo non consente di applicare filtri, per una consultazione più comoda è necessario utilizzare [Agenda Didattica ↗](https://agendadidattica.unipi.it/)
 
 ### Ripartizione
 
@@ -1128,6 +1149,8 @@ Sono ormai diversi i professori che lo utilizzano e la lista si trova a questo *
 
 ### Orario 
 
+Calendario pubblico che permette di vedere l’orario di tutte le classi senza la necessità di un account; se invece si vogliono visualizzare solo le materie del proprio corso, occorre usare [Agenda Didattica ↗](https://agendadidattica.unipi.it/)
+
 **Link:** https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=6319d6a9f7245e0c5c9094e3
 <!--  -->
 <!--  -->
@@ -1222,6 +1245,10 @@ Così, ogni volta che un esame viene verbalizzato, riceverai subito l’avviso d
 Una comoda mappa basata su Google Maps con tanti POI per gli studenti, creata da Tutors Fisica UniPi[^7]. (Non aggiornata)
 
 **Link:** https://www.google.com/maps/d/viewer?mid=15ElNsEFgwU9r9wPMi_oPp1XhZDA
+
+> [!NOTE]
+> Esiste un'altra mappa, probabilmente più aggiornata: la [Fantamappa](https://www.google.com/maps/d/viewer?mid=1q4ousVeGWQnZX-5K3i_SYE3bBsky2tkv), realizzata da [Sinistraper](https://www.sinistraper.org/fantamappa/).
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1238,7 +1265,8 @@ Consulta la mappa dei servizi della Carta dello Studente:
 **Link:** https://geografia.regione.toscana.it/mapstore/embedded.html?forceDrawer=true#/1132
 
 > [!NOTE]
-> Dall’a.a. 2025/2026 [non sarà più distribuita la Carta](https://www.unipi.it/ateneo/rapporti-internazionali/info-e-servizi-di-accoglienza/mense-universitarie/) Studente della Toscana: tutti gli studenti UniPi avranno su [Agenda Didattica ↗](https://agendadidattica.unipi.it/) un badge virtuale con foto e QR Code. In alternativa, l’accesso sarà possibile [mostrando un documento](https://www.dsu.toscana.it/come-si-accede#:~:text=Universit%C3%A0%20di%20Pisa,cassa%20la%20matricola.) di identità e comunicando la matricola alla cassa; è attiva anche l’app MyDSU per l’ingresso tramite QR Code. [Android](https://play.google.com/store/apps/details?id=com.ristocloudgroup.mydsu&pcampaignid=web_share)・[iOS](https://apps.apple.com/app/id6738960806)
+> Dall’a.a. 2025/2026 [non sarà più distribuita la Carta](https://www.unipi.it/ateneo/rapporti-internazionali/info-e-servizi-di-accoglienza/mense-universitarie/) Studente della Toscana: tutti gli studenti UniPi avranno su [Agenda Didattica ↗](https://agendadidattica.unipi.it/) un badge virtuale con foto e QR Code. In alternativa, l’accesso sarà possibile [mostrando un documento](https://www.dsu.toscana.it/come-si-accede#:~:text=Universit%C3%A0%20di%20Pisa,cassa%20la%20matricola.) di identità e comunicando la matricola alla cassa; è attiva anche l’app MyDSU per l’ingresso tramite QR Code. 
+> [Android](https://play.google.com/store/apps/details?id=com.ristocloudgroup.mydsu&pcampaignid=web_share)・[iOS](https://apps.apple.com/app/id6738960806)
 
 <!--  -->
 <!--  -->
