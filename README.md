@@ -15,12 +15,14 @@ https://github.com/plumkewe/informatica-unipi/
 
 ## Contributori
 
-[<img src="https://wsrv.nl/?url=github.com/bigmat18.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="bigmat18" />](https://github.com/bigmat18)
-[<img src="https://wsrv.nl/?url=github.com/filoghira.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="filoghira" />](https://github.com/filoghira)
-[<img src="https://wsrv.nl/?url=github.com/plumkewe.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="plumkewe" />](https://github.com/plumkewe)
-[<img src="https://wsrv.nl/?url=github.com/Pitasi.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Pitasi" />](https://github.com/Pitasi)
-[<img src="https://wsrv.nl/?url=github.com/FCatinella.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="FCatinella" />](https://github.com/FCatinella)
-[<img src="https://wsrv.nl/?url=github.com/Guray00.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Guray00" />](https://github.com/Guray00)
+[<img src="https://wsrv.nl/?url=github.com/bigmat18.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Matteo Giuntoni" />](https://github.com/bigmat18)
+[<img src="https://wsrv.nl/?url=github.com/filoghira.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Filippo Ghirardini" />](https://github.com/filoghira)
+[<img src="https://wsrv.nl/?url=github.com/plumkewe.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Lyubomyr Malay" />](https://github.com/plumkewe)
+[<img src="https://wsrv.nl/?url=github.com/Pitasi.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Antonio Pitasi" />](https://github.com/Pitasi)
+[<img src="https://wsrv.nl/?url=github.com/FCatinella.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Fabio Catinella" />](https://github.com/FCatinella)
+[<img src="https://wsrv.nl/?url=github.com/Guray00.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Marco Lampis" />](https://github.com/Guray00)
+[<img src="https://wsrv.nl/?url=github.com/FabioTomeiDev.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Fabio Tomei" />](https://github.com/FabioTomeiDev)
+[<img src="https://wsrv.nl/?url=github.com/Mxo01.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Mario Di Modica" />](https://github.com/Mxo01)
 
 
 <details  align="right">
@@ -478,6 +480,12 @@ Le lezioni del primo anno si tengono nell’edificio D del Polo Fibonacci.
 
 ## Appunti
 
+<p align="right">(<a href="#indice">indice</a>)</p>
+
+Nella seguente repository sono già presenti appunti scritti da studenti e professori, ma, qualora non vi bastassero, potete trovarne altri su [Informateci](https://www.informateci.it/) o nel [gruppo](https://t.me/appunti_informatica_unipi) Telegram dedicato agli appunti. In alternativa, potete cercarli anche sui siti che li condividono o li vendono.
+
+Inoltre, ho trovato degli appunti di [Fabio Tomei](https://github.com/FabioTomeiDev) studente, disponibili sul suo [Notion.](https://fabnote.notion.site/)
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -552,6 +560,8 @@ Sono inoltre disponibili gli appunti del professor Gobbino[^6] in due versioni: 
 Sempre a cura del professor Gobbino sono disponibili anche [esercizi](primo-anno/analisi%20matematica/esercizi)[^8] e prove d’esame passate!
 
 Sono presenti anche ulteriori [esami precedenti](primo-anno/analisi%20matematica/esami)[^5].
+
+Come se non bastasse, ci sono anche degli [appunti](primo-anno/analisi%20matematica/appunti/mario-di-modica/) dello studente studente Mario Di Modica.[^10]
 
 <pre style="font-family: monospace;">
 ├── analisi matematica/
@@ -1434,3 +1444,4 @@ Una community di sviluppatori che organizza eventi gratuiti su varie tematiche p
 [^7]: Tale informazione è stata presa dalla repository [informateci-faq](https://github.com/Pitasi/informateci-faq) di Antonio Pitasi, admin del gruppo non ufficiale.
 [^8]: Gli esercizi e le prove d'esame del professor Gobbino si trovano sul suo [sito](https://pagine.dm.unipi.it/gobbino/Home_Page/AD_Esercizi.html) personale.
 [^9]: Il seguente testo è stato preso dal sito [sinistraper.org](https://www.sinistraper.org/link-utili/)
+[^10]: Questi appunti sono stati presi dal sito [Informateci.it](https://www.informateci.it/viewtopic.php?t=4356)
