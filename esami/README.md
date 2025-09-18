@@ -22,7 +22,7 @@ Qui verranno pubblicate tutte le informazioni riguardanti gli esami, le modalit√
 
 ### Esame
 
-**Prova Scritta:** Prima fai lo scritto.
+**Prova Scritta:** Prima fai lo scritto
 
 **Prova Orale:** Se lo scritto √® almeno quasi sufficiente, puoi fare l'orale
 
@@ -44,7 +44,7 @@ Qui verranno pubblicate tutte le informazioni riguardanti gli esami, le modalit√
 
 	* **Pena:** annullamento del compito ed esclusione dagli appelli futuri.
 
-**Sul foglio:** Scrivi sempre nome, cognome e numero di matricola.
+**Sul foglio:** Scrivi sempre nome, cognome e numero di matricola
 
 **Voto:** In trentesimi
 

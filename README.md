@@ -15,14 +15,15 @@ https://github.com/plumkewe/informatica-unipi/
 
 ## Contributori
 
-[<img src="https://wsrv.nl/?url=github.com/bigmat18.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Matteo Giuntoni" />](https://github.com/bigmat18)
-[<img src="https://wsrv.nl/?url=github.com/filoghira.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Filippo Ghirardini" />](https://github.com/filoghira)
-[<img src="https://wsrv.nl/?url=github.com/plumkewe.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Lyubomyr Malay" />](https://github.com/plumkewe)
-[<img src="https://wsrv.nl/?url=github.com/Pitasi.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Antonio Pitasi" />](https://github.com/Pitasi)
-[<img src="https://wsrv.nl/?url=github.com/FCatinella.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Fabio Catinella" />](https://github.com/FCatinella)
-[<img src="https://wsrv.nl/?url=github.com/Guray00.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Marco Lampis" />](https://github.com/Guray00)
-[<img src="https://wsrv.nl/?url=github.com/FabioTomeiDev.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Fabio Tomei" />](https://github.com/FabioTomeiDev)
-[<img src="https://wsrv.nl/?url=github.com/Mxo01.png?w=64&h=64&mask=circle&fit=cover" width="50" height="50" alt="Mario Di Modica" />](https://github.com/Mxo01)
+[<img src="https://wsrv.nl/?url=github.com/bigmat18.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Matteo Giuntoni" />](https://github.com/bigmat18)
+[<img src="https://wsrv.nl/?url=github.com/filoghira.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Filippo Ghirardini" />](https://github.com/filoghira)
+[<img src="https://wsrv.nl/?url=github.com/plumkewe.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Lyubomyr Malay" />](https://github.com/plumkewe)
+[<img src="https://wsrv.nl/?url=github.com/Pitasi.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Antonio Pitasi" />](https://github.com/Pitasi)
+[<img src="https://wsrv.nl/?url=github.com/FCatinella.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Fabio Catinella" />](https://github.com/FCatinella)
+[<img src="https://wsrv.nl/?url=github.com/Guray00.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Marco Lampis" />](https://github.com/Guray00)
+[<img src="https://wsrv.nl/?url=github.com/FabioTomeiDev.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Fabio Tomei" />](https://github.com/FabioTomeiDev)
+[<img src="https://wsrv.nl/?url=github.com/Mxo01.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Mario Di Modica" />](https://github.com/Mxo01)
+[<img src="https://wsrv.nl/?url=github.com/Valecapi.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="" />](https://github.com/Valecapi)
 
 
 <details  align="right">
@@ -62,7 +63,9 @@ https://github.com/plumkewe/informatica-unipi/
 		* [Esami](#esami)
 		* [Sito del Corso di Laurea](#sito-del-corso-di-laurea)
 		* [E-Learning](#e-learning)
+		* [Evolearning](#evolearning)
 		* [Gruppo Telegram Ufficiale](#gruppo-telegram-ufficiale)
+		* [Gruppo Telegram Matricole](#gruppo-telegram-matricole)
 		* [Orario](#orario)
 		* [Unimap](#unimap)
 		* [Occupazione aule](#occupazione-aule)
@@ -179,7 +182,7 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 		<tr>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=724AA">B</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/elisabetta-chiodaroli-123770/">Chiodaroli Elisabetta</a></td>
-			<td>ND</td>
+			<td><a href="https://classroom.google.com/">Google Classroom</a></td>
 		</tr>
 		<tr>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=724AA">C</a></td>
@@ -209,7 +212,7 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 		<tr>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=728AA">B</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/">Bonchi Filippo</a></td>
-			<td>ND</td>
+			<td><a href="https://elearning.di.unipi.it/course/index.php?categoryid=2">Moodle</a>, <a href="https://www.microsoft.com/it-it/microsoft-teams/log-in?market=it">Teams</a></td>
 			<td>
 				<ul>
 					<li>Test di valutazione online bisettimanali</li>
@@ -1149,12 +1152,21 @@ Sono ormai diversi i professori che lo utilizzano e la lista si trova a questo *
 <!--  -->
 <hr>
 
+### Evolearning
+
+Evo Learning è una piattaforma di apprendimento online che offre un’esperienza personalizzata agli studenti e strumenti completi ai docenti. Consente di gestire lezioni, esercizi, correzioni e preparazioni agli esami, integrando social learning, gamification e intelligenza artificiale per aumentare produttività e qualità della formazione.
+
+**Link:** https://www.evo-learning.com
+
+<hr>
+
 ### Gruppo Telegram Ufficiale
 
 **Link:** https://t.me/IannoInfPisa
 <!--  -->
 <!--  -->
 <!--  -->
+
 <hr>
 
 ### Orario 
@@ -1220,6 +1232,13 @@ Non è un canale ufficiale dell’ateneo, quindi per informazioni certe è sempr
 <!--  -->
 <!--  -->
 <!--  -->
+<hr>
+### Gruppo Telegram Matricole
+
+Nei gruppi Telegram potete trovare i codici per le Classroom, chiedere aiuto, organizzare lo studio collettivo e molto altro. Per comodità, i link sono disponibili su Linktree, così da poterli aggiornare rapidamente in caso di necessità
+
+**Link:** https://linktr.ee/GRUPPI.UNIPI
+
 <hr>
 
 ### Informateci
