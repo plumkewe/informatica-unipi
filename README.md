@@ -7,7 +7,12 @@ Se conoscete altre risorse interessanti o avete suggerimenti per migliorare ques
 ```
 https://github.com/plumkewe/informatica-unipi/
 ```
+
 <p align="right"><a href="altro/QR.JPG">QR CODE</a></p>
+
+> [!TIP]
+> Consiglio di [clonare questa repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) per avere accesso ai contenuti offline. La dimensione è di 2.4 GB. In alternativa, potete scaricare la versione essenziale (14 MB) seguendo questo [link.](https://files.catbox.moe/pepxms.zip)
+
 
 <!-- Nulla di interessante qui -->
 <!-- Nulla di interessante qui -->
@@ -44,59 +49,65 @@ https://github.com/plumkewe/informatica-unipi/
 
 ## Indice
 
-* [**PANORAMICA**](#panoramica)
-	* [Appelli](#appelli)
-	* [Sospensioni attività didattica](#sospensioni-attività-didattica)
-	* [Bookmarks](#bookmarks)
-* [**PRIMO ANNO**](#primo-anno)
-	* [Ripartizione](#ripartizione)
-	* [Aule](#aule)
-	* [**APPUNTI**](#appunti)
-		* [Algebra lineare](#algebra-lineare)
-		* [Analisi matematica](#analisi-matematica)
-		* [Fondamenti di informatica](#fondamenti-di-informatica)
-		* [Laboratorio I](#laboratorio-i)
-		* [Programmazione ed Algoritmica](#programmazione-ed-algoritmica)
-* [**LINK**](#link)
-	* [**UFFICIALI**](#ufficiali)
-		* [Portale Alice](#portale-alice)
-		* [Esami](#esami)
-		* [Sito del Corso di Laurea](#sito-del-corso-di-laurea)
-		* [E-Learning](#e-learning)
-		* [Evolearning](#evolearning)
-		* [Gruppo Telegram Ufficiale](#gruppo-telegram-ufficiale)
-		* [Gruppo Telegram Matricole](#gruppo-telegram-matricole)
-		* [Orario](#orario)
-		* [Unimap](#unimap)
-		* [Occupazione aule](#occupazione-aule)
-		* [Sistema Bibliotecario di Ateneo](#sistema-bibliotecario-di-ateneo)
-		* [Onesearch](#onesearch)
-	* [**NON UFFICIALI**](#non-ufficiali)
-		* [Gruppo Telegram](#gruppo-telegram)
-		* [Informateci](#informateci)
-* [**SERVIZI**](#servizi)
-	* [Libretto sull'app IO](#libretto-sull-app-io)
-	* [Mappa interattiva](#mappa-interattiva)
-	* [Mappa DSU (Carta dello Studente)](#mappa-dsu) 
-	* [Mappa Musei di Ateneo](#mappa-musei-di-ateneo)
-	* [Bot menu mense](#bot-menu-mense)
-	* [Convenzioni di ateneo](#convenzioni-di-ateneo)
-	* [GitHub Pro](#github-pro)
-	* [Office 365](#office-365)
-	* [Google Suite](#google-suite)
-	* [Espresso by The Economist](#espresso)
-	* [UNiDAYS](#unidays)
-	* [UniversityBox](#universitybox)
-* [**EVENTI**](#eventi)
-	* [pisa.dev](#pisadev)
-* [**CONSIGLI**](#consigli)
-	* [Generali per le matricole](generali-per-le-matricole)
-	* [Strategie per superare gli esami](strategie-per-superare-gli-esami)
-	* [Organizzazione dello studio](organizzazione-dello-studio)
-	* [Gestione del tempo e carico di lavoro](gestione-del-tempo-e-carico-di-lavoro)
-	* [Vita sociale e relazioni](vita-sociale-e-relazioni)
-	* [Strumenti didattici utili](strumenti-didattici-utili)
-	* [Errori comuni da evitare](#errori-comuni-da-evitare)
+- [Informatica L-31](#informatica-l-31)
+	- [Contributori](#contributori)
+	- [Indice](#indice)
+	- [Panoramica](#panoramica)
+		- [Appelli](#appelli)
+			- [Ordinari](#ordinari)
+		- [Sospensioni attività didattica](#sospensioni-attività-didattica)
+		- [Bookmarks](#bookmarks)
+- [Primo anno](#primo-anno)
+		- [Ripartizione](#ripartizione)
+		- [Aule](#aule)
+		- [Come accedere alle risorse](#come-accedere-alle-risorse)
+	- [Appunti](#appunti)
+		- [Algebra lineare](#algebra-lineare)
+		- [Analisi matematica](#analisi-matematica)
+		- [Fondamenti di informatica](#fondamenti-di-informatica)
+		- [Laboratorio I](#laboratorio-i)
+		- [Programmazione ed Algoritmica](#programmazione-ed-algoritmica)
+	- [Link](#link)
+		- [Ufficiali](#ufficiali)
+		- [Portale Alice](#portale-alice)
+		- [Esami](#esami)
+		- [Sito del Corso di Laurea](#sito-del-corso-di-laurea)
+		- [E-Learning](#e-learning)
+		- [Evolearning](#evolearning)
+		- [Gruppo Telegram Ufficiale](#gruppo-telegram-ufficiale)
+		- [Orario](#orario)
+		- [Unimap](#unimap)
+		- [Occupazione aule](#occupazione-aule)
+		- [Sistema Bibliotecario di Ateneo](#sistema-bibliotecario-di-ateneo)
+		- [Onesearch](#onesearch)
+	- [Non ufficiali](#non-ufficiali)
+		- [Gruppo Telegram](#gruppo-telegram)
+		- [Gruppo Telegram Matricole](#gruppo-telegram-matricole)
+		- [Informateci](#informateci)
+	- [Servizi](#servizi)
+		- [Libretto sull app IO](#libretto-sull-app-io)
+		- [Mappa interattiva](#mappa-interattiva)
+		- [Mappa DSU](#mappa-dsu)
+		- [Mappa Musei di Ateneo](#mappa-musei-di-ateneo)
+		- [Bot menu mense](#bot-menu-mense)
+		- [Convenzioni di ateneo](#convenzioni-di-ateneo)
+		- [GitHub Pro](#github-pro)
+		- [Office 365](#office-365)
+		- [Google Suite](#google-suite)
+		- [Espresso](#espresso)
+		- [UNiDAYS](#unidays)
+		- [UniversityBox](#universitybox)
+		- [Framer](#framer)
+	- [Eventi](#eventi)
+		- [pisa.dev](#pisadev)
+	- [Consigli](#consigli)
+		- [Generali per le matricole](#generali-per-le-matricole)
+		- [Strategie per superare gli esami](#strategie-per-superare-gli-esami)
+		- [Organizzazione dello studio](#organizzazione-dello-studio)
+		- [Gestione del tempo e carico di lavoro](#gestione-del-tempo-e-carico-di-lavoro)
+		- [Vita sociale e relazioni](#vita-sociale-e-relazioni)
+		- [Strumenti didattici utili](#strumenti-didattici-utili)
+		- [Errori comuni da evitare](#errori-comuni-da-evitare)
 
 <!--  -->
 <!--  -->
@@ -480,6 +491,9 @@ Le lezioni del primo anno si tengono nell’edificio D del Polo Fibonacci.
 
 [Google Maps](https://maps.app.goo.gl/iYCT6VaziEFsiam16?g_st=ic)・[Apple Maps](https://maps.apple.com/place?address=Largo%20Bruno%20Pontecorvo%203,%2056127%20Pisa,%20Italy&coordinate=43.721188,10.407775&name=Polo%20Fibonacci&place-id=I88E823420B8E0D9F&map=explore)
 
+### Come accedere alle risorse
+
+Per accedere a tutte le risorse didattiche online, come Moodle, Microsoft Teams e Google Classroom, è necessario utilizzare il proprio **account istituzionale.** Le modalità di accesso variano a seconda della piattaforma: per Google Classroom è richiesto un codice di iscrizione che viene fornito direttamente da ciascun docente, mentre per Moodle e Teams l'iscrizione ai corsi deve essere effettuata tramite l'[Agenda Didattica ↗](https://agendadidattica.unipi.it/). In quest'ultimo caso, per trovare l'insegnamento di proprio interesse, è sufficiente cercarlo inserendo il cognome del professore.
 
 ## Appunti
 
@@ -1232,7 +1246,9 @@ Non è un canale ufficiale dell’ateneo, quindi per informazioni certe è sempr
 <!--  -->
 <!--  -->
 <!--  -->
+
 <hr>
+
 ### Gruppo Telegram Matricole
 
 Nei gruppi Telegram potete trovare i codici per le Classroom, chiedere aiuto, organizzare lo studio collettivo e molto altro. Per comodità, i link sono disponibili su Linktree, così da poterli aggiornare rapidamente in caso di necessità
@@ -1383,6 +1399,12 @@ Una piattaforma che offre sconti esclusivi per studenti universitari su una vast
 <!--  -->
 <!--  -->
 <!--  -->
+
+<hr>
+
+### Framer
+
+**LInk:** https://www.framer.com/students/
 
 <!--  -->
 <!--  -->

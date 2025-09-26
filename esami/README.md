@@ -7,11 +7,64 @@ Qui verranno pubblicate tutte le informazioni riguardanti gli esami, le modalit�
 * Algebra lineare
 * Analisi matematica
 * Fondamenti di informatica
+    * [Bonchi Filippo](#bonchi-filippo)
+        * [Esame](#esame)
+        * [Esame in prove itinere](#esame-tramite-verifiche-in-itinere)
 * Laboratorio I
 * Programmazione ed Algoritmica
-	* [Pisanti Nadia](#pisanti-nadia)
-		* [Esame](#esame)
-		* [Esame in prove itinere](#esame-in-prove-itinere)
+    * [Pisanti Nadia](#pisanti-nadia)
+        * [Esame](#esame-1)
+        * [Esame in prove itinere](#esame-in-prove-itinere-1)
+
+
+# Fondamenti di informatica
+
+## Bonchi Filippo
+
+<p align="right">(<a href="#indice">indice</a>)</p>
+
+### Esame
+
+**Prova Pre-Test:** Prima sostieni la Prova Pre-Test online.
+
+**Prova Orale:** Se superi il Pre-Test, sei ammesso alla Prova Orale.
+
+**Appello Unico:** Pre-Test e Orale devono essere fatti nello stesso appello. Se superi il Pre-Test ma non ti presenti all'orale, dovrai sostenere nuovamente il Pre-Test al prossimo appello.
+
+#### Prova Pre-Test
+
+**Cosa fare:** Uno o più quiz sulla piattaforma Moodle, tipicamente con domande a risposta multipla.
+
+**Cosa puoi usare:** Per la preparazione, si consiglia di svolgere i Test di Autovalutazione sulla pagina Moodle del corso.
+
+**Voto:** L'esito è un valore booleano: Ammesso o Non Ammesso all'orale.
+
+#### Prova Orale
+
+**Cosa ti chiederanno:** L'orale si svolge in tre fasi.
+
+* **Fase 1 (Definizioni di base):** Se non rispondi adeguatamente, si consiglia di ripetere l'esame. Altrimenti, il docente può proporti un voto massimo di 22/30 o continuare.
+* **Fase 2 (Argomenti approfonditi ed esercizi):** In base alle risposte, il docente può proporti un voto massimo di 26/30 o continuare.
+* **Fase 3 (Argomenti avanzati):** Domande su esercizi facoltativi o problemi nuovi.
+
+#### Voto Finale
+
+* L'orale decide il voto finale, con un massimo di 30 trentesimi, tenendo conto di tutta la prova.
+* L'eventuale valutazione positiva delle verifiche in itinere può influenzare positivamente il voto.
+* **Attenzione:** In caso di fallimento della Prova Orale, l'esito del Pre-Test e l'eventuale bonus delle verifiche vengono annullati.
+
+### Esame tramite verifiche in itinere 
+(per frequentanti)
+
+**Cosa sono:** Verifiche di Valutazione proposte durante lo svolgimento del corso.
+
+**Come funzionano:** I docenti valutano il numero di test sostenuti e la qualità delle risposte.
+
+**Cosa succede alla fine**
+
+* **Ammissione diretta all'orale:** Se la valutazione delle verifiche è positiva, puoi essere esonerato dalla Prova Pre-Test e ammesso direttamente all'orale.
+    * **Validità:** L'esonero e la sua influenza positiva sul voto valgono solo per gli appelli della sessione invernale.
+
 
 
 # Programmazione ed Algoritmica
