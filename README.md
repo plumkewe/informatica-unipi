@@ -58,9 +58,9 @@ https://github.com/plumkewe/informatica-unipi/
 		- [Sospensioni attività didattica](#sospensioni-attività-didattica)
 		- [Bookmarks](#bookmarks)
 - [Primo anno](#primo-anno)
-		- [Ripartizione](#ripartizione)
-		- [Aule](#aule)
-		- [Come accedere alle risorse](#come-accedere-alle-risorse)
+	- [Ripartizione](#ripartizione)
+	- [Aule](#aule)
+	- [Come accedere alle risorse](#come-accedere-alle-risorse)
 	- [Appunti](#appunti)
 		- [Algebra lineare](#algebra-lineare)
 		- [Analisi matematica](#analisi-matematica)
@@ -94,6 +94,7 @@ https://github.com/plumkewe/informatica-unipi/
 		- [GitHub Pro](#github-pro)
 		- [Office 365](#office-365)
 		- [Google Suite](#google-suite)
+		- [Autodesk Suite](#autodesk-suite)
 		- [Espresso](#espresso)
 		- [UNiDAYS](#unidays)
 		- [UniversityBox](#universitybox)
@@ -474,7 +475,7 @@ Come importare i segnalibri in: [Firefox](https://support.mozilla.org/it/kb/impo
 
 Il piano di studio è disponibile su [Cineca ↗](https://unipi.coursecatalogue.cineca.it/corsi/2025/11527/insegnamenti/53206) (2025/26), mentre il calendario delle lezioni si trova su [University Planner ↗](https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=6319d6a9f7245e0c5c9094e3). Poiché quest’ultimo non consente di applicare filtri, per una consultazione più comoda è necessario utilizzare [Agenda Didattica ↗](https://agendadidattica.unipi.it/)
 
-### Ripartizione
+## Ripartizione
 
 Una volta individuato il numero di matricola, occorre considerare le ultime due cifre: 
 * Corso A 00 =< 33
@@ -483,15 +484,20 @@ Una volta individuato il numero di matricola, occorre considerare le ultime due 
 
 [Info](https://didattica.di.unipi.it/laurea-in-informatica/ripartizione-degli-studenti-sui-corsi/)
 
-### Aule
+## Aule
 
 Le lezioni del primo anno si tengono nell’edificio D del Polo Fibonacci.
 
-<img src="altro/edificio.jpg" alt="Edificio D" height="200px">
+<table>
+  <tr>
+    <td><img src="altro/edificio.jpg" width="250"></td>
+    <td><img src="altro/cartina.jpg" width="250"></td>
+  </tr>
+</table>
 
 [Google Maps](https://maps.app.goo.gl/iYCT6VaziEFsiam16?g_st=ic)・[Apple Maps](https://maps.apple.com/place?address=Largo%20Bruno%20Pontecorvo%203,%2056127%20Pisa,%20Italy&coordinate=43.721188,10.407775&name=Polo%20Fibonacci&place-id=I88E823420B8E0D9F&map=explore)
 
-### Come accedere alle risorse
+## Come accedere alle risorse
 
 Per accedere a tutte le risorse didattiche online, come Moodle, Microsoft Teams e Google Classroom, è necessario utilizzare il proprio **account istituzionale.** Le modalità di accesso variano a seconda della piattaforma: per Google Classroom è richiesto un codice di iscrizione che viene fornito direttamente da ciascun docente, mentre per Moodle e Teams l'iscrizione ai corsi deve essere effettuata tramite l'[Agenda Didattica ↗](https://agendadidattica.unipi.it/). In quest'ultimo caso, per trovare l'insegnamento di proprio interesse, è sufficiente cercarlo inserendo il cognome del professore.
 
@@ -1368,6 +1374,14 @@ Il GitHub Student Developer Pack è un comodo pacchetto offerto da GitHub che me
 ### Google Suite
 
 **Link:** https://start.unipi.it/gsuite/
+<!--  -->
+<!--  -->
+<!--  -->
+<hr>
+
+### Autodesk Suite
+
+**Link:** https://www.autodesk.com/it/education/edu-software/overview
 <!--  -->
 <!--  -->
 <!--  -->
