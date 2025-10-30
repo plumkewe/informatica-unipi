@@ -24,7 +24,7 @@ https://github.com/plumkewe/informatica-unipi/
 [<img src="https://wsrv.nl/?url=github.com/filoghira.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Filippo Ghirardini" />](https://github.com/filoghira)
 [<img src="https://wsrv.nl/?url=github.com/plumkewe.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Lyubomyr Malay" />](https://github.com/plumkewe)
 [<img src="https://wsrv.nl/?url=github.com/Pitasi.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Antonio Pitasi" />](https://github.com/Pitasi)
-[<img src="https://wsrv.nl/?url=github.com/FCatinella.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Fabio Catinella" />](https://github.com/FCatinella)
+[<img src="https://wsrv.nl/?url=github.com/FCatinella.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Fabio Catinella" />](https://github.com/FabioCati)
 [<img src="https://wsrv.nl/?url=github.com/Guray00.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Marco Lampis" />](https://github.com/Guray00)
 [<img src="https://wsrv.nl/?url=github.com/FabioTomeiDev.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Fabio Tomei" />](https://github.com/FabioTomeiDev)
 [<img src="https://wsrv.nl/?url=github.com/Mxo01.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Mario Di Modica" />](https://github.com/Mxo01)
@@ -181,7 +181,7 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 			<td rowspan="4">130</td>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=724AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/carlo-romano-grisanti-3934/">Grisanti Carlo Romano</a></td>
-			<td>ND</td>
+			<td rowspan="4"><a href="https://classroom.google.com/">Google Classroom</a></td>
 			<td rowspan="4">
 				<ul>
 					<li>Test</li>
@@ -194,16 +194,13 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 		<tr>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=724AA">B</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/elisabetta-chiodaroli-123770/">Chiodaroli Elisabetta</a></td>
-			<td><a href="https://classroom.google.com/">Google Classroom</a></td>
 		</tr>
 		<tr>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=724AA">C</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/fabrizio-bianchi-157380/">Bianchi Fabrizio</a></td>
-			<td>ND</td>
 		</tr>
 		<tr>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/mattia-talpo-136015/">Talpo Mattia</a></td>
-			<td>ND</td>
 		</tr>
 		<tr>
 			<td rowspan="3"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/53206_703164_76826/2025/53206/11527">Fondamenti di informatica</a></td>
@@ -212,7 +209,7 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 			<td rowspan="3">57</td>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=728AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/andrea-corradini-4316/">Corradini Andrea</a></td>
-			<td>ND</td>
+			<td rowspan="3"><a href="https://elearning.di.unipi.it/course/index.php?categoryid=2">Moodle</a>, <a href="https://www.microsoft.com/it-it/microsoft-teams/log-in?market=it">Teams</a></td>
 			<td>
 				<ul>
 					<li>Pretest</li>
@@ -224,7 +221,6 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 		<tr>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=728AA">B</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/filippo-bonchi-123768/">Bonchi Filippo</a></td>
-			<td><a href="https://elearning.di.unipi.it/course/index.php?categoryid=2">Moodle</a>, <a href="https://www.microsoft.com/it-it/microsoft-teams/log-in?market=it">Teams</a></td>
 			<td>
 				<ul>
 					<li>Test di valutazione online bisettimanali</li>
@@ -236,7 +232,6 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 		<tr>
 			<td><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=728AA">C</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/alessio-conte-136624/">Conte Alessio</a></td>
-			<td>ND</td>
 			<td>
 				<ul>
 					<li>Pretest</li>
@@ -251,7 +246,7 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 			<td rowspan="6"></td>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-A/2025/53206/11527?coorte=2025&adCodFraz=731AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/giulia-punzi-195205/">Punzi Giulia</a></td>
-			<td rowspan="2">ND</td>
+			<td rowspan="6"><a href="https://teams.microsoft.com/">Teams</a></td>
 			<td rowspan="4">
 				<ul>
 					<li>Compiti in itinere + Orale</li>
@@ -266,7 +261,6 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 		<tr>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-B/2025/53206/11527?coorte=2025&adCodFraz=731AA">B</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/giorgio-vinciguerra-172064/">Vinciguerra Giorgio</a></td>
-			<td rowspan="2"><a href="https://teams.microsoft.com/">Teams</a></td>
 		</tr>
 		<tr>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/jacopo-soldani-128445/">Soldani Jacopo</a></td>
@@ -274,7 +268,6 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 		<tr>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/11-C/2025/53206/11527?coorte=2025&adCodFraz=731AA">C</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/tommaso-turchi-182372/">Turchi Tommaso</a></td>
-			<td rowspan="2">ND</td>
 			<td rowspan="2">
 				<ul>
 					<li>Scritto</li>
@@ -292,7 +285,7 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 			<td rowspan="7">42</td>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-A/2025/53206/11527?coorte=2025&adCodFraz=735AA">A</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/anna-bernasconi-5852/">Bernasconi Anna</a></td>
-			<td rowspan="2">ND</td>
+			<td rowspan="7"><a href="https://classroom.google.com">Google Classroom</a></td>
 			<td rowspan="7">
 				<ul>
 					<li>Scritto</li>
@@ -307,7 +300,6 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 		<tr>
 			<td rowspan="2"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-B/2025/53206/11527?coorte=2025&adCodFraz=735AA">B</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/nadia-pisanti-1077/">Pisanti Nadia</a></td>
-			<td rowspan="2"><a href="https://classroom.google.com">Google Classroom</a></td>
 		</tr>
 		<tr>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/roberto-bruni-4248/">Bruni Roberto</a></td>
@@ -315,7 +307,6 @@ Non ti piacciono le celle con valori ND? Contribuisci aprendo una issue!
 		<tr>
 			<td rowspan="3"><a href="https://unipi.coursecatalogue.cineca.it/insegnamenti/2025/1-C/2025/53206/11527?coorte=2025&adCodFraz=735AA">C</a></td>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/roberto-grossi-5777">Grossi Roberto</a></td>
-			<td rowspan="3">ND</td>
 		</tr>
 		<tr>
 			<td><a href="https://www.unipi.it/ateneo/organizzazione/persone/corrado-priami-126061/">Priami Corrado</a></td>
