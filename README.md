@@ -24,7 +24,7 @@ https://github.com/plumkewe/informatica-unipi/
 [<img src="https://wsrv.nl/?url=github.com/filoghira.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Filippo Ghirardini" />](https://github.com/filoghira)
 [<img src="https://wsrv.nl/?url=github.com/plumkewe.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Lyubomyr Malay" />](https://github.com/plumkewe)
 [<img src="https://wsrv.nl/?url=github.com/Pitasi.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Antonio Pitasi" />](https://github.com/Pitasi)
-[<img src="https://wsrv.nl/?url=github.com/FCatinella.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Fabio Catinella" />](https://github.com/FabioCati)
+[<img src="https://wsrv.nl/?url=github.com/FabioCati.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Fabio Catinella" />](https://github.com/FabioCati)
 [<img src="https://wsrv.nl/?url=github.com/Guray00.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Marco Lampis" />](https://github.com/Guray00)
 [<img src="https://wsrv.nl/?url=github.com/FabioTomeiDev.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Fabio Tomei" />](https://github.com/FabioTomeiDev)
 [<img src="https://wsrv.nl/?url=github.com/Mxo01.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Mario Di Modica" />](https://github.com/Mxo01)
