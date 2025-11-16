@@ -89,6 +89,7 @@ https://github.com/plumkewe/informatica-unipi/
 		- [Mappa interattiva](#mappa-interattiva)
 		- [Mappa DSU](#mappa-dsu)
 		- [Mappa Musei di Ateneo](#mappa-musei-di-ateneo)
+		- [DOVE?UNIPI](#doveunipi)
 		- [Bot menu mense](#bot-menu-mense)
 		- [Convenzioni di ateneo](#convenzioni-di-ateneo)
 		- [GitHub Pro](#github-pro)
@@ -487,6 +488,9 @@ Le lezioni del primo anno si tengono nell’edificio D del Polo Fibonacci.
 </table>
 
 [Google Maps](https://maps.app.goo.gl/iYCT6VaziEFsiam16?g_st=ic)・[Apple Maps](https://maps.apple.com/place?address=Largo%20Bruno%20Pontecorvo%203,%2056127%20Pisa,%20Italy&coordinate=43.721188,10.407775&name=Polo%20Fibonacci&place-id=I88E823420B8E0D9F&map=explore)
+
+> [!TIP]
+> Usa [DOVE?UNIPI](https://plumkewe.github.io/dove-unipi/) per scoprire di più sugli spazi del Polo Fibonacci!
 
 ## Come accedere alle risorse
 
@@ -1320,6 +1324,21 @@ Consulta la mappa dei servizi della Carta dello Studente:
 Puoi visualizzare comodamente i musei che fanno parte del Sistema Museale di Ateneo e altri sulla mappa, che evidenzia sia questi sia altri musei situati a Pisa.
 
 **Link:** https://maps.app.goo.gl/m2AwsozWfqktJrCb7
+<!--  -->
+<!--  -->
+<!--  -->
+<hr>
+
+### DOVE?UNIPI
+
+È un’app web che permette di esplorare edifici, piani e aule del Polo Fibonacci dell’Università di Pisa, con mappe interattive e informazioni dettagliate su ciascuna aula. Sviluppata da me e da altri studenti, significa che anche tu puoi contribuire!
+
+**Link sito:** https://plumkewe.github.io/dove-unipi/
+
+**Link repository:** https://github.com/plumkewe/dove-unipi
+
+
+
 <!--  -->
 <!--  -->
 <!--  -->
