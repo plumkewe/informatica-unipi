@@ -29,6 +29,7 @@ https://github.com/plumkewe/informatica-unipi/
 [<img src="https://wsrv.nl/?url=github.com/FabioTomeiDev.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Fabio Tomei" />](https://github.com/FabioTomeiDev)
 [<img src="https://wsrv.nl/?url=github.com/Mxo01.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Mario Di Modica" />](https://github.com/Mxo01)
 [<img src="https://wsrv.nl/?url=github.com/Valecapi.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="" />](https://github.com/Valecapi)
+[<img src="https://wsrv.nl/?url=github.com/piorpiedev.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="piorpiedev" />](https://github.com/piorpiedev)
 
 
 <details  align="right">
@@ -40,6 +41,7 @@ https://github.com/plumkewe/informatica-unipi/
 		<a href="https://elearning.di.unipi.it/course/index.php?categoryid=2" target="_blank">E-learning</a><br>
 		<a href="https://classroom.google.com/" target="_blank">Classroom</a><br>
 		<a href="https://www.microsoft.com/it-it/microsoft-teams/log-in?market=it" target="_blank">Teams</a><br>
+		<a href="https://evo.di.unipi.it" target="_blank">Evo Learning</a><br>
 		<a href="https://di.unipi.it/" target="_blank">Dipartimento di Informatica</a><br>
 </details>
 
@@ -59,6 +61,7 @@ https://github.com/plumkewe/informatica-unipi/
 		- [Bookmarks](#bookmarks)
 - [Primo anno](#primo-anno)
 	- [Ripartizione](#ripartizione)
+		- [Orario prove in itinere](#orario-prove-in-itinere)
 	- [Aule](#aule)
 	- [Come accedere alle risorse](#come-accedere-alle-risorse)
 	- [Appunti](#appunti)
@@ -100,6 +103,8 @@ https://github.com/plumkewe/informatica-unipi/
 		- [UNiDAYS](#unidays)
 		- [UniversityBox](#universitybox)
 		- [Framer](#framer)
+		- [Whimsical](#whimsical)
+		- [Sketch](#sketch)
 	- [Eventi](#eventi)
 		- [pisa.dev](#pisadev)
 	- [Consigli](#consigli)
@@ -475,6 +480,19 @@ Una volta individuato il numero di matricola, occorre considerare le ultime due 
 * Corso C 67 =< 99
 
 [Info](https://didattica.di.unipi.it/laurea-in-informatica/ripartizione-degli-studenti-sui-corsi/)
+
+### Orario prove in itinere
+
+È disponibile un calendario delle prove in itinere che potete sincronizzare con il vostro (cercate su Google come farlo)
+
+**Link:** https://nextcloud.piorpie.com/apps/calendar/p/d4GDWNyzgYQWWNSF
+**Link per sincronizzare:** webcal://nextcloud.piorpie.com/remote.php/dav/public-calendars/d4GDWNyzgYQWWNSF?export
+
+Inoltre, in esclusiva per il corso A, è disponibile un calendario con le lezioni
+
+**Link:** https://nextcloud.piorpie.com/apps/calendar/p/2LBCcnJF4wE92zqt
+**LInk per sincronizzare:** webcal://nextcloud.piorpie.com/remote.php/dav/public-calendars/2LBCcnJF4wE92zqt?export
+
 
 ## Aule
 
@@ -1352,6 +1370,11 @@ Un comodo bot sviluppato da [Fabio Catinella](https://github.com/FCatinella) e F
 <!--  -->
 <!--  -->
 <!--  -->
+
+> [!NOTE]
+> A causa del nuovo aggiornamento di DSU, il bot è diventato obsoleto; per vedere i menu basta recarsi al sito: https://canteen.dsutoscana.cloud/menu/0/0/3/3
+
+
 <hr>
 
 ### Convenzioni di ateneo
@@ -1429,6 +1452,22 @@ Una piattaforma che offre sconti esclusivi per studenti universitari su una vast
 ### Framer
 
 **LInk:** https://www.framer.com/students/
+
+<!--  -->
+<!--  -->
+<!--  -->
+
+### Whimsical
+
+**LInk:** https://help.whimsical.com/billing/pricing#discounts
+
+<!--  -->
+<!--  -->
+<!--  -->
+
+### Sketch
+
+**LInk:** https://www.sketch.com/education/
 
 <!--  -->
 <!--  -->
