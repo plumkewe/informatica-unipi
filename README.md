@@ -13,7 +13,6 @@ https://github.com/plumkewe/informatica-unipi/
 > [!TIP]
 > Consiglio di [clonare questa repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) per avere accesso ai contenuti offline. La dimensione è di 2.4 GB. In alternativa, potete scaricare la versione essenziale (14 MB) seguendo questo [link.](https://files.catbox.moe/pepxms.zip)
 
-
 <!-- Nulla di interessante qui -->
 <!-- Nulla di interessante qui -->
 <!-- Nulla di interessante qui -->
@@ -30,7 +29,6 @@ https://github.com/plumkewe/informatica-unipi/
 [<img src="https://wsrv.nl/?url=github.com/Mxo01.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="Mario Di Modica" />](https://github.com/Mxo01)
 [<img src="https://wsrv.nl/?url=github.com/Valecapi.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="" />](https://github.com/Valecapi)
 [<img src="https://wsrv.nl/?url=github.com/piorpiedev.png?w=64&h=64&mask=circle&fit=cover" width="46" height="46" alt="piorpiedev" />](https://github.com/piorpiedev)
-
 
 <details  align="right">
 	<summary><h3>LINK VELOCI</h3></summary>
@@ -52,69 +50,69 @@ https://github.com/plumkewe/informatica-unipi/
 ## Indice
 
 - [Informatica L-31](#informatica-l-31)
-	- [Contributori](#contributori)
-	- [Indice](#indice)
-	- [Panoramica](#panoramica)
-		- [Appelli](#appelli)
-			- [Ordinari](#ordinari)
-		- [Sospensioni attività didattica](#sospensioni-attività-didattica)
-		- [Bookmarks](#bookmarks)
+  - [Contributori](#contributori)
+  - [Indice](#indice)
+  - [Panoramica](#panoramica)
+    - [Appelli](#appelli)
+      - [Ordinari](#ordinari)
+    - [Sospensioni attività didattica](#sospensioni-attività-didattica)
+    - [Bookmarks](#bookmarks)
 - [Primo anno](#primo-anno)
-	- [Ripartizione](#ripartizione)
-		- [Orario prove in itinere](#orario-prove-in-itinere)
-	- [Aule](#aule)
-	- [Come accedere alle risorse](#come-accedere-alle-risorse)
-	- [Appunti](#appunti)
-		- [Algebra lineare](#algebra-lineare)
-		- [Analisi matematica](#analisi-matematica)
-		- [Fondamenti di informatica](#fondamenti-di-informatica)
-		- [Laboratorio I](#laboratorio-i)
-		- [Programmazione ed Algoritmica](#programmazione-ed-algoritmica)
-	- [Link](#link)
-		- [Ufficiali](#ufficiali)
-		- [Portale Alice](#portale-alice)
-		- [Esami](#esami)
-		- [Sito del Corso di Laurea](#sito-del-corso-di-laurea)
-		- [E-Learning](#e-learning)
-		- [Evolearning](#evolearning)
-		- [Gruppo Telegram Ufficiale](#gruppo-telegram-ufficiale)
-		- [Orario](#orario)
-		- [Unimap](#unimap)
-		- [Occupazione aule](#occupazione-aule)
-		- [Sistema Bibliotecario di Ateneo](#sistema-bibliotecario-di-ateneo)
-		- [Onesearch](#onesearch)
-	- [Non ufficiali](#non-ufficiali)
-		- [Gruppo Telegram](#gruppo-telegram)
-		- [Gruppo Telegram Matricole](#gruppo-telegram-matricole)
-		- [Informateci](#informateci)
-	- [Servizi](#servizi)
-		- [Libretto sull app IO](#libretto-sull-app-io)
-		- [Mappa interattiva](#mappa-interattiva)
-		- [Mappa DSU](#mappa-dsu)
-		- [Mappa Musei di Ateneo](#mappa-musei-di-ateneo)
-		- [DOVE?UNIPI](#doveunipi)
-		- [Bot menu mense](#bot-menu-mense)
-		- [Convenzioni di ateneo](#convenzioni-di-ateneo)
-		- [GitHub Pro](#github-pro)
-		- [Office 365](#office-365)
-		- [Google Suite](#google-suite)
-		- [Autodesk Suite](#autodesk-suite)
-		- [Espresso](#espresso)
-		- [UNiDAYS](#unidays)
-		- [UniversityBox](#universitybox)
-		- [Framer](#framer)
-		- [Whimsical](#whimsical)
-		- [Sketch](#sketch)
-	- [Eventi](#eventi)
-		- [pisa.dev](#pisadev)
-	- [Consigli](#consigli)
-		- [Generali per le matricole](#generali-per-le-matricole)
-		- [Strategie per superare gli esami](#strategie-per-superare-gli-esami)
-		- [Organizzazione dello studio](#organizzazione-dello-studio)
-		- [Gestione del tempo e carico di lavoro](#gestione-del-tempo-e-carico-di-lavoro)
-		- [Vita sociale e relazioni](#vita-sociale-e-relazioni)
-		- [Strumenti didattici utili](#strumenti-didattici-utili)
-		- [Errori comuni da evitare](#errori-comuni-da-evitare)
+  - [Ripartizione](#ripartizione)
+    - [Orario prove in itinere](#orario-prove-in-itinere)
+  - [Aule](#aule)
+  - [Come accedere alle risorse](#come-accedere-alle-risorse)
+  - [Appunti](#appunti)
+    - [Algebra lineare](#algebra-lineare)
+    - [Analisi matematica](#analisi-matematica)
+    - [Fondamenti di informatica](#fondamenti-di-informatica)
+    - [Laboratorio I](#laboratorio-i)
+    - [Programmazione ed Algoritmica](#programmazione-ed-algoritmica)
+  - [Link](#link)
+    - [Ufficiali](#ufficiali)
+    - [Portale Alice](#portale-alice)
+    - [Esami](#esami)
+    - [Sito del Corso di Laurea](#sito-del-corso-di-laurea)
+    - [E-Learning](#e-learning)
+    - [Evolearning](#evolearning)
+    - [Gruppo Telegram Ufficiale](#gruppo-telegram-ufficiale)
+    - [Orario](#orario)
+    - [Unimap](#unimap)
+    - [Occupazione aule](#occupazione-aule)
+    - [Sistema Bibliotecario di Ateneo](#sistema-bibliotecario-di-ateneo)
+    - [Onesearch](#onesearch)
+  - [Non ufficiali](#non-ufficiali)
+    - [Gruppo Telegram](#gruppo-telegram)
+    - [Gruppo Telegram Matricole](#gruppo-telegram-matricole)
+    - [Informateci](#informateci)
+  - [Servizi](#servizi)
+    - [Libretto sull app IO](#libretto-sull-app-io)
+    - [LA MAPPA UniPi](#la-mappa-unipi)
+    - [Mappa DSU](#mappa-dsu)
+    - [Mappa Musei di Ateneo](#mappa-musei-di-ateneo)
+    - [DOVE?UNIPI](#doveunipi)
+    - [Bot menu mense](#bot-menu-mense)
+    - [Convenzioni di ateneo](#convenzioni-di-ateneo)
+    - [GitHub Pro](#github-pro)
+    - [Office 365](#office-365)
+    - [Google Suite](#google-suite)
+    - [Autodesk Suite](#autodesk-suite)
+    - [Espresso](#espresso)
+    - [UNiDAYS](#unidays)
+    - [UniversityBox](#universitybox)
+    - [Framer](#framer)
+    - [Whimsical](#whimsical)
+    - [Sketch](#sketch)
+  - [Eventi](#eventi)
+    - [pisa.dev](#pisadev)
+  - [Consigli](#consigli)
+    - [Generali per le matricole](#generali-per-le-matricole)
+    - [Strategie per superare gli esami](#strategie-per-superare-gli-esami)
+    - [Organizzazione dello studio](#organizzazione-dello-studio)
+    - [Gestione del tempo e carico di lavoro](#gestione-del-tempo-e-carico-di-lavoro)
+    - [Vita sociale e relazioni](#vita-sociale-e-relazioni)
+    - [Strumenti didattici utili](#strumenti-didattici-utili)
+    - [Errori comuni da evitare](#errori-comuni-da-evitare)
 
 <!--  -->
 <!--  -->
@@ -460,7 +458,7 @@ Come importare i segnalibri in: [Firefox](https://support.mozilla.org/it/kb/impo
 
 **Link:** https://files.catbox.moe/6n6ru0.html
 
-*In alternativa puoi trovare il file su altro/Bookmarks.html*
+_In alternativa puoi trovare il file su altro/Bookmarks.html_
 
 <!--  -->
 <!--  -->
@@ -474,10 +472,11 @@ Il piano di studio è disponibile su [Cineca ↗](https://unipi.coursecatalogue.
 
 ## Ripartizione
 
-Una volta individuato il numero di matricola, occorre considerare le ultime due cifre: 
-* Corso A 00 =< 33
-* Corso B 34 =< 66
-* Corso C 67 =< 99
+Una volta individuato il numero di matricola, occorre considerare le ultime due cifre:
+
+- Corso A 00 =< 33
+- Corso B 34 =< 66
+- Corso C 67 =< 99
 
 [Info](https://didattica.di.unipi.it/laurea-in-informatica/ripartizione-degli-studenti-sui-corsi/)
 
@@ -492,7 +491,6 @@ Inoltre, in esclusiva per il corso A, è disponibile un calendario con le lezion
 
 **Link:** https://nextcloud.piorpie.com/apps/calendar/p/2LBCcnJF4wE92zqt
 **LInk per sincronizzare:** webcal://nextcloud.piorpie.com/remote.php/dav/public-calendars/2LBCcnJF4wE92zqt?export
-
 
 ## Aule
 
@@ -974,7 +972,7 @@ Come se non bastasse, ci sono anche degli [appunti](primo-anno/analisi%20matemat
 │   ├── <a href="primo-anno/fondamenti%20di%20informatica/appunti/matteo-giuntoni/Fondamenti%20di%20informatica.pdf">Fondamenti di informatica.pdf</a> (233 pagine)
 │   └── <a href="primo-anno/fondamenti%20di%20informatica//appunti/matteo-giuntoni/Insiemi%20Relazioni%20e%20Logica%20-%20Formulario.pdf">Insiemi Relazioni e Logica - Formulario.pdf</a> (2 pagine)
 </pre>
-	
+
 ### Laboratorio I
 
 <p align="right">(<a href="#indice">indice</a>)</p>
@@ -1132,6 +1130,7 @@ Come se non bastasse, ci sono anche degli [appunti](primo-anno/analisi%20matemat
 ### Ufficiali
 
 L'Università di Pisa, come tutte le altre Università, ha una serie di portali e servizi che sono stati creati in momenti diversi e da persone diverse. Per questo potrebbe crearsi confusione nella miriade di siti e link e sezioni, ed è anche il motivo per cui sto creando questa _Guida_[^7]!
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1146,6 +1145,7 @@ Per immatricolarsi, è necessario registrarsi al sito, ricordatevi nome utente e
 Quindi ricapitolando questo portale vi servirà principalmente per stampare i MAV delle tasse e visualizzare gli esiti degli esami[^7].
 
 **Link:** https://www.studenti.unipi.it
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1158,6 +1158,7 @@ Anche questo è un portale generico per tutti gli studenti e consente l'iscrizio
 L'iscrizione ad un esame è **obbligatoria**, quindi ricordatevi di segnarvi a tutti gli esami che intendete sostenere per tempo! Meglio iscriversi e non presentarsi (non succede niente), piuttosto che dimenticarsi di farlo e non poter partecipare[^7].
 
 **Link:** https://esami.unipi.it
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1170,6 +1171,7 @@ Finalmente entriamo nello specifico, infatti ecco il sito ufficiale della Laurea
 Molto utile per vedere il calendario scolastico (i giorni di vacanza, inizio e termine lezioni, inizio e termine appelli), per vedere eventuali annunci (anche se non ce ne sono quasi mai), e avere un riferimento al regolamento ufficiale. Insomma, dalla sidebar di sinistra ci sono tante info utili che è bene guardare[^7]!
 
 **Link:** https://didattica.di.unipi.it/laurea-in-informatica
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1180,6 +1182,7 @@ Molto utile per vedere il calendario scolastico (i giorni di vacanza, inizio e t
 E-Learning è un portale che raccoglie siti per diversi corsi, nel senso che un professore può decidere di utilizzarlo come piattaforma all'interno del suo corso per condividere materiale, informazioni e annunci[^7].
 
 Sono ormai diversi i professori che lo utilizzano e la lista si trova a questo **indirizzo:** https://elearning.di.unipi.it/course/index.php
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1196,17 +1199,19 @@ Evo Learning è una piattaforma di apprendimento online che offre un’esperienz
 ### Gruppo Telegram Ufficiale
 
 **Link:** https://t.me/IannoInfPisa
+
 <!--  -->
 <!--  -->
 <!--  -->
 
 <hr>
 
-### Orario 
+### Orario
 
 Calendario pubblico che permette di vedere l’orario di tutte le classi senza la necessità di un account; se invece si vogliono visualizzare solo le materie del proprio corso, occorre usare [Agenda Didattica ↗](https://agendadidattica.unipi.it/)
 
 **Link:** https://unipi.prod.up.cineca.it/calendarioPubblico/linkCalendarioId=6319d6a9f7245e0c5c9094e3
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1217,6 +1222,7 @@ Calendario pubblico che permette di vedere l’orario di tutte le classi senza l
 Tramite questo portale potrai trovare dati relativi al personale, alle strutture, all’attività didattica e all’organizzazione dell’Università di Pisa.[^9]
 
 **Link:** https://unimap.unipi.it
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1227,6 +1233,7 @@ Tramite questo portale potrai trovare dati relativi al personale, alle strutture
 Tramite questo portale potrai controllare gli orari delle aule e vedere quali aule libere sono disponibile per studio e/o altre attività studentesche.[^9]
 
 **Link:** https://su.unipi.it/OccupazioneAule
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1237,6 +1244,7 @@ Tramite questo portale potrai controllare gli orari delle aule e vedere quali au
 Il portale del Sistema Bibliotecario di Ateneo, dove potrai controllare quali libri sono disponibili nelle varie biblioteche dell’Università, prenotare prestiti, consultare estratti e/o e-books.[^9]
 
 **Link:** https://www.sba.unipi.it
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1247,6 +1255,7 @@ Il portale del Sistema Bibliotecario di Ateneo, dove potrai controllare quali li
 Portale tramite il quale potrai accedere a molti servizi del Sistema Bibliotecario.[^9]
 
 **Link:** https://onesearch.unipi.it
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1262,6 +1271,7 @@ Il gruppo Telegram è un canale non ufficiale ma molto attivo dove studenti e st
 Non è un canale ufficiale dell’ateneo, quindi per informazioni certe è sempre meglio consultare i siti istituzionali, ma può essere un ottimo supporto extra per restare in contatto con la community!
 
 **Link:** https://t.me/+7oZznQ_DEUk0ODNk
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1299,19 +1309,20 @@ Attivarla è davvero semplice: scarica l’app IO, aprila, vai su “Servizi”,
 Così, ogni volta che un esame viene verbalizzato, riceverai subito l’avviso direttamente sul tuo telefono.
 
 **Leggi la notizia:** https://old.unipi.it/index.php/lista-comunicati-stampa/item/21115-il-libretto-degli-studenti-unipi-sbarca-sull-app-io
+
 <!--  -->
 <!--  -->
 <!--  -->
 <hr>
 
-### Mappa interattiva
+### La Mappa UniPi
 
-Una comoda mappa basata su Google Maps con tanti POI per gli studenti, creata da Tutors Fisica UniPi[^7]. (Non aggiornata)
+Non perderti più tra i dipartimenti! La guida interattiva definitiva per esplorare l'Università di Pisa: individua mense, biblioteche, aule e molto altro con un semplice tap.
 
-**Link:** https://www.google.com/maps/d/viewer?mid=15ElNsEFgwU9r9wPMi_oPp1XhZDA
+**Link:** https://unipi.lamappa.org/app
 
 > [!NOTE]
-> Esiste un'altra mappa, probabilmente più aggiornata: la [Fantamappa](https://www.google.com/maps/d/viewer?mid=1q4ousVeGWQnZX-5K3i_SYE3bBsky2tkv), realizzata da [Sinistraper](https://www.sinistraper.org/fantamappa/).
+> In alternativa, esistono versioni "storiche" basate su Google Maps: una creata da Tutors Fisica UniPi[^7] ([link](https://www.google.com/maps/d/viewer?mid=15ElNsEFgwU9r9wPMi_oPp1XhZDA)), e la [Fantamappa](https://www.google.com/maps/d/viewer?mid=1q4ousVeGWQnZX-5K3i_SYE3bBsky2tkv) realizzata da [Sinistraper](https://www.sinistraper.org/fantamappa/).
 
 <!--  -->
 <!--  -->
@@ -1329,7 +1340,7 @@ Consulta la mappa dei servizi della Carta dello Studente:
 **Link:** https://geografia.regione.toscana.it/mapstore/embedded.html?forceDrawer=true#/1132
 
 > [!NOTE]
-> Dall’a.a. 2025/2026 [non sarà più distribuita la Carta](https://www.unipi.it/ateneo/rapporti-internazionali/info-e-servizi-di-accoglienza/mense-universitarie/) Studente della Toscana: tutti gli studenti UniPi avranno su [Agenda Didattica ↗](https://agendadidattica.unipi.it/) un badge virtuale con foto e QR Code. In alternativa, l’accesso sarà possibile [mostrando un documento](https://www.dsu.toscana.it/come-si-accede#:~:text=Universit%C3%A0%20di%20Pisa,cassa%20la%20matricola.) di identità e comunicando la matricola alla cassa; è attiva anche l’app MyDSU per l’ingresso tramite QR Code. 
+> Dall’a.a. 2025/2026 [non sarà più distribuita la Carta](https://www.unipi.it/ateneo/rapporti-internazionali/info-e-servizi-di-accoglienza/mense-universitarie/) Studente della Toscana: tutti gli studenti UniPi avranno su [Agenda Didattica ↗](https://agendadidattica.unipi.it/) un badge virtuale con foto e QR Code. In alternativa, l’accesso sarà possibile [mostrando un documento](https://www.dsu.toscana.it/come-si-accede#:~:text=Universit%C3%A0%20di%20Pisa,cassa%20la%20matricola.) di identità e comunicando la matricola alla cassa; è attiva anche l’app MyDSU per l’ingresso tramite QR Code.
 > [Android](https://play.google.com/store/apps/details?id=com.ristocloudgroup.mydsu&pcampaignid=web_share)・[iOS](https://apps.apple.com/app/id6738960806)
 
 <!--  -->
@@ -1342,6 +1353,12 @@ Consulta la mappa dei servizi della Carta dello Studente:
 Puoi visualizzare comodamente i musei che fanno parte del Sistema Museale di Ateneo e altri sulla mappa, che evidenzia sia questi sia altri musei situati a Pisa.
 
 **Link:** https://maps.app.goo.gl/m2AwsozWfqktJrCb7
+
+> [!TIP]
+> Ti consigliamo vivamente di utilizzare **LA MAPPA UniPi**, che offre una sezione dedicata e interattiva per esplorare in maniera comoda tutti i musei di ateneo e non solo!
+
+**Link:** https://unipi.lamappa.org/museo
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1355,8 +1372,6 @@ Puoi visualizzare comodamente i musei che fanno parte del Sistema Museale di Ate
 
 **Link repository:** https://github.com/plumkewe/dove-unipi
 
-
-
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1367,6 +1382,7 @@ Puoi visualizzare comodamente i musei che fanno parte del Sistema Museale di Ate
 Un comodo bot sviluppato da [Fabio Catinella](https://github.com/FCatinella) e Frank che permette di visualizzare i menu delle diverse mense universitarie presenti sul territorio pisano.
 
 **Link:** https://t.me/menu_mense_pisa
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1374,12 +1390,12 @@ Un comodo bot sviluppato da [Fabio Catinella](https://github.com/FCatinella) e F
 > [!NOTE]
 > A causa del nuovo aggiornamento di DSU, il bot è diventato obsoleto; per vedere i menu basta recarsi al sito: https://canteen.dsutoscana.cloud/menu/0/0/3/3
 
-
 <hr>
 
 ### Convenzioni di ateneo
 
 **Link:** https://www.unipi.it/campus-e-servizi/opportunita-e-tempo-libero/convenzioni-di-ateneo-gli-sconti-per-studenti/
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1390,6 +1406,7 @@ Un comodo bot sviluppato da [Fabio Catinella](https://github.com/FCatinella) e F
 Il GitHub Student Developer Pack è un comodo pacchetto offerto da GitHub che mette a disposizione strumenti, servizi cloud e software gratuiti per studenti, utile per creare, testare e gestire progetti di programmazione.
 
 **Link:** https://education.github.com/pack
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1407,6 +1424,7 @@ Il GitHub Student Developer Pack è un comodo pacchetto offerto da GitHub che me
 ### Google Suite
 
 **Link:** https://start.unipi.it/gsuite/
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1415,6 +1433,7 @@ Il GitHub Student Developer Pack è un comodo pacchetto offerto da GitHub che me
 ### Autodesk Suite
 
 **Link:** https://www.autodesk.com/it/education/edu-software/overview
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1433,6 +1452,7 @@ Verificando lo stato dello studente, si ottiene l’abbonamento gratuito a Espre
 Una piattaforma che offre sconti e promozioni esclusivi per studenti su prodotti, servizi e marchi sia online che in negozi fisici.
 
 **Link:** https://www.myunidays.com
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1443,6 +1463,7 @@ Una piattaforma che offre sconti e promozioni esclusivi per studenti su prodotti
 Una piattaforma che offre sconti esclusivi per studenti universitari su una vasta gamma di prodotti e servizi.
 
 **Link:** https://www.universitybox.com
+
 <!--  -->
 <!--  -->
 <!--  -->
@@ -1495,57 +1516,70 @@ Una community di sviluppatori che organizza eventi gratuiti su varie tematiche p
 > Il seguente elenco di consigli è stato generato da ChatGPT sulla base delle informazioni raccolte su [r/universitaly](https://www.reddit.com/r/Universitaly/)
 
 ### Generali per le matricole
+
 - **Frequentare le lezioni e rivedere subito gli appunti.** Studiare seguendo le lezioni e correggere gli appunti a fine giornata facilita l’apprendimento.
 - **Trovare un metodo di studio personale.** Sperimentare metodi efficaci (es. OCME) e testarsi già nei primi appelli aiuta a capire il proprio livello.
 - **Collaborare e chiedere aiuto.** Confrontarsi con altri studenti e non esitare a contattare i professori è utile per approfondire.
 - **Essere proattivi socialmente.** Partecipare a uscite, associazioni e lezioni favorisce sia studio che relazioni sociali.
 
 ### Strategie per superare gli esami
+
 - **Pianificare il carico d’esami.** Dare priorità a quelli più impegnativi; evitarne troppi insieme.
 - **Schemi per gli orali.** Creare mappe concettuali aiuta a tenere ordine mentale durante l’esame.
 - **Flashcard e ripetizione dilazionata (Anki).** Strutturare gli appunti in flashcard e usare Anki migliora la memorizzazione.
 - **Simulazioni di esame.** Assistendo agli esami altrui si intuisce meglio il livello richiesto.
 
 ### Organizzazione dello studio
+
 - **Studiare in cicli con pause.** Ad esempio: 50 minuti di studio concentrato seguiti da 10 minuti di pausa.
 - **Ripasso continuo.** Ripassare costantemente facilita il mantenimento delle conoscenze nel tempo.
 - **Sfruttare i momenti liberi.** Anche brevi pause tra lezioni possono essere produttive per studio leggero.
 - **Coltivare hobby e mantenersi equilibrati.** Non trascurare la salute mentale e momenti di svago.
 
 ### Gestione del tempo e carico di lavoro
+
 - **Massimo efficace di studio.** 4–5 ore al giorno di studio intenso sono già ottimali; superare le 6–7 può provocare cali cognitivi.
 - **Evitare il procrastinare.** Non illudersi di avere sempre tanto tempo: pianifica da subito.
 - **Programmare gli esami.** Fare un calendario realistico e distribuire esami importanti.
 - **Uso di app anti-distrazioni.** App tipo Forest o Yeolpumta aiutano a restare concentrati (es. metodo Pomodoro).
 
 ### Vita sociale e relazioni
+
 - **Partecipazione attiva.** Andare a lezione, partecipare a gruppi e attività universitarie favorisce integrazione e studio.
 - **Compagni di studio motivati.** Studiare con persone produttive migliora le proprie performance.
 - **Prossimità con i professori.** Frequentare le ore di ricevimento e i feedback migliora il rapporto con i docenti.
 
 ### Strumenti didattici utili
+
 - **Anki e flashcard digitali.** Flashcard dinamiche con immagini, audio e formule aiutano il ripasso.
 - **App per concentrazione.** Strumenti come Forest, Yeolpumta, timer Pomodoro aiutano a gestire lo studio.
 - **Risorse condivise online.** Appunti e dispense (con criterio), mappe concettuali, Notion o Trello aiutano l’organizzazione.
 
 ### Errori comuni da evitare
-- **Studiare solo all’ultimo momento.** Evitare di rimandare troppo, in particolare la tesi.  
+
+- **Studiare solo all’ultimo momento.** Evitare di rimandare troppo, in particolare la tesi.
 - **Sottovalutare l’università rispetto al liceo.** Le conoscenze devono essere solide, non superficiali.
 - **Saltare le lezioni.** Recuperare da soli può essere molto complicato.
 - **Fare troppi esami insieme.** Preparare con cura pochi esami è meglio che tanti superficialmente.
 - **Competizione malsana.** Confrontarsi negativamente con gli altri può generare ansia inutile.
 - **Isolamento o perfezionismo eccessivo.** Evita gruppetti chiusi o aspettative irrealistiche.
 
+[^1]: Questi appunti sono disponibili sulla [repository](https://github.com/bigmat18/Appunti-Informatica-UNIPI) di Matteo con licenza WTFPL.
 
-
-
-[^1]: Questi appunti sono disponibili sulla [repository](https://github.com/bigmat18/Appunti-Informatica-UNIPI) di Matteo con licenza WTFPL. 
 [^2]: Gli appunti del professor Gobbino si trovano sul suo [sito](https://pagine.dm.unipi.it/gobbino/Home_Page/AD_AL_24.html) personale.
+
 [^3]: Gli appunti del professor Pearlstein sono stati trovati sulla repository [IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica).
+
 [^4]: Gli appunti del professor Szamuely si trovano sul suo [sito](https://pagine.dm.unipi.it/tamas/teaching.html) personale.
+
 [^5]: I materiali aggiuntivi sono stati trovati sulla repository [IngegneriaInformatica](https://github.com/Guray00/IngegneriaInformatica).
+
 [^6]: Gli appunti del professor Gobbino si trovano sul suo [sito](https://pagine.dm.unipi.it/~a009199/Home_Page/AD_AM1_25.html) personale (versione più recente del 2024).
+
 [^7]: Tale informazione è stata presa dalla repository [informateci-faq](https://github.com/Pitasi/informateci-faq) di Antonio Pitasi, admin del gruppo non ufficiale.
+
 [^8]: Gli esercizi e le prove d'esame del professor Gobbino si trovano sul suo [sito](https://pagine.dm.unipi.it/gobbino/Home_Page/AD_Esercizi.html) personale.
+
 [^9]: Il seguente testo è stato preso dal sito [sinistraper.org](https://www.sinistraper.org/link-utili/)
+
 [^10]: Questi appunti sono stati presi dal sito [Informateci.it](https://www.informateci.it/viewtopic.php?t=4356)
