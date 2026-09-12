@@ -1554,6 +1554,7 @@ Una community di sviluppatori che organizza eventi gratuiti su varie tematiche p
 - **Anki e flashcard digitali.** Flashcard dinamiche con immagini, audio e formule aiutano il ripasso.
 - **App per concentrazione.** Strumenti come Forest, Yeolpumta, timer Pomodoro aiutano a gestire lo studio.
 - **Risorse condivise online.** Appunti e dispense (con criterio), mappe concettuali, Notion o Trello aiutano l’organizzazione.
+- **Guida a TypeScript.** [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it/) è una guida gratuita e open source in italiano.
 
 ### Errori comuni da evitare
 
